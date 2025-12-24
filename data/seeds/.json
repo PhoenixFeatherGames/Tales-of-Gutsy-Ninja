@@ -1,0 +1,8 @@
+{
+  "slug": "",
+  "title": "陰 火 風 雷 土 水 陽",
+  "type": "village",
+  "file": "character-sheet-template.md",
+  "rawFile": "character-sheet-template.txt",
+  "content": "> 陰 火 風 雷 土 水 陽\n> About ?\n> Clan: ?\n> Village: ?\n> Gender: M / F / Other\n> Birthday: (Date of Month, Year)\n> Age: #\n> Height: #'#\"#\n> Chakra Natures: (Limit 2)\n> Personality: ?\n> Likes: ?\n> Dislikes: ?\n> History: ?\n> Nindo: (Ninja Way/ personal code you live by)\n> Traits  (30 points)\n> Intelligence: #\n> Strength: #\n> Speed: #\n> Stamina: #\n> Will: #\n> Health Points: #/# (Strength+Stamina\u0000B7*2)\n> Defensive Points: #/# (Int+Stamina)\n> Evasion Points: #/# (Int+Speed)\n> Chakra Pool: #/# (Int+Sta+Will)\n> Offensive Points: # (Speed+Stamina)/2)\n> Ranged Offensive Points: # (Int+Sta)\u0000F7 4)\n> Initiative: # (EP+OP)\n> Jutsu Skill  (5 Points)\n> Ninjutsu: #\n> Genjutsu: #\n> Taijutsu: #\n> Fuinjutsu: #\n> Iryojutsu: #\n> Bukijutsu: #\n> Kenjutsu: #\n> Status\n> Shinobi Title: Genin\n> Shinobi Rank: D\n> Experience: # (Added Trait Points)\n> Chakra Control: # (Added Jutsu Skill Points)\n> Potential: (EXP+Chakra C.)\n> Jutsu Bank : #/# (# of Jutsu techniques known / number knowable, (Potential\u0000F7 5. Round Down.)\n> Missions Completed: #\nD:\nC:\nB:\nA:\nS:\n> Confirmed Kills: #\n> Equipment #/# ((Str+Sta)\u0000F7 3. Round down)\n> Ry\u00014D: \u00014D10,000\n> Items\n>\n> Weapons\n>\n> Gear\n>"
+}

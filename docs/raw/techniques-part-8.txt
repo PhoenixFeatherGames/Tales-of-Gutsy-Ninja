@@ -1,0 +1,199 @@
+[|] Kagemane no Jutsu [|]
+[Bcu][|] Shadow Imitation Technique [|]
+
+[Bc]Rank:
+[c]C-Rank Hijutsu,  Active 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must be of the Nara Clan.
+[Bc]Cost:
+[C]15 Chakra Points per minute/round. Cost is halved when used on willing targets.
+[Bc]Description:
+[C]The Shadow Imitation Technique, sometimes called the shadow possession technique, is the signature technique of the Nara clan. The user manipulates their shadow across a surface to merge it with a target or targets' shadow. The user can stretch their shadow however they wish, up to a distance of meters equal to their ROP+"Deer Shadow",  in order to accomplish this goal, but they are limited by their shadow's surface area, meaning that if a target can move far enough away from the Shadow Imitation's user, they are theoretically safe from it. But there are ways around this: the user's shadow can freely move within other shadows, extending its range, such as creating a flash of light to briefly extend their own shadow or to extend his targets', doubling the effective range. The user may also connect their shadow to another shadow, allowing them to extend the range by +50%, but reducing this extention by 10% per connected shadow. The user must have a shadow to manipulate, and so the Shadow Imitation cannot be used in complete darkness.
+
+[C]Once a user merges their shadow with a target's, the castor may restrain the target, rendering them unable to move on their own other than to talk. The only movements they are able to make are those that the user makes: if the user walks forward, the target walks forward; if the user raises their right hand, the target raises their right hand, etc. The user may also connect their shados to a target, either willingly or without their knowledge,  waiting for them to move closer to another target before restricting connected parties. Doing so may double the shadows base reach.
+
+[C]Controlling the targets body is treated as a grapple of the target's Str vs the castor's Sta+"Deer Shadow". The user may take hold of multiple targets at once if they are in range to be connected by the shadows, but the user mist grapple with the strength of all trapped parties. If the target or user are forcibly moved while connected, this will still refect onto both parties.
+
+[|] Bubun Baika no Jutsu [|]
+[Bcu][|] Partial Expansion Technique [|]
+
+[Bc]Rank:
+[c]C-Rank Hijutsu,  Active, Reactive 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Yang
+[BC]Prerequisite 
+[C]Must be of the Akimichi Clan.
+[Bc]Cost:
+[C]5 Chakra Points & 50 Calories per 100% increase  per minute/round. Cost is doubled if expanding two limbs.
+[Bc]Description:
+[C]Partial Expansion is one of the unique hijutsu techniques of the Akimichi clan where the user increases the size of only specific body parts, typically the arms and legs. Because of the larger size, physical attacks made with the expanded limbs do greater damage than normal aswell as show to be more durable. 
+
+[C]If you use this ability on a limb, it will double it's size! Increasing it's size by 100% will increase your strength with that arm by 50% and give you +25% temp DP when using the limb to block attacks!
+
+[C]You may also use this ability on your torso aswell, but it will make your torso round like a ball, which makes movement difficult, halving your land speed, OP, and ROP unless using the "[Human Boulder Technique|http://aminoapps.com/p/ssoflog]".
+
+[|] Fukuwajutsu [|]
+[Bcu][|] Ventriloquism [|]
+
+[Bc]Rank:
+[c]E-Rank, Hijutsu, Passive
+[Bc]Technique:
+[c]Kugujutsu
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite 
+[C]Must be a member of the [Chikimatsu|http://aminoapps.com/p/uia1nw] Clan
+[Bc]Cost:
+[C]1 Chakra Points per 1 Meter Voice Thrown
+[Bc]Description:
+[C]Ventriloquism is an act of stagecraft in which a person (a ventriloquist) speaks in such a way that it looks like their voice is coming from a different location, usually through a puppet known as a "dummy". The act of ventriloquism is ventriloquizing, and the ability to do so is commonly called in E the ability to "throw" one's voice.
+
+[C]The term "throwing your voice" is a misconception about traditional ventriloquism however, as the voice always comes from the ventriloquist. However, a skilled ventriloquist can make it sound like their voice is coming from far away by varying its modulation and level in volume and pitch. 
+
+[C]Members of the Chikimatsu clan take this one step further however by incorporating their shinobi techniques,  capable of literally carrying their voice from one point to release in another by simply molding the chakra through their mouth as they form their words!  
+
+[C]Of course, they pick up the traditional practice aswell when learning this technique, able to "throw" their voice 1 foot away for every 10 points in their Kugujutsu score without using any chakra at all, adding this traditional form's distance aswell to  the total distance of this technique!
+
+[C]Typically, this may used in conjunction with their "Puppet Technique" to give the illusion that the puppet itself is the one speaking, while keeping their true position hidden from view, however this may also be cleverly employed as misdirection to trick one into looking the otherway to the sound of your voice as you make a clean getaway, or use this moment of distraction to make a half stealth attack, assuming the target is not smart enough to catch wise... Other potential uses may vary far or few, limited inly by the performer's own creativity!
+
+[|] Kugutsu no Jutsu [|]
+[Bcu][|] Puppet Technique [|]
+
+[Bc]Rank:
+[c]C-Rank Hijutsu, Passive
+[Bc]Technique:
+[c]Kugutsu
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite 
+[C]Must be of the [Chikamatsu Clan|http://aminoapps.com/p/uia1nw]
+[Bc]Cost:
+[C]2 Chakra Points per thread per minute
+[Bc]Description:
+[C]The Puppet Technique is the core skill of a puppeteer's fighting style, whereby they control a weaponized puppet. Performing the Puppet Technique involves emitting chakra threads from a user's fingers to connect to a puppet, with the fingers' movements controlling the puppet's actions. Less experienced users will connect all ten of their fingers to a single puppet, with each finger controlling a specific joint or mechanism. As a user becomes more experienced they require fewer threads to control a single puppet, until finally they can control a puppet using only one thread. With this growing mastery, users also become able to control multiple puppets at a time. 
+
+[C]A puppet made out of anything other than wood costs twice as much to wield, and if these threads are used on unwilling  people, treat them as a "Stunned", (able to be forcebly moved at half speed), using 10% of Puppeteer's ROP per thread vs their target's Strength to break free, as if they were grappled. The furthest a puppet may be from its wielder is equal to the wielders own ROP. A puppets total OP is equal to it's own OP, (if any), plus the user's ROP. The total melee attack of a puppet would deal damage equal to half of the user's ROP, plus any additional damage the puppet may have. 
+
+[C]Newer puppeteers may control one XL Sized Puppet, or XL Puppet Part, about 2 meters in size, at a time, requiring 10 threads to maneuver. For reference,  an XXL sized puppet is about 4 meters in size; XL=2m, 10 threads; L= 1m, 8 Threads; Sm= 1'6", 6 Threads; T= 9", 4 Threads.
+
+[|] Megakuramu Hai no Jutsu [|]
+[Bcu][|] Blinding Ash Technique [|]
+
+[Bc]Rank:
+[c]E-Rank, Hijutsu, Active, Reactive
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Fire 
+[BC]Prerequisite 
+[C]Sarutobi Liniage
+[Bc]Cost:
+[C]4 Chakra Points
+[Bc]Description:
+[C]Ironically,  the Sarutobi developed this technique in order to snuff out or contain controled fires, however, it can be a very damaging substance, so saftey is advised when breathing out this stream of literal ash, that also obscures extra sensory abilities from the chakra infused ash, and to keep away from one's face and eyes...
+
+[C]If a living being is unfortunate enough to be at the other end of these cinders, they will recieve +1 Burn(Acid), and +1 Temp half blindess as the ash spreads into thecair and floats into their eyes, or +1 Temp Blindness if directly striking the target's face which would also cause choking damage. This pew of ash is spat using the castors ROP+4. Each additional +2ChP poured into this increases all effects by+1, and ROP+2.
+
+[|] Haijingakure no Jutsu [|]
+[Bcu][|] Hiding in Ash Technique [|]
+
+[Bc]Rank:
+[c]D-Rank, Hijutsu, Active, Reactive
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Fire 
+[BC]Prerequisite 
+[C]Sarutobi Liniage
+[Bc]Cost:
+[C]8 Chakra Points
+[Bc]Description:
+[C]The user expels chakra-infused ash that blanket a wide area, burning anyone who comes in contact with it. The technique can also be used as a powerful deterrent from attacks as well as a highly effective smokescreen. This technique is a far more effective substitute for smoke bombs as it can even obscure extra sensory abilities from the chakra infused ash.
+
+[C]At it's lowest level, this covers a 2m×2m×2m area, needing +8ROP if in range to attempt evading. This treats anyone inside as hidden and blinded, and causing +1 Burn(Acid) per round inside this cloud, which lasts 3 rounds, and also causes Suffication unless those inside can hold theor breath long enough... Every additional 4 Chakra points added increases Burn(Acid), rounds, and all dimensions by +1, which increases ROP by +4.
+
+[|] Hai Bunshin no Jutsu [|]
+[Bcu][|] Ash Clone Technique [|]
+
+[Bc]Rank:
+[c]C-Rank, Active, Reactive
+[Bc]Technique:
+[c]Ninjutsu, Genjutsu (Physical)
+[Bc]Element:
+[C]Fire
+[BC]Prerequisite 
+[C]Must know [|][Clone Jutsu|http://aminoapps.com/p/wcw989][|], 50 Chakra, Must be of Sarutobi Lineage Control
+[Bc]Cost:
+[C]9% Total ChP and 1g of Ash
+[Bc]Description:
+[C]The user molds their fire chakra, together with the ash within their own lungs, to form into one or several identical clones. Unlike regular clones, ones generated by this method do not just disappear when struck with sufficient force, but rather burn the surounding area and leave a fog of blinding ash.
+
+[C]Ash Clones stats are 10% that of the origional castors stats and are able to cast any jutsu of the summoner. Unlike the basic Clone Technique, ash clones are physically real. They possess the same clothing, damage, and transformations as the user at the time of their creation. Most tools and weaponry are copied when the shadow clones are created, but complicated technology or effects won't be duplicated. Because they are visually identical and possess the same chakra as the user, fire clones are indistinguishable from their original, not even by dōjutsu other than the Byakugan, Mangekyo Sharingan, or presumably, the Rinnegan or Tenseigan. 
+
+[C]Because they have their own chakra, ash clones can perform other jutsu, including making more ash clones. Unlike other clones, these don't just disperse, but rather discharge hot ash, burning anyone and anything within ROP range when "dispersed", causing the "Burn" status. This cloud deals damage equal to half the ChP of the clone before being dispersed, dealing +1 Burn and +10ROP +1 Round per 10 ChP, it's ROP determines how much EP is needed to dodge aswell as the diameter of it's blackened fog, which remains for one round, temporarily blinding any within it's area of effect while also granting those within stealth coverage. Ash clones will also disperse once they or their castor runs out of their ChP or HP. When a clone's task is completed, it can disperse itself or be dispersed by its user.
+
+[|] Hairyūdan no Jutsu [|]
+[Bcu][|] Ash Dragon Bullet Technique [|]
+
+[Bc]Rank:
+[c]B-Rank, Active
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Fire
+[BC]Prerequisite 
+[C]100 Chakra Control, Sarutobi Lineage 
+[Bc]Cost:
+[C]30 Chakra Points
+[Bc]Description:
+[C]The user moulds the ash from their lungs into the shape of a dragon, which they then direct at a target. The burning ashes crash through the target, dealing significant physical damage, and burns, as well as a blinding shroud of ashen debris. The more talented the user, the greater the amount of ash that the dragon can be made from ash produced.
+
+[C]This fierce pyre has a diameter of 3 meters, and can stretch out up to 15 meters in length! The sheer force of impact from this beast deals 20 damage, +1 Burn(Acid), and easily knock prone any unable to evade the user's ROP +15, as well as leaving a similarly sized trail of ashen cloud in place of its body upon being dispelled, or a 20m Diameter cloud of burning ash upon crashing into a solid area instead, that also obscures extra sensory abilities from the chakra infused ash and takes 6 seconds to settle, causing +1°Burn(Acid) per round and Temporary Blindness, as well as offering Half Stealth, to those inside. For each additional 15ChP, a skilled castor may increase the size by 2 meter in width and 3 meters in length, increasing the Damage by +10, +1 Burn(Acid), ROP by +5, and increasing the Diameter of the ashen cover by +6m, lasting an additional 6 seconds.
+
+[|] Shintenshin no Jutsu [|]
+[Bcu][|] Mind Transfer Technique [|]
+
+[Bc]Rank:
+[c]C-Rank Hijutsu,  Active 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must be of the Yamanaka Clan.
+[Bc]Cost:
+[C]15 Chakra Points per minute/round. Cost is halved when used on willing targets.
+[Bc]Description:
+[C]The Mind Body Switch Technique is the signature technique of the Yamanaka clan. The user converts their consciousness to spiritual energy, which they send at a target. Their consciousness moves slowly towards the target and travels in a straight line reaching meters equal to the castor's ROP+"Boar Mind". If the user misses their target, it will take several minutes for their consciousness to find its way back to their own body.
+
+[C]The user converts their consciousness to spiritual energy with their chakra, which they may then project into a living targets mind. If the user misses their target, it will take 1 minute per meter away for their consciousness to find its way back to their own body. When their consciousness does successfully make it to the target, the user supplants the target's mind and takes total control of their body.
+
+[C]When hijacking anothers body, the user's collapses. Controlling the body is treated as a grapple of the target's Will vs the castor's Will+"Boar Mind". Any damage sustained to the posessed body will reflect on the user's own origional body. If the user willingly releases this ability, they will instantly return to their own. If the user is forced out, it will rake rounds equal to meters away from their body to return to it.
+
+[|] Nikudan Sensha [|]
+[Bcu][|] Human BoulderTechnique [|]
+
+[Bc]Rank:
+[c]C-Rank Hijutsu,  Active 
+[Bc]Technique:
+[c]Taijutsu 
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite 
+[C]Be a member of the Akimichi clan.
+[Bc]Cost:
+[C]10 Evasion Points
+[Bc]Description:
+[C]This is a "showy" taijutsu unique to members of the Akimichi clan. This is most often used after growing in size with the Multi-Size/Expansion Technique, or even the " [Partial Expansion|http://aminoapps.com/p/rmp0lt]" jutsu when expqnding their torso, the Akimichi tucks themselves into a ball and rolls towards a target. Due to their increased weight and the force of their rotation, most obstacles are pulverised upon contact. However,  
+the ball's speed also makes it difficult to turn, forcing users to stop spinning entirely if they want to make significant changes in direction.
+
+[C]When using this ability, the user's full strength score deals damage instead of half since they are using the propelled force of their entire body! Given some mobile limitations, and the use of the body as a charging weapon, the user uses ROP instead of OP when atraching with this technique.
+
+[|] Jūken [|]
+[Bcu][|] Gentle Fist [|]

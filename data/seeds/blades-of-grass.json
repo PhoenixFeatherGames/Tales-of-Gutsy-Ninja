@@ -1,0 +1,69 @@
+{
+  "slug": "blades-of-grass",
+  "name": "Blades of Grass (Kusa no Ken)",
+  "type": "enemy-group",
+  "count": 3,
+  "traits": {
+    "intelligence": 20,
+    "strength": 20,
+    "speed": 20,
+    "stamina": 20,
+    "will": 20
+  },
+  "stats": {
+    "hp": 80,
+    "maxHp": 80,
+    "dp": [54, 56, 58],
+    "maxDp": [54, 56, 58],
+    "ep": 40,
+    "maxEp": 40,
+    "chakra": 60,
+    "maxChakra": 60,
+    "offense": 20,
+    "rangedOffense": 10,
+    "initiative": 60
+  },
+  "status": {
+    "title": "Chūnin",
+    "rank": "C",
+    "jutsuBank": 33
+  },
+  "jutsu": {
+    "E": [
+      { "name": "Advanced trajectory", "url": "http://aminoapps.com/p/hodnukl" },
+      { "name": "Crescent moon beheading", "url": "http://aminoapps.com/p/9b1xva" },
+      { "name": "Heavy Breeze Jutsu", "url": "http://aminoapps.com/p/uxkekk" },
+      { "name": "Clone Jutsu", "url": "http://aminoapps.com/p/wcw989" }
+    ],
+    "D": [
+      { "name": "Tree climbing technique", "url": "http://aminoapps.com/p/ss5yzz" },
+      { "name": "Water Walking Jutsu", "url": "http://aminoapps.com/p/5rfr16" },
+      { "name": "Body flicker technique", "url": "http://aminoapps.com/p/jva9t01" },
+      { "name": "The Four Stances (Wind)", "url": "http://aminoapps.com/p/a85nshs" },
+      { "name": "Flowing Disarm", "url": "http://aminoapps.com/p/f4p4zg" },
+      { "name": "Wind Step", "url": "http://aminoapps.com/p/l67309" },
+      { "name": "Tornado Entrapment", "url": "http://aminoapps.com/p/do3jxei" }
+    ],
+    "C": [
+      { "name": "Chakra Flow", "url": "http://aminoapps.com/p/6ce2ro" },
+      { "name": "Wind Clone Jutsu", "url": "http://aminoapps.com/p/l56yml" }
+    ]
+  },
+  "equipment": {
+    "items": [],
+    "weapons": [
+      { "name": "Senbon", "quantity": 3, "effect": "Sharp, 2Dmg, +7ROP", "grade": "C-" },
+      { "name": "Kunai", "quantity": 2, "effect": "Sharp, 5Dmg, +5DP, +5ROP", "grade": "C+" },
+      { "name": "Wakizashi", "effect": "Sharp, +9Dmg, +18DP", "grade": "A" },
+      { "name": "Katana", "effect": "Sharp, +11Dmg, +16DP", "grade": "A" },
+      { "name": "Odachi", "effect": "Sharp, +13Dmg, +14DP", "grade": "A", "twoHanded": true }
+    ],
+    "gear": [
+      { "name": "Kusa Headband", "effect": "+10 DP" },
+      { "name": "Kusa Flak Jacket", "effect": "+20DP, Must be Chuunin", "grade": "C+" }
+    ]
+  },
+  "behavior": [
+    "Hyper radicalized, nationalists that will fight to the death, believing allying with Konoha and the land of fire will cause dependence on the larger state, leading to a pollution of their demographics, replacing their ethnic majority."
+  ]
+}

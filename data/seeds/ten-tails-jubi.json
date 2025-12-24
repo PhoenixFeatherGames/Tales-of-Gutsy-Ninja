@@ -1,0 +1,52 @@
+{
+  "slug": "ten-tails-jubi",
+  "name": "Ten-Tails",
+  "aliases": ["Jūbi","Gyokuto"],
+  "type": "Bijū",
+  "rank": "Z",
+  "title": "Deity of Deities",
+  "height": "300' / 100m",
+  "description": "The Ten-Tails (十尾, Jūbi) is the combined form of Kaguya Ōtsutsuki and the God Tree, the progenitor of chakra. Its chakra was split into the nine tailed beasts to prevent its rampage.",
+  "traits": {
+    "intelligence": 300,
+    "strength": 300,
+    "speed": 300,
+    "stamina": 300,
+    "will": 300,
+    "hp": "1200/1200",
+    "dp": "600/600",
+    "evp": "505/505(300)",
+    "godChakraPool": "900/900",
+    "op": "395(300)",
+    "rop": "245(150)",
+    "initiative": 450,
+    "jutsuBank": "400/400"
+  },
+  "naturalWeapons": [
+    {"name":"Bite","tags":"Sharp×2","damage":"+44"},
+    {"name":"Demonic Fist","count":2,"damage":"+25"},
+    {"name":"Demonic Feet","count":2,"damage":"+25"}
+  ],
+  "naturalAbilities": [
+    "Heightened Senses",
+    "Sensory Type: can sense chakra signatures (range = ROP + Will)",
+    "Husk of the Jūbi: grows with absorbed chakra and may awaken to final form",
+    "Jūbivenation: can burn God-level chakra to recover HP and restore limbs/statuses",
+    "Divine Tree: consuming a pure Ōtsutsuki may transform it into the God Tree"
+  ],
+  "jutsu": [
+    "Clap of Thunderstorms",
+    "Stomping Earthquake",
+    "Tsunami Spit",
+    "Wildfire Breath",
+    "Roaring Tornado",
+    "Splinter Cell Fission",
+    "Phantom Dragons Nine Consuming Seals",
+    "Demonic Statue Chains",
+    "Wood Release: Cutting Technique",
+    "Black Receiver",
+    "Tailed Beast Bomb",
+    "Truth Seeking Orbs"
+  ],
+  "sourceRaw": "pasted-bijuu.txt"
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "alpha-wolf",
+  "name": "Alpha Wolf",
+  "traits": {"intelligence": 15, "strength": 30, "speed": 15, "stamina": 30, "will": 10, "hp": 120, "dp": 45, "evp": 30, "op": 28, "rop": 12, "initiative": 45},
+  "naturalWeapons": [
+    {"name": "Bite", "tags": "Sharp", "damage": "+15"},
+    {"name": "Claw", "count": 2, "tags": "Sharp", "damage": "+6"}
+  ],
+  "naturalAbilities": [
+    "Heightened Senses: twice as hard to stealth/hide from, halved Blind/Deaf effects",
+    "Quadruped: double land speed, disabled limb counts as arm and leg",
+    "Night Vision: normal in dim, half-blind in darkness",
+    "Pack Tactics: +10EP/OP when near pack",
+    "Fight or Flight: flees at 10% HP or less"
+  ],
+  "sourceRaw": "pasted-missions-c.txt"
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "wolf-gang",
+  "name": "Wolf Gang",
+  "rank": "C",
+  "village": "Konoha",
+  "client": "Village Council",
+  "mission": "A wolf pack (three wolves, one alpha) is attacking travelers near the village. Eradicate or subdue them for possible relocation. Bonus for live/healthy capture. Minor wounds are acceptable.",
+  "creatures": ["alpha-wolf", "wolf"],
+  "sourceRaw": "pasted-missions-c.txt"
+}

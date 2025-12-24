@@ -1,0 +1,8 @@
+[Bcu]Each coordinate is 100×100 miles in size, making this map miles 3,600mi×5,400mi in total. Each major village, (such as Konaha) is 10mi×10mi in size, each minor village, (such as the Sound), is 5mi×5mi in size.
+[Bcu]When traveling accross this map:
+[B]Miles= Stamina
+[B]Time= (300-Speed) Minutes, ÷60 & Round Up for Hours
+[B]MPH= Miles ÷ Time (Hours), Round Down
+[Bcu]If traveling in a group, travel using the lowest speed in the group and lowest stamina in order to travel as a unit.
+[Bcu]Coordinates will be relative to their countries ninja village. As an Example, Konoha Village would be Fire (0,0), one coordinate to the right would be Fire (1,0), one up and to the right would be Fire (1,1), down and left, Fire (-1,-1), etc. Make note of your coordinates whenever traveling.
+*Someone with 50 Speed and 50 Stamina travel at 50÷((60+250)÷60)=10MPH (Round down to nearest whole #), equaling 10 hours to travel 100 miles, ie, 1 coordinate. This traveling time assumes those traveling have to take occasional breaks.

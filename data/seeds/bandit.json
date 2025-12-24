@@ -1,0 +1,10 @@
+{
+  "slug": "bandit",
+  "name": "Bandit",
+  "traits": {"intelligence": 10, "strength": 8, "speed": 12, "stamina": 12, "will": 3, "hp": 40, "dp": 24, "evp": 22, "chakraPool": 25, "op": 12, "rop": 6, "initiative": 34},
+  "equipment": [
+    {"name": "Simple Chain", "tags": "5ft", "damage": "+5", "dp": "+5", "rank": "C"},
+    {"name": "Knife", "tags": "Sharp", "damage": "+4", "rop": "+2", "rank": "D+"}
+  ],
+  "sourceRaw": "pasted-missions-c.txt"
+}

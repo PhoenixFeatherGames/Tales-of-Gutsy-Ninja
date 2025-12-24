@@ -1,0 +1,9 @@
+{
+  "slug": "trash-day",
+  "name": "Trash Day",
+  "rank": "D",
+  "village": "Konoha",
+  "client": "Village Council",
+  "mission": "Assist Leaf Waste Management (LWM) by collecting and properly disposing of litter around the village, ensuring all waste is sorted and the streets are spotless before LWM empties the bins.",
+  "sourceRaw": "pasted-missions.txt"
+}

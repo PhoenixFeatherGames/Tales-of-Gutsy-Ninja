@@ -1,0 +1,32 @@
+{
+  "slug": "mercenary",
+  "name": "Mercenary",
+  "type": "enemy",
+  "traits": {
+    "intelligence": 20,
+    "strength": 20,
+    "speed": 20,
+    "stamina": 20,
+    "will": 10
+  },
+  "stats": {
+    "hp": 80,
+    "maxHp": 80,
+    "dp": 50,
+    "maxDp": 50,
+    "ep": 40,
+    "maxEp": 40,
+    "chakra": 50,
+    "maxChakra": 50,
+    "offense": 20,
+    "rangedOffense": 10,
+    "initiative": 60
+  },
+  "equipment": {
+    "items": [],
+    "weapons": [
+      { "name": "Ninjatō", "effect": "Sharp, +8Dmg, +10DP", "grade": "B-" }
+    ],
+    "gear": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "biju-hokaku-kyubi",
+  "name": "Bijū Hokaku: Kyūbi (Tailed Beast Capture: 9-Tails)",
+  "rank": "S",
+  "village": "Konohagakure",
+  "client": "Sandaime Hokage, Hiruzen Sarutobi",
+  "summary": "Subdue and seal the Kyūbi (Nine-Tails) into a volunteer Jinchūriki for the security of the village and the world. This mission is of the highest danger and secrecy, requiring elite shinobi and sealers.",
+  "details": "The Tailed Beasts have returned after decades. The Kage Summit determined they cannot be destroyed, only sealed. The mission is to subdue the Kyūbi within the Land of Fire, and have it sealed into a volunteer shinobi (Jinchūriki). Elite sealers will observe but not assist, and will move in only after the beast is unconscious. The beast will be temporarily sealed and then transferred to a permanent host in a week-long ritual at a secure location.",
+  "requirements": [
+    "Subdue the Kyūbi (Nine-Tails) within the Land of Fire.",
+    "Survive the encounter and render the beast unconscious.",
+    "Allow elite sealers to temporarily seal the beast.",
+    "Escort the sealed beast to a secure location for permanent sealing into a Jinchūriki.",
+    "Monitor and support the recovery of the new Jinchūriki."
+  ],
+  "rewards": [
+    "Recognition as a Jinchūriki (if volunteer).",
+    "Highest honors and compensation from the village.",
+    "Potential access to the power of the Kyūbi."
+  ],
+  "npcs": [
+    "kyubi",
+    "sandaime-hokage",
+    "elite-sealers"
+  ],
+  "encounters": [
+    {
+      "type": "boss",
+      "npc": "kyubi",
+      "location": "Last seen coordinates within the Land of Fire"
+    }
+  ],
+  "notes": [
+    "Sealers will not assist in combat under any circumstance.",
+    "Sealing process is dangerous and takes one week.",
+    "Mission secrecy is paramount."
+  ]
+}

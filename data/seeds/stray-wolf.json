@@ -1,0 +1,15 @@
+{
+  "slug": "stray-wolf",
+  "name": "Stray Wolf",
+  "traits": {"intelligence": 5, "strength": 15, "speed": 5, "stamina": 15, "will": 10, "hp": 60, "dp": 20, "evp": 10, "op": 10, "rop": 5, "initiative": 15},
+  "naturalWeapons": [
+    {"name": "Bite", "tags": "Sharp", "damage": "+9"},
+    {"name": "Claw", "count": 2, "tags": "Sharp", "damage": "+3"}
+  ],
+  "naturalAbilities": [
+    "Heightened Senses: twice as hard to stealth/hide from, halved Blind/Deaf effects",
+    "Quadruped: double land speed, disabled limb counts as arm and leg",
+    "Fight or Flight: flees at 10% HP or less"
+  ],
+  "sourceRaw": "pasted-missions-c.txt"
+}

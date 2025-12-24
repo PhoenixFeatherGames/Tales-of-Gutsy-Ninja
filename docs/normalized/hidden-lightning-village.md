@@ -1,0 +1,32 @@
+> The Hidden Lightning Village
+Kumogakure is the hidden village of the Land of Lighthing. As the village of one of the Five Great Shinobi Countries, Kumogakure has a Kage as its leader known as the Raikage. Kumo resides deep within a mountain range, quite literally hidden in the clouds. Kumo typically focuses on speed for its Shinobi, and most shinobi are accustomed to using Elemental Lightning Ninjutsu. The standard attire for Kumo shinobi consists of a long, grey top which gathers just at the waist to give a sash-like appearance, with a matching coloured bottom. Over this they wear white, one-strapped flak jackets and arm as well as shin-guards. 
+
+> Population
+1,130
+
+> Raikage
+ Usagi Yozora
+
+> Retainer
+
+> Registered Shinobi
+
+> Treasury
+両10,000,000
+
+> Clans
+ Wasabi
+Hyuga
+Inuzuka
+
+> Nature Affinity
+Water, Lightning, Wind
+
+> Jutsu Affinity
+Ninjutsu | +4
+Genjutsu | +1
+Taijutsu | +4
+Bukijutsu | +1
+Kenjutsu | +1
+Fuinjutsu | +2
+Iryojutsu  | +2

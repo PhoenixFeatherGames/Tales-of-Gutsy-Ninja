@@ -1,0 +1,9 @@
+{
+  "slug": "search-and-rescue-lost-pet",
+  "name": "Search and Rescue: Lost Pet",
+  "rank": "D",
+  "village": "Konoha",
+  "client": "Konoha Resident",
+  "mission": "A resident of Konoha has lost their dear pet and, after searching on their own to no avail, submitted this mission. Find their pet, write a detailed report describing the creature and location of retrieval, and await confirmation.",
+  "sourceRaw": "pasted-missions.txt"
+}

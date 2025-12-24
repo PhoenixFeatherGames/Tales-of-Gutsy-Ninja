@@ -1,0 +1,155 @@
+[|] Ki Nobori no Jutsu [|]
+[Bcu][|] Tree Climbing Technique [|]
+
+[Bc]Rank:
+[c]D-Rank,  Passive 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite:
+[C]Must at least have a Chakra Control Score of 25.
+[Bc]Cost:
+[C]2 Chakra Points per round adhered to a surface.
+[Bc]Description:
+[C]The Tree Climbing Technique involves focusing a fixed amount of chakra to the bottom of one's feet, and using that to climb a tree without using one's hands. If the stream of chakra is too weak, the user will lose their footing on the tree and fall off. If it is too strong, the user will be pushed away from the tree, causing the tree to break around the point of contact and the user will fall. This does not apply only to trees, but any surface vertical, horizontal, or even upside down!
+
+[|] Suimen Hokō no Jutsu [|]
+[Bcu][|] Water Walking Technique [|]
+
+[Bc]Rank:
+[c]D-Rank,  Passive 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite:
+[C]Must at least have a Chakra Control Score of 50.
+[Bc]Cost:
+[C]3 Chakra Points per round on Water Surface.
+[Bc]Description:
+[C]To do this, the user has to be emitting a constant stream of chakra from the bottom of the their feet and using the repellent force to walk across the water's surface. This technique is more difficult to master than the Tree Climbing Technique, because the amount of chakra that needs to be emitted changes constantly. It doesn't have to just be at the feet. A user under water can focus chakra on their hands or any other body part that makes contact with the surface of the water. If they were submerged, they can climb atop the water as if they were climbing out of a pool.
+
+[|] Shunshin no Jutsu [|]
+[Bcu][|] Body Flicker Technique [|]
+
+[Bc]Rank:
+[c]D-Rank,  Active,  Reactive 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite:
+[C]Chakra Control 75
+[Bc]Cost:
+[C]5 Chakra Points Per 5 Meters Traveled.
+[Bc]Description:
+[C]The Body Flicker Technique is a high-speed movement technique. By using the Body Flicker Technique, a ninja can move short to long distances at an almost untraceable speed. To an observer, it appears as if the user has teleported. It is accomplished by using chakra to temporarily vitalise the body and move at extreme speeds. The amount of chakra required depends on the overall distance between the user and the intended destination. A puff of smoke is occasionally used to disguise the user's movements. Other nearby elements or substances can be used instead to distract the opponent such as leaves, sand, water, etc. As such, this ability grants the user an extra +5 temporary EP or OP/ROP, and in the right situation,  grant the user half stealth.
+
+[|] Katon: Gōkakyū no Jutsu [|]
+[Bcu][|] Fire Style: Fireball Technique [|]
+
+[Bc]Rank:
+[c]D-Rank, Active
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element: 
+[C]Fire
+[BC]Prerequisite 
+[C]Have at least 10 Ninjutsu
+[Bc]Cost:
+[C]10 Chakra Points
+[Bc]Description:
+[C]The user kneads chakra in their body and turns it into fire, which they then expel from their mouth; the more chakra they use, the more flames that are produced. 
+
+[C]It's basic form creates a large fireball with a diameter of 2 meters. Its basic damage can cause "1° Burn", 10 Damage, and takes ROP+2 to dodge! Every 5 additional points of chakra put into this Technique increases its effect by +1° Burn, +5 Damage, +1m, +1ROP.
+
+[|] Fūton: Tatsumaki no Tojikome [|]
+[Bcu][|] Wind Style: Tornado Entrapment [|]
+
+[Bc]Rank:
+[c] D-Rank, Active, Reactive
+[Bc]Technique:
+[c] Ninjutsu 
+[Bc]Element:
+[C] Wind
+[BC]Prerequisite 
+[C] N/A
+[Bc]Cost:
+[C] 10 Chakra Points 
+[Bc]Description:
+[C] A strong vortex of wind coming from ground up, this jutsu potentially holds both offensive and defensive capabilities, able to trap a single person inside, it prevents anything from getting in OR out...
+
+[C]This miniature tornado has a width and height of 1m×2m, with a DP of 10, the strength of it's air current being equivalent to it's DP, and lasts for 30 seconds (10 rounds). If used to surround a target, they must evade the users ROP... By incremently increasing the output by -3ChP, you raise the dimensions and ROP by +1 each, the DP/Str by +5, and time by 12 seconds!
+
+[|] Fūton: Geppo [|]
+[Bcu][|] Wind Style: Moon Step [|]
+
+[Bc]Rank:
+[c]D-Rank, Passive
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Wind
+[BC]Prerequisite 
+[C]25 Chakra Control
+[Bc]Cost:
+[C]6 Chakra Points per jump
+[Bc]Description:
+[C]The Geppo allows the users to actually jump, (not step), off the air itself, allowing them to stay in the air for much longer than usual and move more freely within a three dimensional space. These jumps may actually be treated as having had "running starts" to determine their height/distance, +6(Inches/Feet). Users may even use this technique to cross great distances without ever touching the ground, set themselves up for swift, aerial attacks, or use it to cushion their fall damage by half!
+
+[C]While the technique itself affords several advantages both in and out of battle for the user, it has but one major weakness: since its usage depends heavily on the user's legs, restraining or pinning down any major parts of their lower body can significantly disrupt Geppo.
+
+[|] Doton: Suana no Jutsu [|]
+[Bcu][|] Earth Release: Tunneling Technique [|]
+
+[Bc]Rank:
+[c]D-Rank, Active
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Earth
+[BC]Prerequisite 
+[C]50 Chakra Control
+[Bc]Cost:
+[C]5 Chakra Points
+[Bc]Description:
+[C]This is a technique that allows the user to create tunnels in and through the earth in order to travel underground by displacing the earth, as well as closing openings. The utility in this technique holds a suprisingly wide variety of verstility in the hands of the creative.
+
+[C]By molding ones chakra and the earth, castors expend 5 chakra points to tunnel out 1×1 meters of earth, typically 1 meter in diameter, 1 meter deep, per use. An additional 3 ChP may be spent every 1 cubic meter moved for a maximum of 10m per round.
+
+[|] Suiton: Suiben [|]
+[Bcu][|] Water Style: Water Whip [|]
+
+[Bc]Rank:
+[c]D-Rank, Active
+[Bc]Technique:
+[c]Ninjutsu, Kenjutsu
+[Bc]Element:
+[C]Water
+[BC]Prerequisite 
+[C]N/A
+[Bc]Cost:
+[C]5Chakra Points, 40oz Water
+[Bc]Description: 
+[C]The user creates a whip made of water that, as a regular whip could, strike at or even wrap around the opponent, adding the user's Will to the weapons DP instead of the users Strength for it's grappling score.
+
+[C]In it's base state, the Water Whip has the following stats: Water Whip <5ft, +1DMG, +1DP>, however, the length, damage, and DP increase by +1 for every 3ChP and 24oz added to it upon creation. Being a whip like weapon, this uses ROP+Length instead of OP.
+
+[C]The water remains stable once formed, however,  is destroyed if broken, removed from the user's grasp, if the user runs out of chakra, or if the user loses consciousness.
+
+[|] Suiton: Kirigakure no Jutsu [|]
+[Bcu][|]Water Style: Hiding in the Mist Technique[|]
+
+[Bc]Rank:
+[c]D-Rank, Active
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Water
+[BC]Prerequisite 
+[C]Nearby Water Source, Air Moisture, or Mist
+[Bc]Cost:
+[C]5 Chakra Points per Round , 40oz.
+[Bc]Description:
+[C]Users use the surrounding moisture to fill the air with mist and condense it's thickness with their chakra. Once the mists are thick enough that opponents cannot see, that in turn means they cannot manage much defense against the user.

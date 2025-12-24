@@ -1,0 +1,52 @@
+{
+  "slug": "escort-trees-grass-leaf-diplomat",
+  "name": "Escort: The Tree's, Grass, and Leaf's Diplomat",
+  "rank": "A",
+  "village": "Konoha",
+  "client": "Fire Ambassador, Lady Yokimi",
+  "summary": "Escort Lady Yokimi, Fire Ambassador of Shenrin no Kuni, from the Forest Country border to Konoha. Ensure timely and unharmed arrival; pay is docked for lateness or injuries, and increased for early/perfect delivery. Expect daily attacks from thugs, bandits, mercenaries, and a possible strike from Kusa Shinobi.",
+  "details": "Lady Yokimi is a high-profile diplomat negotiating between Kusagakure and Konohagakure. She must be escorted from Kusa (1,1) to Konoha via horse-drawn palanquin, arriving within 100 hours (4 days, 26-hour days). Payment is docked -1% per hour late, and -1% per percent HP missing or for injuries. +1% for each hour early, and +10% for perfect health. The palanquin acts as a tent, requires 2-4 carriers, and has DP 50. Horses reduce travel speed. Daily attacks expected. Beware a trio of insurrectionist Kusa Shinobi (Blades of Grass) who may strike at any time.",
+  "requirements": [
+    "Arrive at Konoha within 100 hours.",
+    "Lady Yokimi must arrive unharmed (no HP loss for bonus).",
+    "Defend against daily attacks (thugs, bandits, mercenaries).",
+    "Beware the Blades of Grass (Kusa no Ken)."
+  ],
+  "rewards": [
+    "+1% ryō per hour early.",
+    "-1% ryō per hour late.",
+    "-1% ryō per percent HP missing or for injuries.",
+    "+10% bonus for perfect health."
+  ],
+  "npcs": [
+    "lady-yokimi",
+    "horse",
+    "mercenary",
+    "bandit",
+    "thug",
+    "blades-of-grass"
+  ],
+  "encounters": [
+    {
+      "type": "random",
+      "frequency": "daily",
+      "options": [
+        { "npc": "thug", "count": 6 },
+        { "npc": "bandit", "count": 4 },
+        { "npc": "mercenary", "count": 2 }
+      ]
+    },
+    {
+      "type": "special",
+      "trigger": "any time",
+      "npc": "blades-of-grass",
+      "count": 3
+    }
+  ],
+  "notes": [
+    "Lady Yokimi will always try to dodge before blocking, and only attack if unable to dodge, block, or run.",
+    "She stays in the palanquin or near escorts unless forced to run, prioritizing survival and remaining unharmed.",
+    "Palanquin: Tent, requires 2-4 carriers, reduces travel speed, holds 2 people or 10 items, DP 50.",
+    "Each horse travels at 12MPH, but with palanquin attached, speed is 8MPH."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "white-tiger",
+  "name": "White Tiger",
+  "count": 3,
+  "traits": {"intelligence": 15, "strength": 30, "speed": 30, "stamina": 15, "will": 10, "hp": 70, "dp": 45, "evp": 45, "op": 28, "rop": 8, "initiative": 75},
+  "naturalWeapons": [
+    {"name": "Bite", "tags": "Sharp", "damage": "+12"},
+    {"name": "Claw", "count": 2, "tags": "Sharp, +50% Climb Speed", "damage": "+2"}
+  ],
+  "naturalAbilities": [
+    "Heightened Senses: twice as hard to stealth/hide from, halved Blind/Deaf effects",
+    "Quadruped: double land speed, disabled limb counts as arm and leg",
+    "Night Vision: normal in dim, half-blind in darkness",
+    "Pack Tactics: +10EP/OP when near pack",
+    "Fight or Flight: flees at 10% HP or less"
+  ],
+  "sourceRaw": "pasted-missions-c.txt"
+}

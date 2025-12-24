@@ -1,0 +1,10 @@
+{
+  "slug": "eye-of-the-tigers",
+  "name": "Eye of the Tigers",
+  "rank": "C",
+  "village": "Konoha",
+  "client": "Barole Caskin",
+  "mission": "Three White Tigers have escaped the Forest of Death. Capture and return them alive and unharmed. Ryō is reduced for injuries or death; mission taker pays for losses. Tigers are 2m tall on all fours. Minor wounds are acceptable.",
+  "creatures": ["white-tiger"],
+  "sourceRaw": "pasted-missions-c.txt"
+}

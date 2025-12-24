@@ -1,0 +1,1818 @@
+[
+  {
+    "slug": "flute",
+    "name": "Flute",
+    "category": "Items",
+    "rank": "D-",
+    "description": "3 Meter Effective Range",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "3-bells",
+    "name": "(3)Bells",
+    "category": "Items",
+    "rank": "D-",
+    "description": "1 Meter Effective Range",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "small-container",
+    "name": "Small Container",
+    "category": "Items",
+    "rank": "D-",
+    "description": "Holds 1qt(32oz) of liquid/4ib solid matter",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "blank-tag",
+    "name": "Blank Tag",
+    "category": "Items",
+    "rank": "D-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "small-scroll",
+    "name": "Small Scroll",
+    "category": "Items",
+    "rank": "D",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "1oz-ink",
+    "name": "(1oz)Ink",
+    "category": "Items",
+    "rank": "D-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "pillow",
+    "name": "Pillow",
+    "category": "Items",
+    "rank": "D-",
+    "description": "+1MPH Travel Time Per Day",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "sheet",
+    "name": "Sheet",
+    "category": "Items",
+    "rank": "D",
+    "description": "+2MPH Travel Time Per Day",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "pouch-2",
+    "name": "Pouch #/2",
+    "category": "Items",
+    "rank": "D-",
+    "description": "Increases carry capacity by +2",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "brush",
+    "name": "Brush",
+    "category": "Items",
+    "rank": "D",
+    "description": "Comes with 1oz Ink",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "syringe",
+    "name": "Syringe",
+    "category": "Items",
+    "rank": "D-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "dango",
+    "name": "Dango",
+    "category": "Items",
+    "rank": "D-",
+    "description": "+5 Temp DP for 1 Hour",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "1ib-iron-dust",
+    "name": "(1ib)Iron Dust",
+    "category": "Items",
+    "rank": "D-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "1ib-gold-dust",
+    "name": "(1ib)Gold Dust",
+    "category": "Items",
+    "rank": "D-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "5-poison-vial",
+    "name": "(5)Poison Vial",
+    "category": "Items",
+    "rank": "D",
+    "description": "+1 Poison",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "5-acid-jar",
+    "name": "(5)Acid Jar",
+    "category": "Items",
+    "rank": "D",
+    "description": "+1 Burn, \"Lit\" until removed",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "1g-tabacco",
+    "name": "(1g)Tabacco",
+    "category": "Items",
+    "rank": "D",
+    "description": "+10HP, +3Spe, -1 Str,Int,Sta 5min",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "4oz-sak",
+    "name": "(4oz)Saké",
+    "category": "Items",
+    "rank": "D",
+    "description": "+10HP, +3Str, -1 Spe,Int,Sta 5min",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "1g-herb",
+    "name": "(1g)Herb",
+    "category": "Items",
+    "rank": "D",
+    "description": "+10HP, +3Int, -1 Str,Spe,Sta 5min",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "4mg-analgesic",
+    "name": "(4mg)Analgesic",
+    "category": "Items",
+    "rank": "D",
+    "description": "+10HP, +3Sta, -1 Str,Int,Spe 5min",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "3-antidote",
+    "name": "(3)Antidote",
+    "category": "Items",
+    "rank": "D",
+    "description": "-2 Poison",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "3-ointment",
+    "name": "(3)Ointment",
+    "category": "Items",
+    "rank": "D",
+    "description": "-2 Burn",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "3-bandages",
+    "name": "(3)Bandages",
+    "category": "Items",
+    "rank": "D",
+    "description": "-2 Bleed",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "5-uses-flint-steel",
+    "name": "(5 uses)Flint&Steel",
+    "category": "Items",
+    "rank": "D",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "medium-container",
+    "name": "Medium Container",
+    "category": "Items",
+    "rank": "C-",
+    "description": "Holds 1gal(4qt/128oz) of liquid/16ib solid matter",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "medium-scroll",
+    "name": "Medium Scroll",
+    "category": "Items",
+    "rank": "C",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "10-uses-gas-mask",
+    "name": "(10 uses)Gas Mask",
+    "category": "Items",
+    "rank": "C-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "10-uses-lighter",
+    "name": "(10 Uses)Lighter",
+    "category": "Items",
+    "rank": "C-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "blanket",
+    "name": "Blanket",
+    "category": "Items",
+    "rank": "C-",
+    "description": "+3MPH Travel Time Per Day",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "bag-5",
+    "name": "Bag #/5",
+    "category": "Items",
+    "rank": "C-",
+    "description": "Increases carry capacity by +5",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "instant-ramen",
+    "name": "Instant Ramen",
+    "category": "Items",
+    "rank": "C-",
+    "description": "+15 Temp DP for 1 Hour",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "juice",
+    "name": "Juice",
+    "category": "Items",
+    "rank": "C-",
+    "description": "+15 Temp EP for 1 Hour",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "wire-sharp-6ft-6dp",
+    "name": "Wire (Sharp, 6ft, +6DP)",
+    "category": "Items",
+    "rank": "C",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "rope-6ft-9dp",
+    "name": "Rope (6ft, +9DP)",
+    "category": "Items",
+    "rank": "C",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "large-container",
+    "name": "Large Container",
+    "category": "Items",
+    "rank": "B-",
+    "description": "Holds 2gal(8qt/256oz) of liquid/32ib solid matter",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "large-scroll",
+    "name": "Large Scroll",
+    "category": "Items",
+    "rank": "B",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "sleeping-bag",
+    "name": "Sleeping Bag",
+    "category": "Items",
+    "rank": "B-",
+    "description": "+4MPH Travel Time Per Day",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "backpack-5",
+    "name": "Backpack #/5",
+    "category": "Items",
+    "rank": "B-",
+    "description": "Increases carry capacity by +5",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "bbq",
+    "name": "BBQ",
+    "category": "Items",
+    "rank": "B-",
+    "description": "+25 Temp DP for 1 Hour",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "soft-drink",
+    "name": "Soft Drink",
+    "category": "Items",
+    "rank": "B-",
+    "description": "+25 Temp EP for 1 Hour",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "light-weights",
+    "name": "Light Weights",
+    "category": "Items",
+    "rank": "B-",
+    "description": "-25% Speed & Stamina, +50% Taijutsu, Bukijutsu, & Kenjutsu Training",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "5-ninja-tool-box",
+    "name": "(5)Ninja Tool Box",
+    "category": "Items",
+    "rank": "B",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "first-aid-kit",
+    "name": "First Aid kit",
+    "category": "Items",
+    "rank": "B",
+    "description": "+25HP,  -3Bleed, -3Poison, -3Burn",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "xl-container",
+    "name": "XL Container",
+    "category": "Items",
+    "rank": "A-",
+    "description": "Holds 4gal(16qt/512oz) of liquid/64ib solid matter",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "xl-scroll",
+    "name": "XL Scroll",
+    "category": "Items",
+    "rank": "A",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "tent",
+    "name": "Tent",
+    "category": "Items",
+    "rank": "A-",
+    "description": "+5MPH Travel Time Per Day",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "duffel-bag-11",
+    "name": "Duffel Bag #/11",
+    "category": "Items",
+    "rank": "A-",
+    "description": "Increases carry capacity by +11",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "bento",
+    "name": "Bento",
+    "category": "Items",
+    "rank": "A-",
+    "description": "+35 Temp DP for 1 Hour",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "tea",
+    "name": "Tea",
+    "category": "Items",
+    "rank": "A-",
+    "description": "+35 Temp EP for 1 Hour",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "med-kit",
+    "name": "Med Kit",
+    "category": "Items",
+    "rank": "A",
+    "description": "+60HP, -5Bleed, -5Poison, -5Burn",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "rohypnol",
+    "name": "Rohypnol",
+    "category": "Items",
+    "rank": "A",
+    "description": "Unconscious 1Min after injection/ingestion",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "3-ration-pills",
+    "name": "(3)Ration Pills",
+    "category": "Items",
+    "rank": "A",
+    "description": "Double Chakra Pool for 1 day, then drop it to 0 the next day",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "10-uses-tool-kit",
+    "name": "(10 Uses) Tool Kit",
+    "category": "Items",
+    "rank": "A",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "10-uses-spyglass",
+    "name": "(10 Uses) Spyglass",
+    "category": "Items",
+    "rank": "A",
+    "description": "Clearly see up to 1 Mile distance",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "cabin",
+    "name": "Cabin",
+    "category": "Items",
+    "rank": "S-",
+    "description": "+6MPH Travel Time Per Day",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "chakra-limiter",
+    "name": "Chakra Limiter",
+    "category": "Items",
+    "rank": "S-",
+    "description": "-50% ChP T5 limit, x2 Ninjutsu & Genjutsu Training",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "chakra-infuser",
+    "name": "Chakra Infuser",
+    "category": "Items",
+    "rank": "S-",
+    "description": "-50% ChP T5 limit, x2 Fuinjutsu & Iryojutsu Training",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "training-weights",
+    "name": "Training Weights",
+    "category": "Items",
+    "rank": "S",
+    "description": "-50% Speed & Stamina, ×2 Taijutsu, Bukijutsu, & Kenjutsu Training",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "miso-tonkotsu-ramen",
+    "name": "Miso Tonkotsu Ramen",
+    "category": "Items",
+    "rank": "S-",
+    "description": "+50 Temp DP for 1 Hour",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "milk",
+    "name": "Milk",
+    "category": "Items",
+    "rank": "S-",
+    "description": "+50 Temp EP for 1 Hour",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "cart-22",
+    "name": "Cart #/22",
+    "category": "Items",
+    "rank": "S-",
+    "description": "Increases carry capacity by +22",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "xxl-container",
+    "name": "XXL Container",
+    "category": "Items",
+    "rank": "S-",
+    "description": "Holds 8gal(32qt/1024oz) of liquid/128ib solid matter",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "xxl-scroll",
+    "name": "XXL Scroll",
+    "category": "Items",
+    "rank": "S",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "brick",
+    "name": "Brick",
+    "category": "Buki",
+    "rank": "D-",
+    "description": "+2Dmg, +1ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "big-stick",
+    "name": "Big Stick",
+    "category": "Buki",
+    "rank": "D-",
+    "description": "+2Dmg, +1DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "uchiwa",
+    "name": "Uchiwa",
+    "category": "Buki",
+    "rank": "D-",
+    "description": "+1DMG, +2DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "sm-knife",
+    "name": "Sm. Knife",
+    "category": "Buki",
+    "rank": "D",
+    "description": "Sharp, +2dmg, +1ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "iron-ball",
+    "name": "Iron Ball",
+    "category": "Buki",
+    "rank": "D",
+    "description": "+3Dmg, +3ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-rake-hoe",
+    "name": "(2H)Rake/Hoe",
+    "category": "Buki",
+    "rank": "D",
+    "description": "Sharp, +2Dmg, +1DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-oar",
+    "name": "(2H)Oar",
+    "category": "Buki",
+    "rank": "D",
+    "description": "+2Dmg, +4DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "farm-sickle",
+    "name": "Farm Sickle",
+    "category": "Buki",
+    "rank": "D",
+    "description": "Sharp, +3Dmg",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "fukiya",
+    "name": "Fukiya",
+    "category": "Buki",
+    "rank": "D+",
+    "description": "4Dmg, +5ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "5-blow-darts",
+    "name": "(5)Blow Darts",
+    "category": "Buki",
+    "rank": "D",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "mallet",
+    "name": "Mallet",
+    "category": "Buki",
+    "rank": "D",
+    "description": "+6DMG",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "head-guard",
+    "name": "Head Guard",
+    "category": "Buki",
+    "rank": "D+",
+    "description": "+10DP, Must be Shinobi",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "battle-pipe",
+    "name": "Battle Pipe",
+    "category": "Buki",
+    "rank": "D+",
+    "description": "+4Dmg, +5DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "knife",
+    "name": "Knife",
+    "category": "Buki",
+    "rank": "D+",
+    "description": "Sharp, +4Dmg, +2ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "scalpel",
+    "name": "Scalpel",
+    "category": "Buki",
+    "rank": "D+",
+    "description": "Sharp×2, 1Dmg, +2ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "senbon",
+    "name": "Senbon",
+    "category": "Buki",
+    "rank": "C-",
+    "description": "Sharp, 2Dmg, +7ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "shuriken",
+    "name": "Shuriken",
+    "category": "Buki",
+    "rank": "C-",
+    "description": "Sharp, 4Dmg, +5ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "kunai",
+    "name": "Kunai",
+    "category": "Buki",
+    "rank": "C+",
+    "description": "Sharp, 5Dmg, +5DP, +5ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "wood-shield",
+    "name": "Wood Shield",
+    "category": "Buki",
+    "rank": "D-",
+    "description": "+9DP,-3EP, -3OP, -3INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "wood-helmet",
+    "name": "Wood Helmet",
+    "category": "Buki",
+    "rank": "D",
+    "description": "+18DP,-6EP, -6OP, -6INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "wood-armor",
+    "name": "Wood Armor",
+    "category": "Buki",
+    "rank": "D+",
+    "description": "+27DP,-9EP, -9OP, -9INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-pitch-fork-sharp-3dmg-3dp",
+    "name": "(2H)Pitch Fork <Sharp, +3Dmg, +3DP>)",
+    "category": "Buki",
+    "rank": "D+",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-shovel",
+    "name": "(2H)Shovel",
+    "category": "Buki",
+    "rank": "D+",
+    "description": "Sharp, +2Dmg, +4DP, ×2Dig",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "crowbar",
+    "name": "Crowbar",
+    "category": "Buki",
+    "rank": "D+",
+    "description": "+5Dmg, +4DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "leather-shield",
+    "name": "Leather Shield",
+    "category": "Buki",
+    "rank": "C-",
+    "description": "+63DP,-12EP, -12OP, -12INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "leather-helmet",
+    "name": "Leather Helmet",
+    "category": "Buki",
+    "rank": "C",
+    "description": "+45DP,-15EP, -15OP, -15INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "leather-armor",
+    "name": "Leather Armor",
+    "category": "Buki",
+    "rank": "C+",
+    "description": "+54DP,-18EP, -18OP, -18INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "hatchet",
+    "name": "Hatchet",
+    "category": "Buki",
+    "rank": "C-",
+    "description": "Sharp, +6Dmg, +3ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2-knuckle-guard",
+    "name": "(2)Knuckle Guard",
+    "category": "Buki",
+    "rank": "C-",
+    "description": "+2Dmg, +4DP, attached",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2-neko-te",
+    "name": "(2)Neko-Te",
+    "category": "Buki",
+    "rank": "C-",
+    "description": "Sharp, +4DMG, Attached",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "healing-tag",
+    "name": "[Healing Tag",
+    "category": "Buki",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/c1e7e3q] <+10%HP/Round, 1Min> | C",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "smoke-bomb",
+    "name": "Smoke Bomb",
+    "category": "Buki",
+    "rank": "C-",
+    "description": "9m, Half Blind, Half Stealth",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "flashbang",
+    "name": "Flashbang",
+    "category": "Buki",
+    "rank": "C",
+    "description": "Temp Blind, 9ROP, 3m",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "gunsen",
+    "name": "Gunsen",
+    "category": "Buki",
+    "rank": "C",
+    "description": "Sharp, +4DMG, +8DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "wood-club",
+    "name": "Wood Club",
+    "category": "Buki",
+    "rank": "C",
+    "description": "+5Dmg, +10DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "battle-kama",
+    "name": "Battle Kama",
+    "category": "Buki",
+    "rank": "C",
+    "description": "Sharp, +7Dmg, +5DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2-wooden-staff",
+    "name": "(2)Wooden Staff",
+    "category": "Buki",
+    "rank": "C",
+    "description": "+3Dmg, +9DP, DW",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "metal-club",
+    "name": "Metal Club",
+    "category": "Buki",
+    "rank": "C+",
+    "description": "+6Dmg, +12DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2-knuckle-dusters",
+    "name": "(2)Knuckle Dusters",
+    "category": "Buki",
+    "rank": "C+",
+    "description": "+5Dmg, +4DP, attached",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2-tekagi",
+    "name": "(2)Tekagi",
+    "category": "Buki",
+    "rank": "C",
+    "description": "Sharp, +4DMG, Attached, ×2Climb",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "flak-jacket",
+    "name": "Flak Jacket",
+    "category": "Buki",
+    "rank": "C+",
+    "description": "+20DP, Must be Chuunin",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "machete",
+    "name": "Machete",
+    "category": "Buki",
+    "rank": "C+",
+    "description": "Sharp, +5Dmg, +10DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "nunchaku",
+    "name": "Nunchaku",
+    "category": "Buki",
+    "rank": "C+",
+    "description": "+4DMG, +10DP, DW",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "tanto",
+    "name": "Tanto",
+    "category": "Buki",
+    "rank": "C",
+    "description": "Sharp, +6Dmg, +3DP, +3ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "tessen",
+    "name": "Tessen",
+    "category": "Buki",
+    "rank": "C+",
+    "description": "+6DMG, +12DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "poison-tag",
+    "name": "[Poison Tag",
+    "category": "Buki",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/6kijzo] <+1 Poison, ½ Blind, ½Stealth, 5ROP, 10m> | C+",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "lightning-tag",
+    "name": "[Lightning Tag",
+    "category": "Buki",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/ti3zci] <+5DMG, 10ROP, 5m, +Shock> | C+",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "explosive-tag",
+    "name": "[Explosive Tag",
+    "category": "Buki",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/7wdsk2] <10Dmg, 5ROP, 5m, +1° Burn> | C+",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "studded-shield",
+    "name": "Studded Shield",
+    "category": "Buki",
+    "rank": "B-",
+    "description": "+63DP,-21EP, -21OP, -21INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "chain-helmet",
+    "name": "Chain Helmet",
+    "category": "Buki",
+    "rank": "B",
+    "description": "+72DP,-24EP, -24OP, -24INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "chain-armor",
+    "name": "Chain Armor",
+    "category": "Buki",
+    "rank": "B+",
+    "description": "+81DP,-27EP, -27OP, -27INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-metal-staff",
+    "name": "(2H)Metal Staff",
+    "category": "Buki",
+    "rank": "B",
+    "description": "+6Dmg, +12DP, DW",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2-tekko-kagi",
+    "name": "(2)Tekko-Kagi",
+    "category": "Buki",
+    "rank": "B-",
+    "description": "Sharp, +6DMG, +3DP, Attached",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-military-shovel",
+    "name": "(2H)Military Shovel",
+    "category": "Buki",
+    "rank": "B+",
+    "description": "Sharp, +6Dmg, +12DP, ×3Dig",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "chain",
+    "name": "Chain",
+    "category": "Buki",
+    "rank": "B+",
+    "description": "6ft, +6DMG, +15DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "metal-shield",
+    "name": "Metal Shield",
+    "category": "Buki",
+    "rank": "A-",
+    "description": "+90DP,-30EP, -30OP, -30INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "metal-helmet",
+    "name": "Metal Helmet",
+    "category": "Buki",
+    "rank": "A",
+    "description": "+99DP,-33EP, -33OP, -33INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "metal-armor",
+    "name": "Metal Armor",
+    "category": "Buki",
+    "rank": "A+",
+    "description": "+108DP,-36EP, -36OP, -36INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "paralysis-tag",
+    "name": "[Paralysis Tag",
+    "category": "Buki",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/fpc46y] <Str30 Grapple, Causes Stun 1Min> | A+",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "chakra-sealing-tag",
+    "name": "[Chakra Sealing Tag",
+    "category": "Buki",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/my707e] <Will30 Grapple, Seals Chakra 1min> | A+",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "adamantine-shield",
+    "name": "Adamantine Shield",
+    "category": "Buki",
+    "rank": "S-",
+    "description": "+117DP,-39EP, -39OP, -39INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "adamantine-helmet",
+    "name": "Adamantine Helmet",
+    "category": "Buki",
+    "rank": "S",
+    "description": "+126DP,-42EP, -42OP, -42INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "adamantine-armor",
+    "name": "Adamantine Armor",
+    "category": "Buki",
+    "rank": "S+",
+    "description": "+135DP,-45EP, -45OP, -45INIT",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-adamantine-shovel",
+    "name": "(2H)Adamantine Shovel",
+    "category": "Buki",
+    "rank": "S+",
+    "description": "Sharp, +10Dmg, +20DP, ×5Dig",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "wooden-boomerang",
+    "name": "Wooden Boomerang",
+    "category": "Ken",
+    "rank": "D+",
+    "description": "+2Dmg, 2Dmg, +2ROP, 2ROP, 1DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-yumi-bow",
+    "name": "(2H)Yumi (Bow)",
+    "category": "Ken",
+    "rank": "C",
+    "description": "5Dmg, +10ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "10-arrows",
+    "name": "(10)Arrows",
+    "category": "Ken",
+    "rank": "C-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "kendo-stick",
+    "name": "Kendo Stick",
+    "category": "Ken",
+    "rank": "C",
+    "description": "+3Dmg, +12DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "bokken",
+    "name": "Bokken",
+    "category": "Ken",
+    "rank": "C+",
+    "description": "+5Dmg, +13DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "stone-boomerang",
+    "name": "Stone Boomerang",
+    "category": "Ken",
+    "rank": "C+",
+    "description": "2DP, +4Dmg, +4ROP / 4Dmg, 4ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "whip",
+    "name": "Whip",
+    "category": "Ken",
+    "rank": "B-",
+    "description": "6ft, Sharp, +3DMG, +9DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "demon-wind-shuriken",
+    "name": "Demon Wind Shuriken",
+    "category": "Ken",
+    "rank": "B-",
+    "description": "Sharp, 8Dmg, +10ROP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "ninjat",
+    "name": "Ninjatō",
+    "category": "Ken",
+    "rank": "B-",
+    "description": "Sharp, +8Dmg, +10DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-otsuchi-war-hammer",
+    "name": "(2H)Otsuchi/ War Hammer",
+    "category": "Ken",
+    "rank": "B-",
+    "description": "+11DMG, +10DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-ono-battle-axe",
+    "name": "(2H)Ono/Battle Axe",
+    "category": "Ken",
+    "rank": "B-",
+    "description": "Sharp, +10Dmg, +8DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-kanabo",
+    "name": "(2H)Kanabo",
+    "category": "Ken",
+    "rank": "B-",
+    "description": "+7Dmg, +14DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-yari-spear",
+    "name": "(2H)Yari/Spear",
+    "category": "Ken",
+    "rank": "B",
+    "description": "Sharp, +7Dmg, 7ft, +7DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-b-staff",
+    "name": "(2H)Bō Staff",
+    "category": "Ken",
+    "rank": "B",
+    "description": "+8Dmg, +14DP, DW",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-gunbai",
+    "name": "(2H)Gunbai",
+    "category": "Ken",
+    "rank": "B",
+    "description": "+10Dmg, +14DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-gama-war-scythe",
+    "name": "(2H)Ōgama (War Scythe)",
+    "category": "Ken",
+    "rank": "B",
+    "description": "Sharp, +12Dmg, +9DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-naginata",
+    "name": "(2H)Naginata",
+    "category": "Ken",
+    "rank": "B+",
+    "description": "Sharp, +8Dmg,+8DP, 8ft",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "1-2h-sword",
+    "name": "(1-2H)Sword",
+    "category": "Ken",
+    "rank": "B",
+    "description": "Sharp, +11DMG, +10DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "tsurugi",
+    "name": "Tsurugi",
+    "category": "Ken",
+    "rank": "B+",
+    "description": "Sharp, +12DMG, +12DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "metal-boomerang",
+    "name": "Metal Boomerang",
+    "category": "Ken",
+    "rank": "B+",
+    "description": "+6Dmg, 6Dmg, +6ROP, 6ROP, 3DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "wakizashi",
+    "name": "Wakizashi",
+    "category": "Ken",
+    "rank": "A",
+    "description": "Sharp, +14Dmg, +13DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "1-2h-katana",
+    "name": "(1-2H)Katana",
+    "category": "Ken",
+    "rank": "A",
+    "description": "Sharp, +16Dmg, +11DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-odachi",
+    "name": "(2H)Odachi",
+    "category": "Ken",
+    "rank": "A",
+    "description": "Sharp, +18Dmg, +9DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "war-boomerang",
+    "name": "War Boomerang",
+    "category": "Ken",
+    "rank": "A+",
+    "description": "Sharp×2, +7Dmg, 6Dmg, +7ROP, 6ROP, 4DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "2h-adamantine-staff",
+    "name": "(2H)Adamantine Staff",
+    "category": "Ken",
+    "rank": "S",
+    "description": "+10Dmg, +20DP, DW",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "adamantine-boomerang",
+    "name": "Adamantine Boomerang",
+    "category": "Ken",
+    "rank": "A+",
+    "description": "+9Dmg, 9Dmg, +9ROP, 9ROP, 9DP",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "tiny-puppet-part",
+    "name": "Tiny Puppet Part",
+    "category": "Kugutsu",
+    "rank": "D-",
+    "description": "5\", 5 points to Dmg/DP/EP/OP/ROP/Effect",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "tiny-puppet-base",
+    "name": "Tiny Puppet Base",
+    "category": "Kugutsu",
+    "rank": "D+",
+    "description": "9\", 11 points to Dmg/DP/EP/OP/ROP/Effect",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "sm-puppet-part",
+    "name": "Sm Puppet Part",
+    "category": "Kugutsu",
+    "rank": "C-",
+    "description": "10\", 14 points to Dmg/DP/EP/OP/ROP/Effect",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "sm-puppet-base",
+    "name": "Sm Puppet Base",
+    "category": "Kugutsu",
+    "rank": "C+",
+    "description": "1'6\", 20 points to Dmg/DP/EP/OP/ROP/Effect",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "l-puppet-part",
+    "name": "L Puppet Part",
+    "category": "Kugutsu",
+    "rank": "B-",
+    "description": "1'7\", 23 points to Dmg/DP/EP/OP/ROP/Effect",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "l-puppet-base",
+    "name": "L Puppet Base",
+    "category": "Kugutsu",
+    "rank": "B+",
+    "description": "3', 29 points to Dmg/DP/EP/OP/ROP/Effect",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "xl-puppet-part",
+    "name": "XL Puppet Part",
+    "category": "Kugutsu",
+    "rank": "A-",
+    "description": "3'1\", 32 points to Dmg/DP/EP/OP/ROP/Effect",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "xl-puppet-base",
+    "name": "XL Puppet Base",
+    "category": "Kugutsu",
+    "rank": "A+",
+    "description": "6', 38 points to Dmg/DP/EP/OP/ROP/Effect",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "xxl-puppet-part",
+    "name": "XXL Puppet Part",
+    "category": "Kugutsu",
+    "rank": "S-",
+    "description": "6'1\", 41 points to Dmg/DP/EP/OP/ROP/Effect",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "xxl-puppet-base",
+    "name": "XXL Puppet Base",
+    "category": "Kugutsu",
+    "rank": "S+",
+    "description": "12', 47 points to Dmg/DP/EP/OP/ROP/Effect",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "10ib-c1-clay",
+    "name": "(10ib)C1-Clay",
+    "category": "Explosive Clay",
+    "rank": "D-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "10ib-c2-clay",
+    "name": "(10ib)C2-Clay",
+    "category": "Explosive Clay",
+    "rank": "C-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "10ib-c3-clay",
+    "name": "(10ib)C3-Clay",
+    "category": "Explosive Clay",
+    "rank": "B-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "10ib-c4-clay",
+    "name": "(10ib)C4-Clay",
+    "category": "Explosive Clay",
+    "rank": "A-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "10ib-c0-clay",
+    "name": "(10ib)C0-Clay",
+    "category": "Explosive Clay",
+    "rank": "S-",
+    "description": "",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "e-rank-jutsu-scroll",
+    "name": "E-Rank Jutsu Scroll",
+    "category": "Jutsu",
+    "rank": "D-",
+    "description": "*",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "d-rank-jutsu-scroll",
+    "name": "D-Rank Jutsu Scroll",
+    "category": "Jutsu",
+    "rank": "D+",
+    "description": "50+ Potential  *",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "c-rank-jutsu-scroll",
+    "name": "C-Rank Jutsu Scroll",
+    "category": "Jutsu",
+    "rank": "C+",
+    "description": "100+ Potential  *",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "b-rank-jutsu-scroll",
+    "name": "B-Rank Jutsu Scroll",
+    "category": "Jutsu",
+    "rank": "B+",
+    "description": "200+ Potential  *",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "a-rank-jutsu-scroll",
+    "name": "A-Rank Jutsu Scroll",
+    "category": "Jutsu",
+    "rank": "A+",
+    "description": "500+ Potential  *",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "s-rank-jutsu-scroll",
+    "name": "S-Rank Jutsu Scroll",
+    "category": "Jutsu",
+    "rank": "S+",
+    "description": "1,000+ Potential  *",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "p-align-center-kirigakure",
+    "name": "<p align=\"center\">[Kirigakure",
+    "category": "Kaguya",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/avggfft]</p>",
+    "rawFile": "clans-part-1.txt"
+  },
+  {
+    "slug": "p-align-center-as-descendants-of-kaguya-tsutsuki-as-they-have-inherited-a-derivative-of-her-original-ability-to-manipulate-one-s-bone-structures-through-their-kekkei-genkai-shikotsumyaku",
+    "name": "<p align=\"center\">As descendants of Kaguya Ōtsutsuki, as they have inherited a derivative of her original ability to manipulate one's bone structures through their kekkei genkai \"[Shikotsumyaku",
+    "category": "Kaguya",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/xaaa58 ]\", allowing them to make expecionally dense weapons and armor from their own skeletons, even able to rip whole bones out of their bodies only for them to regrow a moment later! To compensate for the trauma this ability has on their body, the Kaguya Clan naturally can heal 1 tier of bleeding, if applicable, per round! This kekkei genkai is added to their jutsu bank as their ability to use this technique increases over time with usage.</p>",
+    "rawFile": "clans-part-1.txt"
+  },
+  {
+    "slug": "p-align-center-kirigakure",
+    "name": "<p align=\"center\">[Kirigakure",
+    "category": "Hoshigaki",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/avggfft]</p>",
+    "rawFile": "clans-part-1.txt"
+  },
+  {
+    "slug": "p-align-center-kumogakure",
+    "name": "<p align=\"center\">[Kumogakure",
+    "category": "Hyūga",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/ic9pa54]</p>",
+    "rawFile": "clans-part-1.txt"
+  },
+  {
+    "slug": "p-align-center-as-hamura-s-descendants-the-hy-ga-are-born-with-the-power-of-the-byakugan",
+    "name": "<p align=\"center\">As Hamura's descendants, the Hyūga are born with the power of the \"[Byakugan",
+    "category": "Hyūga",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/kj7a1s]\", which is added amongst their jutsu scores and the ability to expel chakra from all of their tenketsu, making the most use of these together through their \"[Gentle Fist|http://aminoapps.com/p/zcetol]\" fighting style.</p>",
+    "rawFile": "clans-part-1.txt"
+  },
+  {
+    "slug": "p-align-center-konohagakure",
+    "name": "<p align=\"center\">[Konohagakure",
+    "category": "Senju",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/y5zj5ub]</p>",
+    "rawFile": "clans-part-1.txt"
+  },
+  {
+    "slug": "must-posess-100-shikotsumyaku",
+    "name": "Must posess 100 [Shikotsumyaku",
+    "category": "Dead Bone Pulse: All-Killing Ash Bones",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/xaaa58], 100 Iryojutsu",
+    "rawFile": "techniques-part-11.txt"
+  },
+  {
+    "slug": "this-forbidden-technique-was-developed-by-a-rogue-shinobi-of-sunagakura-a-puppeteer-of-the-highest-caliber-who-saught-to-be-one-with-there-art-immortality-through-their-art-the-heart-of-of-a-living-subject-is-placed-within-a-special-secure-container-that-is-is-then-sealed-shut-the-practitioner-of-this-technique-then-seals-the-chakra-soul-and-mind-into-this-core-this-core-then-when-placed-within-the-core-of-a-human-puppet",
+    "name": "This forbidden technique was developed by a rogue shinobi of sunagakura, a puppeteer of the highest caliber who saught to be one with there art, immortality through their art... The heart of of a living subject is placed within a special, secure container that is is then sealed shut. The practitioner of this technique then seals the chakra, soul, and mind into this core. This core then, when placed within the core of a \"[Human Puppet",
+    "category": "Puppet Heartstring",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/gxmops]\", takes command as their new vessel.",
+    "rawFile": "techniques-part-11.txt"
+  },
+  {
+    "slug": "alternatively-this-puppet-heart",
+    "name": "Alternatively,  this \"Puppet Heart",
+    "category": "Puppet Heartstring",
+    "rank": "S+",
+    "description": "\" could be crafted into a regular puppet aswell, however, these are lower in their potential power, restricted to regular Puppet limitations and without the benifits of carrying over special abilities from a prior vessel host.",
+    "rawFile": "techniques-part-11.txt"
+  },
+  {
+    "slug": "must-posess-100-shikotsumyaku",
+    "name": "Must posess 100 [Shikotsumyaku",
+    "category": "Dead Bone Pulse: All-Killing Ash Bones",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/xaaa58], 100 Iryojutsu",
+    "rawFile": "techniques-part-11.txt"
+  },
+  {
+    "slug": "this-forbidden-technique-was-developed-by-a-rogue-shinobi-of-sunagakura-a-puppeteer-of-the-highest-caliber-who-saught-to-be-one-with-there-art-immortality-through-their-art-the-heart-of-of-a-living-subject-is-placed-within-a-special-secure-container-that-is-is-then-sealed-shut-the-practitioner-of-this-technique-then-seals-the-chakra-soul-and-mind-into-this-core-this-core-then-when-placed-within-the-core-of-a-human-puppet",
+    "name": "This forbidden technique was developed by a rogue shinobi of sunagakura, a puppeteer of the highest caliber who saught to be one with there art, immortality through their art... The heart of of a living subject is placed within a special, secure container that is is then sealed shut. The practitioner of this technique then seals the chakra, soul, and mind into this core. This core then, when placed within the core of a \"[Human Puppet",
+    "category": "Puppet Heartstring",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/gxmops]\", takes command as their new vessel.",
+    "rawFile": "techniques-part-11.txt"
+  },
+  {
+    "slug": "alternatively-this-puppet-heart",
+    "name": "Alternatively,  this \"Puppet Heart",
+    "category": "Puppet Heartstring",
+    "rank": "S+",
+    "description": "\" could be crafted into a regular puppet aswell, however, these are lower in their potential power, restricted to regular Puppet limitations and without the benifits of carrying over special abilities from a prior vessel host.",
+    "rawFile": "techniques-part-11.txt"
+  },
+  {
+    "slug": "p-align-center-must-know-clone-jutsu",
+    "name": "<p align=\"center\">Must know [Clone Jutsu",
+    "category": "Shadow Clone Technique",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/wcw989][|], 100 Chakra Control</p>",
+    "rawFile": "techniques-part-4.txt"
+  },
+  {
+    "slug": "p-align-center-must-know-clone-jutsu",
+    "name": "<p align=\"center\">Must know [Clone Jutsu",
+    "category": "Luminance Clone Technique",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/wcw989][|], 100 Chakra Control</p>",
+    "rawFile": "techniques-part-4.txt"
+  },
+  {
+    "slug": "p-align-center-you-may-also-use-this-ability-on-your-torso-aswell-but-it-will-make-your-torso-round-like-a-ball-which-makes-movement-difficult-halving-your-land-speed-op-and-rop-unless-using-the-human-boulder-technique",
+    "name": "<p align=\"center\">You may also use this ability on your torso aswell, but it will make your torso round like a ball, which makes movement difficult, halving your land speed, OP, and ROP unless using the \"[Human Boulder Technique",
+    "category": "Partial Expansion Technique",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/ssoflog]\".</p>",
+    "rawFile": "techniques-part-8.txt"
+  },
+  {
+    "slug": "p-align-center-must-be-a-member-of-the-chikimatsu",
+    "name": "<p align=\"center\">Must be a member of the [Chikimatsu",
+    "category": "Ventriloquism",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/uia1nw] Clan</p>",
+    "rawFile": "techniques-part-8.txt"
+  },
+  {
+    "slug": "p-align-center-must-be-of-the-chikamatsu-clan",
+    "name": "<p align=\"center\">Must be of the [Chikamatsu Clan",
+    "category": "Puppet Technique",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/uia1nw]</p>",
+    "rawFile": "techniques-part-8.txt"
+  },
+  {
+    "slug": "p-align-center-must-know-clone-jutsu",
+    "name": "<p align=\"center\">Must know [Clone Jutsu",
+    "category": "Ash Clone Technique",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/wcw989][|], 50 Chakra, Must be of Sarutobi Lineage Control</p>",
+    "rawFile": "techniques-part-8.txt"
+  },
+  {
+    "slug": "p-align-center-this-is-a-showy-taijutsu-unique-to-members-of-the-akimichi-clan-this-is-most-often-used-after-growing-in-size-with-the-multi-size-expansion-technique-or-even-the-partial-expansion",
+    "name": "<p align=\"center\">This is a \"showy\" taijutsu unique to members of the Akimichi clan. This is most often used after growing in size with the Multi-Size/Expansion Technique, or even the \" [Partial Expansion",
+    "category": "Human BoulderTechnique",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/rmp0lt]\" jutsu when expqnding their torso, the Akimichi tucks themselves into a ball and rolls towards a target. Due to their increased weight and the force of their rotation, most obstacles are pulverised upon contact. However,</p>",
+    "rawFile": "techniques-part-8.txt"
+  },
+  {
+    "slug": "p-align-center-kirigakure",
+    "name": "<p align=\"center\">[Kirigakure",
+    "category": "Kaguya/Hozuki",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/avggfft]</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-as-half-descendants-of-kaguya-tsutsuki-they-have-inherited-a-derivative-of-her-original-ability-to-manipulate-one-s-bone-structures-through-their-kekkei-genkai-shikotsumyaku",
+    "name": "<p align=\"center\">As half descendants of Kaguya Ōtsutsuki, they have inherited a derivative of her original ability to manipulate one's bone structures through their kekkei genkai \"[Shikotsumyaku",
+    "category": "Kaguya/Hozuki",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/xaaa58 ]\", but at +50% the cost, their body not properly suited for the dramatic ability, which also only allow them to heal from 1 tier of bleeding, if applicable, every 2 rounds.</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-even-related-members-of-this-clan-have-gained-the-ability-to-change-their-entire-body-into-water-at-will-through-their-kekkei-genkai-the-body-hydrification",
+    "name": "<p align=\"center\">Even related members of this clan have gained the ability to change their entire body into water at will through their Kekkei Genkai, the \"[Body Hydrification",
+    "category": "Kaguya/Hozuki",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/j7w94o]\", but at +50% the cost.</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-kirigakure",
+    "name": "<p align=\"center\">[Kirigakure",
+    "category": "Kaguya/Samurai",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/avggfft] / [Iron Summit|http://aminoapps.com/p/n6dwdz]</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-a-samurai-believes-that-his-swords-held-his-soul-that-made-the-sword-the-most-important-thing-he-had-you-are-a-descendant-of-such-a-warrior-and-have-inherired-a-tanto",
+    "name": "<p align=\"center\">A samurai believes that his swords held his soul. That made the sword the most important thing he had. You are a descendant of such a warrior, and have inherired a Tanto",
+    "category": "Kaguya/Samurai",
+    "rank": "B",
+    "description": "§, +6Dmg, +3ROP  as a testimate to said heritage. On top of that, you have been taught the basics of the \" [Samurai Sabre Technique|http://aminoapps.com/p/ov439es] \", though only half as efficient as a true Samurai.</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-as-half-descendants-of-kaguya-tsutsuki-they-have-inherited-a-derivative-of-her-original-ability-to-manipulate-one-s-bone-structures-through-their-kekkei-genkai-shikotsumyaku",
+    "name": "<p align=\"center\">As half descendants of Kaguya Ōtsutsuki, they have inherited a derivative of her original ability to manipulate one's bone structures through their kekkei genkai \"[Shikotsumyaku",
+    "category": "Kaguya/Samurai",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/xaaa58 ]\", but at +50% the cost, their body not properly suited for the dramatic ability, which also only allow them to heal from 1 tier of bleeding, if applicable, every 2 rounds.</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-konohagakure",
+    "name": "<p align=\"center\">[Konohagakure",
+    "category": "Senju/Aburame",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/y5zj5ub] / [Sunagakure|http://aminoapps.com/p/6goi6w8]</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-only-members-of-the-aburame-clan-may-host-and-breed-these-special-instects-gaining-the-parasitic-insects-technique",
+    "name": "<p align=\"center\">Only members of the Aburame clan may host and breed these special instects, gaining the [Parasitic Insects Technique",
+    "category": "Senju/Aburame",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/6u7lu4] by default, however as a have breed, your body is less suited to host as many insects, requiring more energy to maintain at 3MChP per swarm housed in their hive. You start by housing the following species;</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "cicada",
+    "name": "•Cicada",
+    "category": "Senju/Aburame",
+    "rank": "D-",
+    "description": "XT, 0.001Dmg, 0.001DP, 0.003ChP Drain",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-konohagakure",
+    "name": "<p align=\"center\">[Konohagakure",
+    "category": "Uchiha/Yamanaka",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/y5zj5ub] / [Iwagakure|http://aminoapps.com/p/6k9ls0]</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-as-a-distant-descendant-the-half-uchiha-may-awaken-the-power-of-the-sharingan",
+    "name": "<p align=\"center\">As a distant descendant, the half Uchiha may awaken the power of the \"[Sharingan",
+    "category": "Uchiha/Yamanaka",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/wwbmml]\", given the right circumstances, which is added to the shinobi's list of Jutsu Skills, improving as used, however, only the diluted potency halves the their effect.</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-half-uchiha-begin-knowing-the-firestarter-technique",
+    "name": "<p align=\"center\">Half Uchiha begin knowing the \"[Firestarter Technique",
+    "category": "Uchiha/Yamanaka",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/7cyxdp ]\", regardless of the user's elemental affinity, regardless of Jutsu bank size.</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-members-of-the-yamanaka-clan-are-able-to-transfer-their-own-minds-into-the-body-of-another-assentially-hijacking-their-targets-body-this-signature-move-is-the-mind-transfer-technique",
+    "name": "<p align=\"center\">Members of the Yamanaka clan are able to transfer their own minds into the body of another, assentially hijacking their targets body! This signature move is the \"[Mind Transfer Technique",
+    "category": "Uchiha/Yamanaka",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/5i620k]\", taught to all Yamanaka. Yamanaka have \"Shintenjutsu\" listed amongst their Jutsu Skills. Half bred from this clan and taught the basics, this user can only use jutsu of the Yamanaka clan with half of the effect. This individual may also cast this technique via direct eye contact through their Sharingan, when applicable.</p>",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "p-align-center-must-be-an-chinoike",
+    "name": "<p align=\"center\">Must be an [Chinoike",
+    "category": "Blood Dragon Eye",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/ij8v4m] , or transplant a Ketsuryūgan.</p>",
+    "rawFile": "techniques-part-13-ketsuryugan.txt"
+  },
+  {
+    "slug": "p-align-center-the-ketsury-gan-is-recognised-by-its-reddish-colour-giving-a-special-appearance-for-the-users-of-this-d-jutsu-characterised-as-holders-of-eyes-as-red-as-blood-its-power-earned-it-comparison-to-the-three-great-d-jutsu-increasing-the-users-genjutsu-score-by-an-amount-equal-to-50-of-their-ketsury-gan-score-the-ketsury-gan-confers-genjutsu-casting-abilities-either-by-making-physical-skin-contact-with-the-target-or-meeting-each-other-s-gaze-upon-which-they-can-hypnotise-the-victim-in-a-variety-of-ways-with-their-genjutsu-ketsury-gan",
+    "name": "<p align=\"center\">The Ketsuryūgan is recognised by its reddish colour, giving a special appearance for the users of this dōjutsu, characterised as holders of \"eyes as red as blood\". Its power earned it comparison to the Three Great Dōjutsu, increasing the users \"Genjutsu Score\" by an amount equal to 50% of their \"Ketsuryūgan score\". The Ketsuryūgan confers genjutsu casting abilities either by making physical skin contact with the target or meeting each other's gaze. Upon which, they can hypnotise the victim in a variety of ways with their \"[Genjutsu: Ketsuryūgan",
+    "category": "Blood Dragon Eye",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/65tor9]\", or even delve deep into their minds to extract information. The Ketsuryūgan also gave the users the ability to manipulate iron, or more accurately, any liquid with a high iron concentration. As such, fitting with its moniker, the Ketsuryūgan can manipulate the blood within a living target, whether if be themselves or another being.</p>",
+    "rawFile": "techniques-part-13-ketsuryugan.txt"
+  },
+  {
+    "slug": "p-align-center-must-have-the-ketsury-gan",
+    "name": "<p align=\"center\">Must have the [Ketsuryūgan",
+    "category": "Illusion Technique: Blood Dragon Eye",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/234ydjw]</p>",
+    "rawFile": "techniques-part-13-ketsuryugan.txt"
+  },
+  {
+    "slug": "p-align-center-must-be-an-kami",
+    "name": "<p align=\"center\">Must be an [Ōkami",
+    "category": "Great Wolf Eyes",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/5hjlrcq] , or Transplant an Ōkamiogan.</p>",
+    "rawFile": "techniques-part-13-ketsuryugan.txt"
+  },
+  {
+    "slug": "p-align-center-unlike-many-other-dojutsu-the-effects-of-these-eyes-activation-course-through-out-the-users-body-not-so-much-increasing-their-vision-but-seeing-things-differently-and-attuning-them-to-their-other-heightening-senses-gaining-the-canine-characteristics-ability-and-increasing-their-ep-and-op-by-40-another-effect-on-their-body-is-the-slight-growth-strengthening-and-shaping-if-their-teeth-into-fangs-sharp-15dmg-and-their-nails-into-2-claws-sharp-6dmg-as-well-as-increasing-their-land-speed-by-40-when-running-on-all-fours-however-the-most-dangerous-aspect-of-this-d-jutsu-is-it-s-ability-to-manipulating-others-with-their-own-will-by-a-simple-shared-glance-via-the-eye-s-technique-commanding-stare",
+    "name": "<p align=\"center\">Unlike many other Dojutsu, the effects of these eyes activation course through out the users body, not so much increasing their vision, but seeing things differently and attuning them to their other heightening senses, gaining the \"Canine Characteristics\" ability and increasing their EP and OP by 40%. Another effect on their body is the slight growth, strengthening, and shaping if their teeth into Fangs <Sharp, +15Dmg>, and their nails into (2)Claws <Sharp, +6Dmg>, as well as increasing their Land Speed by 40% when running on all fours! However, the most dangerous aspect of this Dōjutsu is it's ability to manipulating others with their own will by a simple shared glance via the eye's technique,  \" [Commanding Stare",
+    "category": "Great Wolf Eyes",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/tptqtw] \" which forces the commanded to obey short and simple instructions, such as \"sit\", \"stay\", \"fetch\", and other movements or half actions/reactions, against their will, exception of self harm as long as they are within the effective range and can hear the commands. As intriguing as these eyes seem, not all are worthy of being blessed by their possession, awakening this gift only once the Ōkami has recognized a true pack of at least 5 who are loyal deep down, and have been truly recognized in kind as their leader, also unlocking the \"Ōkamiogan\" skill. As long as this Dōjutsu is actived, it costs -5ChP per Minute per eye.</p>",
+    "rawFile": "techniques-part-13-ketsuryugan.txt"
+  },
+  {
+    "slug": "the-second-final-and-greatest-stage-of-this-d-jutsu-the-kura-kamiogan-these-eyes-are-forbidden-for-any-to-posesses-but-one-they-who-are-said-to-be-divinely-chosen-recognized-by-their-clan-s-people-as-their-one-truest-leader-awakened-with-an-kamiogan-score-of-100-and-10-followers-upon-activation-the-castor-s-hair-bleaches-to-hues-of-grey-or-even-white-as-an-ancient-dwelling-power-surfaces-their-claws-blacken-and-grow-fangs-sharp-2-30dmg-their-teeth-sharpen-2-claws-sharp-2-15dmg-their-ascended-senses-in-all-ways-grant-them-the-sensory-type-trait-and-cause-ep-and-op-increase-by-80-as-does-their-land-speed-when-running-on-all-fours-these-eyes-may-still-cast-commanding-stare-but-now-at-a-50-greater-effect-but-more-terrifying-still-is-their-dominating-gaze",
+    "name": "The second, final, and greatest stage of this Dōjutsu, the Kuraōkamiogan... These eyes are forbidden for any to posesses but one, they who are said to be divinely chosen, recognized by their clan's people as their one truest leader, awakened with an \"Ōkamiogan\" Score of 100 and 10 followers. Upon activation, the castor's hair bleaches to hues of grey or even white as an ancient dwelling power surfaces, their claws blacken and grow, (Fangs <Sharp×2, +30Dmg>), their teeth sharpen, ((2)Claws <Sharp×2, +15Dmg>). Their ascended senses in all ways grant them the \"Sensory Type\" trait and cause EP and OP increase by 80%, as does their land speed when running on all fours! These eyes may still cast \"Commanding Stare\", but now at a 50% greater effect, but more terrifying still is their \" [Dominating Gaze",
+    "category": "Great Wolf Eyes",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/lekmbg] \", which binds the target's will to their own, preventing them from intentionally or knowingly disobeying or opposing the will of their master and their demands, barring harm to themself or the latter. Keeping this stage active drains -7ChP of the castor per eye per minute.",
+    "rawFile": "techniques-part-13-ketsuryugan.txt"
+  },
+  {
+    "slug": "p-align-center-must-possess-the-kamiogan",
+    "name": "<p align=\"center\">Must possess the [Ōkamiogan",
+    "category": "Commanding Stare",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/6swnita] or the Kuraōkamiogan</p>",
+    "rawFile": "techniques-part-13-ketsuryugan.txt"
+  },
+  {
+    "slug": "must-possess-the-kura-kamiogan",
+    "name": "Must possess the [Kuraōkamiogan",
+    "category": "Dominating Gaze",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/6swnita] , Must know \"Gyōshi o Shiki Suru\"",
+    "rawFile": "techniques-part-13-ketsuryugan.txt"
+  },
+  {
+    "slug": "p-align-center-must-know-transformation-jutsu",
+    "name": "<p align=\"center\">Must know [Transformation Jutsu",
+    "category": "Sexy Jutsu",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/irh3rf][|]</p>",
+    "rawFile": "techniques-part-3.txt"
+  },
+  {
+    "slug": "p-align-center-the-rasengan-is-a-spinning-ball-of-pure-chakra-is-formed-and-held-in-the-palm-of-the-user-s-hand-the-rasengan-was-created-based-on-observations-made-of-the-tailed-beast-bomb",
+    "name": "<p align=\"center\">The\u0000Rasengan\u0000is a spinning ball of pure\u0000chakra is\u0000formed and held in the palm of the user's hand.The Rasengan was created based on observations made of the\u0000 [Tailed Beast Bomb",
+    "category": "Spiraling Sphere",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/dknqh4r] [|], intended to be the highest form of\u0000shape transformation. The Rasengan does not require\u0000hand seals\u0000to perform. Once it is formed, it also does not require any additional chakra to sustain it, which means that there is no definite limit to how long the Rasengan can be maintained, however,  more chakra may be pumped into it to increase it's size and power. However, the Rasengan will dissipate if it collides with something, even if it's an unintended target. On contact, the Rasengan grinds into its target, propels them along the Rasengan's trajectory - either away from the user or into the ground beneath them - and at some point bursts, causing severe damage at the point of contact. Though not as masterful as it's shape transformation, givin it's elementless nature, one may add properties of an elemenral nature into this technique via [|] [Chakra Flow|http://aminoapps.com/p/6ce2ro] [|].</p>",
+    "rawFile": "techniques-part-5.txt"
+  },
+  {
+    "slug": "p-align-center-30-fuinjutsu-200-chakra-control-finger-carving-seal",
+    "name": "<p align=\"center\">30 Fuinjutsu, 200 Chakra Control, [Finger Carving Seal",
+    "category": "Palm Seal",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/2fb3qa]</p>",
+    "rawFile": "techniques-part-5.txt"
+  },
+  {
+    "slug": "p-align-center-chakra-control-200-sage-mode-tree-climbing-jutsu",
+    "name": "<p align=\"center\">Chakra Control 200, Sage Mode, [Tree Climbing Jutsu",
+    "category": "Sage Art: Step Method",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/yznhuf8], [Water Walking Jutsu|http://aminoapps.com/p/5rfr16] [|]</p>",
+    "rawFile": "techniques-part-5.txt"
+  },
+  {
+    "slug": "p-align-center-must-be-an-uchiha",
+    "name": "<p align=\"center\">Must be an [Uchiha",
+    "category": "Mirror Wheel Eye",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/h2zp94y] , or Transplant a Sharingan.</p>",
+    "rawFile": "techniques-part-12-sharingan.txt"
+  },
+  {
+    "slug": "p-align-center-through-the-eye-of-hypnotism-when-casting-genjutsu-via-sharingan-with-a-single-tomoe-or-having-genjutsu-cast-visually-to-the-host-through-their-sharingan-one-uses-their-sharingan-score-as-the-grappling-strength-10-of-there-genjutsu-score-they-also-use-their-sharingan-and-genjutsu-score-to-determine-the-increase-in-genjutsu-effects-cast-in-this-way-upon-gaining-the-first-tomoe-one-is-able-to-perform-a-special-technique-known-only-as-genjutsu-sharingan",
+    "name": "<p align=\"center\">Through the \"Eye of Hypnotism\", when casting Genjutsu via Sharingan with a Single Tomoe, or having genjutsu cast visually to the host through their sharingan, one uses their Sharingan score as the \"Grappling Strength\" +10% of there Genjutsu score. They also use their \"Sharingan\" and \"Genjutsu\" score to determine the increase in Genjutsu effects cast in this way. Upon gaining the first Tomoe, one is able to perform a special technique, known only as \" [Genjutsu: Sharingan",
+    "category": "Mirror Wheel Eye",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/ilz71v] \", via direct eye contact, requiring a C-Rank Jutsu Bank slot to possess, understand and use. At this stage, if the target has a 50% lower Genjutsu grappling score, you can implant suggestions in your targets mind to think or move in minor ways, effecting half their actions or reactions, making 5 word statemens or believing 5 word thoughts, increasing by +5 words per sharingan stage, while leaving them to think the thoughts were there own. Casting Genjutsu: Sharingan also lowers the target's EP, OP, and ROP by 10%, increasing by 10% per Sharingan stage!</p>",
+    "rawFile": "techniques-part-12-sharingan.txt"
+  },
+  {
+    "slug": "p-align-center-a-mangeky-sharingan-is-distinguished-from-a-normal-sharingan-by-its-appearance-which-changes-the-form-of-the-tomoe-seal-while-the-exact-design-differs-for-each-user-though-all-resemble-pinwheels-this-may-only-be-awakened-once-the-three-tomoe-have-been-granted-and-the-user-must-be-or-truly-feel-the-trauma-of-being-responsible-for-a-truly-loved-one-or-closest-friend-or-family-just-being-activated-drains-8chp-minute-per-eye-activated-but-each-eye-also-gains-s-rank-abilities-unique-to-the-user-with-their-own-costs-and-when-used-together-form-the-great-susanoo",
+    "name": "<p align=\"center\">A Mangekyō Sharingan is distinguished from a normal Sharingan by its appearance, which changes the form of the tomoe seal. While the exact design differs for each user, though all resemble pinwheels. This may only be awakened once the three tomoe have been granted, and the user must be, or truly feel, the trauma of being responsible for a truly loved one or closest friend or family. Just being activated drains -8ChP/Minute per eye activated, but each eye also gains S-Rank abilities unique to the user with their own costs, and when used together, form the great, \"[Susanoo",
+    "category": "Mirror Wheel Eye",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/pkb5i5g]\". Over time and repeated use, the dōjutsu cast by the Mangekyō's eyes may lead to their eye's permanent loss of vision. The castor may use their Mangekyō dōjutsu an amount of times equivalent to 10+(10% (1/10th) of their \"Sharingan\" score), (rounded down). Using the Susanoo adds 1 use for each eye. In practice, this means the eye of one with a \"Sharingan\" score of 100 will become \"Blind\" on it's 10th use of it's power.</p>",
+    "rawFile": "techniques-part-12-sharingan.txt"
+  },
+  {
+    "slug": "p-align-center-must-have-the-sharingan",
+    "name": "<p align=\"center\">Must have the [Sharingan",
+    "category": "Illusion Technique: Mirror Wheel Eye",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/wwbmml]</p>",
+    "rawFile": "techniques-part-12-sharingan.txt"
+  },
+  {
+    "slug": "p-align-center-must-naturally-unlock-the-mangekyo-sharingan",
+    "name": "<p align=\"center\">Must naturally unlock the \"[Mangekyo Sharingan",
+    "category": "Authority of the Gods",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/wwbmml]\" and have a fitting predisposition, or implant eye from previous owner of this Mangeky...</p>",
+    "rawFile": "techniques-part-12-sharingan.txt"
+  },
+  {
+    "slug": "distance",
+    "name": "| Distance",
+    "category": "items",
+    "rank": "D",
+    "description": "amage | Effects |",
+    "rawFile": "shinobi-way-consolidated.txt"
+  },
+  {
+    "slug": "p-align-center-one-must-have-300-chakra-control-and-300-experience-chidori",
+    "name": "<p align=\"center\">One must have 300 Chakra Control and 300 Experience, [Chidori",
+    "category": "Lightning Cutter",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/oxvqdp]</p>",
+    "rawFile": "techniques-part-6.txt"
+  },
+  {
+    "slug": "p-align-center-once-formed-the-user-must-imprint-5-points-of-their-own-chakra-into-the-seal-for-this-technique-to-work-in-order-for-it-to-gain-a-matching-chakra-signature-to-it-s-programmer-creating-the-mark-with-the-finger-carving-seal",
+    "name": "<p align=\"center\">Once formed, the user must imprint 5 points of their own chakra into the seal for this technique to work in order for it to gain a matching chakra signature to it's programmer. Creating the mark with the [Finger Carving Seal",
+    "category": "Flying Raijin Jutsu",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/2fb3qa] or the [Palm Seal| http://aminoapps.com/p/frg34j] can bypass this requirement. This chakra will never fade away, even after the user's death, as long the ink and the marked surface remain intact.</p>",
+    "rawFile": "techniques-part-6.txt"
+  },
+  {
+    "slug": "p-align-center-form-a-contract-with-a-sh-kan",
+    "name": "<p align=\"center\">Form a contract with a [Shōkan",
+    "category": "Sage Mode",
+    "rank": "H",
+    "description": "ttp://aminoapps.com/p/4x8fdb] species</p>",
+    "rawFile": "techniques-part-6.txt"
+  }
+]

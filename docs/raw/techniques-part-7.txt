@@ -1,0 +1,241 @@
+[|] Hachiman [|]
+[Bcu][|] Eight Gates [|]
+
+[Bc]Rank:
+[c]Dependent on Gate, Active, Reactive 
+[Bc]Technique:
+[c]Taijutsu
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite:
+[C]Dependent on Gate 
+[Bc]Cost:
+[C]Dependent on Gate
+[Bc]Description:
+[C]The Eight Gates exist in order to limit the flow of chakra within an individual's body. Ordinarily, individuals can use no more than 20% of their body's full potential, the brain's way of protecting the individual from harming their body through overexertion. With training, individuals can learn to remove these limiters, referred to as "opening" the gates. For any gate to open, the one before it must be opened. With each opened gate, individuals are given access to more and more of their body's chakra, thus increasing their physical strength and speed each stage incrimently by +16% of the stage prior, but at the cost of their own health, or even life, for once you close the gates, your Strength, Speed, and Taijutsu will reduce by an amount equal to the boost aquired from the highest gate opened that day for 26 hours, reducing Your current HP, EP, and DP by the same amount this reduces your max HP, EP, and DP by...
+
+[Bcu]The Eight Gates
+
+[B]The Gate of Opening (開門, Kaimon)  
+Rank: C
+Prereq: Taijutsu Score of 20
+Cost: 12ChP per minute
+Desc: Located in the brain's left hemisphere, this 1st gate removes the user's mental inhibitions. Opening this gate allows the user to perform the Front Lotus, a technique that tires them afterwards.
+
+[B]The Gate of Healing (休門, Kyūmon)
+Rank: C
+Prereq: Taijutsu Score of 30, 1st Gate Open
+Cost: 15ChP per minute 
+Desc: Located in the brain's right hemisphere, this 2nd gate increases the user's physical strength. This has the added effect of re-energizing the body, enabling it to rapidly recover from exhaustion, restoring your current DP, EP, and HP by 16%!
+
+[B]The Gate of Life (生門, Seimon)
+Rank: B
+Prereq: Taijutsu Score of 40, 2nd Gate Open
+Cost: 17ChP per minute
+Desc: Located on the spinal cord, this 3rd gate turns the user's skin red when opened. Other effects include the user's pupils disappearing, their hair standing on end, and bulging veins all over their body. Opening this gate allows the user to perform the "Reverse Lotus".
+
+[B]The Gate of Pain (傷門, Shōmon)
+Rank: B
+Prereq: Taijutsu Score of 50, 3rd Gate Open
+Cost: 20ChP per minute
+Desc: This 4th gate is located on the spinal cord, intensifying the previous bloodflow and physical strain. Users may open this gate as they're about to use the Reverse Lotus to increase the effect; if one performs the Reverse Lotus in this way, their muscles start to tear and their nose to start bleeding, totalling +1 tier of Bleeding all together.
+
+[B]The Gate of Limit (杜門, Tomon)
+Rank: A
+Prereq: Taijutsu Score of 60, 4th Gate Open
+Cost: 22ChP per minute
+Desc: Located in the abdomen, opening this 5th gate shows little noticable difference except increased bloodflow from the nose and pulsing, bulging veins, this severity of rupturing blood vessels increases the Tier of Bleeding by +1. If one opens this gate as they are about to deliver the final blow of the Reverse Lotus,  their limbs receive compound fractures, crippling them if hit, even if used to block.
+
+[B]The Gate of View (景門, Keimon)
+Rank: A
+Prereq: Taijutsu Score of 70, 5th Gate Open
+Cost: 25ChP per minute
+Desc: Located in the stomach, this 6th gate increases all the user's capabilities. The power that emanates from the user is enough to displace surrounding bodies of water. Opening this gate allows the user to perform the "Morning Peacock", wherein the user's punches are so fast that friction with the air produces flames. Opening this gate creates a noticable green aura around the user caused by the burning sodium chloride produced by your sweat, adding +1° of Burn as well as +1 tier of Bleed from the warmer, faster flowing blood...
+
+[B]The Gate of Wonder (驚門, Kyōmon)
+Rank: S
+Prereq: Taijutsu Score of 80, 6th Gate Open
+Cost: 27ChP per minute
+Desc: The 7th gate, located below the stomach, causes the user's body to secrete a blueish, water heavy sweat. The sweat immediately evaporates, creating an aura around the user that can be mistaken for chakra increasing the the tier of burning and bleeding by +1°. Opening this gate allows the user to perform the "Daytime Tiger", a single punch that creates a pocket of compressed air. After opening this gate, the user's muscle fibers rupture, causing them intense pain if anyone touch him as all of their limbs become disabled.
+
+[B]The Gate of Death (死門, Shimon)
+[S]Rank: S Kinjutsu
+[S]Prereq: Taijutsu Score of 100, 7th Gate Open
+[S]Cost: 30ChP per minute
+[S]Desc: Located at the heart, users open this 8th and final gate by puncturing their chest with their thumb in order to direct the chakra there. While open, the user's heart pumps at maximum speed, granting them power a hundred times greater than they are usually capable of, far beyond that of even Kage! A "Steam of Blood" (血の蒸気, Chi no Jōki) is emitted from the user's pores and hair, resembling a flaming red aura, Taking the user to Bleed 5 and 4°Burn without exception. Opening this gate allows the user to perform the "Evening Elephant" and "Night Guy". The eighth gate causes the body to continually heat up until it's been cooked from the inside-out, threatening to reduce the user to nothing more than ash.
+
+*Realistically,  each gate is 5-10×stronger than the last, or exponentially grows rather than linearly, but 40×base power would break this game...
+
+**Actually that would be Base×390,625 lol
+
+[|] Shichi Tenkohō [|]
+[Bcu][|] Seven Heavenly Breaths [|]
+
+[Bc]Rank:
+[c]Dependent on Stage, Active, Reactive 
+[Bc]Technique:
+[c]Taijutsu, Ninjutsu
+[Bc]Element:
+[C]Wind
+[BC]Prerequisite:
+[C]Dependent on Stage
+[Bc]Cost:
+[C]Dependent on Stage
+[Bc]Description:
+[C]A taijutsu breathing method developed by gathering up large amounts of oxygen to increase ones lung capacity many fold, the user is granted strength similar to the Eight Gates, even including similar physical changes to the user, but fewer drawbacks. Much like the Eight Gates, this technique has several stages or "activations" (活性, kassei). Opening a "Gate" removes a natural limiter, which as a consequence, results in significant changes to your bodily functions that improve ones physical capabilities to dangerous degrees the body may not be able to maintain unharmed,  however, instead of releasing these limiters, these "Stages" manually replicate these bodily changes directly.With each "Activation", individuals increase their physical strength and speed each stage incrimently by +14% of the prior, but at the risk of over exhaustion, for once you revert the "Stages", your Strength, Speed, and Taijutsu will reduce by an amount equal to the boost aquired from the highest "Activation" that day for 26 hours, reducing Your current HP, EP, and DP by the same amount this reduces your max HP, EP, and DP by, though not deadly, can cause the user to knock out...
+
+[Bcu]The Seven Breaths
+
+[B]The First Activation (第一活性, Daiichi Kassei)  
+Rank: D
+Prereq: Taijutsu Score of 10
+Cost: 9ChP per minute
+Desc: This causes the user's eyes to go completely white as they start to give off a yellow aura. Activating this stage allows the user to perform the "Silent Fist" technique, rendering one's movements completely silent by shaping the aura cloaking them in a fashion similar to the feathers of an owl.
+
+[B]The Second Activation (第二活性, Daini Kassei)
+Rank: C
+Prereq: Taijutsu Score of 20, 1st Stage Active
+Cost: 11ChP per minute
+Desc: This causes one's body to expand slightly, their muscles becoming distinctly more prominent. 
+
+[B]The Third Activation (第三活性, Daisan Kassei)
+Rank: C
+Prereq: Taijutsu Score of 30, 2nd Stage Active
+Cost: 14ChP per minute
+Desc: This causes one's skin to go red, appearing quite similar to the Gate of Life, their hair standing on end, and bulging veins all over their body. With this Stage, the user may use  the "Three Devil Gales" technique.
+
+[B]The Fourth Activation (第四活性, Daiyon Kassei)
+Rank: B
+Prereq: Taijutsu Score of 40, 3rd Stage Active
+Cost: 16ChP per minute
+Desc: Visably more intense than the 3rd activation, the yellow aura twisting with the winds around you, picking up dust in debris in minor, a 5 meter high whirlwind rising and falling in a 1 meter area around you as you breathe, reducing the OP and ROP of any enemy attack by -7. 
+
+[B]The Fifth Activation (第五活性, Daigo Kassei)
+Rank: B
+Prereq: Taijutsu Score of 50, 4th Stage Active
+Cost: 19ChP per minute
+Desc: Activating this 5th stage shows little noticable difference except increased bloodflow from the nose and pulsing, bulging veins, this severity of rupturing blood vessels increases the Tier of Bleeding by +1. The aura around you has now grown, pulling any would be whirlwind in, joining to for a 11 meter high and 3 meters wide, reducing the OP and ROP of any enemy attack by -14. Entering this stage is the pre-requisite to perform "The Five Earthly Gusts" technique where the user's first move so fast they launch compressed pockets of air at the target!
+
+[B]The Sixth Activation (第六活性, Dairoku Kassei)
+Rank: A
+Prereq: Taijutsu Score of 60, 5th Stage Active
+Cost: 21ChP per minute
+Desc: Activating this Stage shifts the user's yellow aura to a green aura caused by the burning sodium chloride produced by their sweat, adding +1° of Burn as well as +1 tier of Bleed from the warmer, faster flowing blood... The whirlwind around you now has grown to be 17 meters high and 4 meters wide, reducing the OP and ROP of any enemy attack by -21, this air surrounding you is strong enough to pick up any nearby elements, taking up their qualities, and thick enough to obscure the view of any looking into or out of it, treating their view as half blind.
+
+[B]The Seventh Activation (第七活性, Dainana Kassei)
+Rank: A
+Prereq: Taijutsu Score of 70, 6th Stage Active
+Cost: 24 ChP per minute
+Desc: This stage causes the user's body to secrete a blueish, water heavy sweat. The sweat immediately evaporates, creating an aura around the user that can be mistaken for blue chakra increasing the the tier of burning and bleeding by +1°. The twisting winds around you now has grown to officially be recognized as a dust devil, or twister at 23 meters, (70'), high and 5 meters wide, reducing the OP and ROP of any enemy attack by -28. This vortex is now string and thick enough to obscure the view of any looking into or out of it, treating their view as blind. Activating this Srage allows the user to perform the "Seven Heavenly Dragon's Breath", causing the top of their tornado to split into seven dragon heads that the user may pull down to strike and carry their foes...
+
+[|] Doku Sakusei [|]
+ 
+[|] Poison Creation [|]
+ 
+ 
+Rank:
+ 
+Depends on skill level, Active
+ 
+Technique:
+ 
+Iryojutsu
+ 
+Element:
+ 
+ N/A
+ 
+Prerequisite 
+ Dependant on the type of poison
+ 
+Cost:
+ 
+N/A
+ 
+Description:
+ 
+Through the practice of iryojutsu a user of this technique can learn to create varying levels of poison, each rather deadly with unique traits that can cause devastating effects on the battlefield, turning the tides of combat in the castor's favor. To create these poisons one must do so in a crafting post with the ranks of the different poisons being equivalent to the lines required with item crafting of the same rank.
+
+D-Rank
+Prerequisite: 20 Iryojutsu, 10 Intelligence
+The basic poison commonly sold in most shops that are exclusive to Shinobi is the first type of poison medical Shinobi learn. When Crafted the castor will produce three vials of poison per 6 lines. This poison when introduced to the inside of a target's body will cause a tier of poison which can either be healed with certain medicine or with the proper iryojutsu technique.
+
+C-Rank
+ 
+Prerequisite: 60 Iryojutsu, 60 Intelligence
+After properly learning how to make a basic poison in liquid form, Shinobi can then learn how to create such a thing in gas form, allowing for an easier time poisoning targets. Alongside that this poison will cause two tiers of poison and cause a sense of dizziness in a target, reducing their EP, OP, ROP, and movement speed by 20% for as long as they are affected. This poison can also be made in a liquid state as well. If one wishes to be healed by this they must be healed by poison extraction but will take 50% longer if the person healing it has a lower Iryojutsu score than the creator of the poison. It will go faster if the healer instead has double the score. If medical supplies are used it will only be able to heal the tiers of poison, the stat reduction will continue on for a minute after. This poison takes 15 lines to craft
+
+B-Rank
+Prerequisite: 100 Iryojutsu, 100 Intelligence
+From here the skill required to create poisons increases rather exponentially. With this level of poison when administered to a target they will gain t3 poison, and have a 30% reduction to their movement speed, OP, EP, and ROP. On top of that however they will also become half deaf as their hearing slowly starts to fade. Similarly to the rank before if medical supplies are used it will only heal the poison with the effects lasting afterwards for one minute. The same effects follow for using poison extraction. This poison takes 24 lines to craft
+
+A-Rank
+Prerequisite: 150 Iryojutsu, 150 Intelligence
+The next rank of poison allows for medical Shinobi to provide a deadly touch to the battlefield. Far deadlier than the previous ranks. When applied to a target it causes t4 poison and reduces the target's Movement speed, OP, EP, and ROP by 40%, robbing the target of their hearing completely as well as their sight partially! For this to be healed one must use either poison extraction or medical supplies, however the medical supplies will not remove the status effects as those fade within a minute after usage. Requires 33 lines to craft.
+
+S-Rank
+ Prerequisite: 200 Iryojutsu, 500cc
+The final and most deadly type of poison most medical Shinobi know, with it those affected are robbed of their senses. Gaining 5 tiers of poison, their movement speed, OP, ROP, and EP are all reduced by 50% and lose their sight and hearing as well. Medical supplies cannot fully heal this type of poison regardless of how many times used, only reducing the tier of the poison to 1. While poison extraction can work here the person using it has to have an equal or greater Iryojutsu score in comparison to the person who created the poison. Otherwise they too can only heal up to 4 tiers. This poison takes 42 lines to craft
+
+[|] Tsu no Sutansu [|]
+
+[|] The Four Stances [|]
+ 
+ 
+Rank:
+ 
+Depends on Stance
+ 
+Technique:
+ 
+Kenjutsu
+ 
+Element:
+ 
+N/A
+ 
+Prerequisite 
+ Depends on Stance
+ 
+Cost:
+ 
+Depends on Stance
+ 
+Description:
+ 
+Devopled by the samurai clans of the iron summit this kenjutsu has been passed down for generations, finding great use in battle. The user takes a specific stance to temporarily enhance their self through skill and technique alone. However these stances take an immense amount of training in the art of kenjutsu. When someone takes these stances they must pay chakra as they strengthen their inner and outer self however once paid they do not have to pay again unless they deactivate the stance, ontop of not being able to use any other type of Jutsu while in this state besides other kenjutsu.
+
+[|]Stone Stance[|]
+ 
+Rank:D-Rank
+Prereq:20 Kenjutsu
+Cost:15Chakra upon Activation
+Desc:The most basic of the four stances, the stone stance involves the user lifting their sword to the side and widening their legs, stay true to the earth below. While in this stance your Dp is temporary Increased by +30% and you're resistant to the prone status
+
+[|]Water Stance[|]
+ 
+Rank:C-Rank
+Prereq:40 Kenjutsu
+Cost:20Chakra Upon Activation 
+Desc:The user raises above their head and loosens their feet, opening up to new and quick fluid movements, flowing their sword and body like a river. While in this stance your Ep increases by +30% and your Op by+10%.
+
+[|]Wind Stance[|]
+ 
+Rank:B-Rank
+Prereq:60 Kenjutsu
+Cost:25Chakra Upon Activation 
+Desc:The user loosens their entire body while also staying calm and still before moving their body and sword much like the wind in unpredictable and quick movements towards the enemy! While in this stance your OP is increased by +30%! And Your Ep by +15% however Your Dp drops by -15% as the loose form makes it harder to tense up for defense.
+
+[|]Moon Stance[|]
+ 
+Rank:A-Rank
+Prereq:80 Kenjutsu
+Cost:30Chakra Upon Activation 
+Desc:The user lifts their weapon high up towards the sky as they tense up their body  embodied bits from every stance but creating something entirely new! The Moon stance increases The users, Ep, Dp and Op by +!20% while also increasing their Damage by +15% lastly the user is unable to be knocked prone. This stance's strength also creates its downfall, for every swing taken 1% of the total damage is transferred to your weapons DP.
+
+[|]Ghost Stance[|]
+ 
+Rank:S-Rank
+Prereq:120 Kenjutsu
+Cost:50Chakra to Activate, 10Chakra per half-Minute
+Desc:A forbidden stance that greatly enhances one's ability while also submitted them to their most brutal and dishonorable self, while in this stance a users mind is sent into a type of still clam beserk state, as they care only to chop down whatever is infront of them. While in this state the user's damage is increased by +50% while increasing their Ep, Dp, Op by +30% along with being unable to be knocked prone and is unaffected by Disabled limbs, unless chopped off or entirely broken. Not only does stance give the user immense boosts due to the pure powerful nature of it, it's the only one that actively drains chakra from the user, once the user snaps out of this stance for they cannot deactivate it themself, they must either run out of chakra or a close one must try to stop them. Once the user snaps out their, Ep, Dp, Op will all by lowered by -50% for 52Hours(2days).
