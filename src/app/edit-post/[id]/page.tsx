@@ -1,18 +1,19 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { useRouter, useParams } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { db } from "@/lib/firebase";
 import { doc, getDoc, updateDoc } from "firebase/firestore";
 
-export default function EditPostPage() {
-  const { id } = useParams();
+export default function EditPostPage({ params }: { params: { id: string } }) {
+  const id = params.id; // guaranteed string
+  const router = useRouter();
+
   const [title, setTitle] = useState("");
   const [body, setBody] = useState("");
   const [tags, setTags] = useState<string[]>([]);
   const [tagInput, setTagInput] = useState("");
   const [loading, setLoading] = useState(true);
-  const router = useRouter();
 
   useEffect(() => {
     async function fetchPost() {
@@ -25,7 +26,8 @@ export default function EditPostPage() {
       }
       setLoading(false);
     }
-    if (id) fetchPost();
+
+    fetchPost();
   }, [id]);
 
   const handleAddTag = () => {

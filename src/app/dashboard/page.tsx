@@ -1,4 +1,3 @@
-// Posts already displayed with action buttons in previous patch.
 "use client"
 
 import { useEffect, useState } from "react";
@@ -7,8 +6,11 @@ import { listenToAuth } from "@/lib/auth";
 import { ensurePlayerExists } from "@/lib/player";
 import { db } from "@/lib/firebase";
 import { doc, getDoc, setDoc, collection, query, where, getDocs, onSnapshot, orderBy } from "firebase/firestore";
+import { useRouter } from "next/navigation";   // ✅ Added
 
 export default function DashboardPage() {
+  const router = useRouter();                  // ✅ Added
+
   const [posts, setPosts] = useState<any[]>([]);
   const [postsLoading, setPostsLoading] = useState(true);
   const [user, setUser] = useState<User | null>(null);
@@ -23,7 +25,6 @@ export default function DashboardPage() {
       if (u) {
         try {
           await ensurePlayerExists(u.uid, u.email);
-          // Fetch current username
           const userDoc = await getDoc(doc(db, "users", u.uid));
           if (userDoc.exists()) {
             setCurrentUsername(userDoc.data().username || "");
@@ -35,13 +36,14 @@ export default function DashboardPage() {
         }
       }
     });
-    // Listen to posts
+
     const postsRef = collection(db, "posts");
     const q = query(postsRef, orderBy("createdAt", "desc"));
     const unsubPosts = onSnapshot(q, (snapshot) => {
       setPosts(snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })));
       setPostsLoading(false);
     });
+
     return () => { unsubscribe(); unsubPosts(); };
   }, []);
 
@@ -55,22 +57,24 @@ export default function DashboardPage() {
         setUsernameLoading(false);
         return;
       }
-      // Check uniqueness
+
       const usersRef = collection(db, "users");
       const q = query(usersRef, where("username", "==", username));
       const querySnapshot = await getDocs(q);
+
       if (!querySnapshot.empty) {
         setUsernameMsg("Username is already in use.");
         setUsernameLoading(false);
         return;
       }
-      // Set username
+
       await setDoc(doc(db, "users", user!.uid), {
         uid: user!.uid,
         email: user!.email,
         username: username,
         updatedAt: new Date().toISOString(),
       }, { merge: true });
+
       setCurrentUsername(username);
       setUsername("");
       setUsernameMsg("Username updated!");
@@ -85,7 +89,6 @@ export default function DashboardPage() {
 
   return (
     <main className="p-4 max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-6">
-      {/* Sidebar: Locations/Chatrooms */}
       <aside className="md:col-span-1 flex flex-col gap-4">
         <section className="bg-zinc-100 dark:bg-zinc-800 rounded-lg p-4">
           <h2 className="font-semibold mb-2">Locations</h2>
@@ -97,6 +100,7 @@ export default function DashboardPage() {
             <li><button className="hover:underline text-blue-700 dark:text-blue-300">More...</button></li>
           </ul>
         </section>
+
         <section className="bg-zinc-100 dark:bg-zinc-800 rounded-lg p-4">
           <h2 className="font-semibold mb-2">Quick Links</h2>
           <ul className="space-y-1">
@@ -106,7 +110,6 @@ export default function DashboardPage() {
         </section>
       </aside>
 
-      {/* Main Content */}
       <section className="md:col-span-3 flex flex-col gap-6">
         <header className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div>
@@ -121,13 +124,14 @@ export default function DashboardPage() {
               {currentUsername || "Shinobi"}
             </a>
           </div>
-                {/* Create Post Button */}
-                <div className="flex justify-end mb-2">
-                  <a href="/create-post" className="bg-orange-600 hover:bg-orange-700 text-white px-4 py-2 rounded shadow font-semibold">Create Post</a>
-                </div>
+
+          <div className="flex justify-end mb-2">
+            <a href="/create-post" className="bg-orange-600 hover:bg-orange-700 text-white px-4 py-2 rounded shadow font-semibold">
+              Create Post
+            </a>
+          </div>
         </header>
 
-        {/* Alerts/Featured Posts */}
         <section className="bg-yellow-100 dark:bg-yellow-900 rounded-lg p-4 mb-2">
           <h2 className="font-semibold mb-2">Alerts & Featured Posts</h2>
           <ul className="space-y-2">
@@ -136,7 +140,6 @@ export default function DashboardPage() {
           </ul>
         </section>
 
-        {/* Search and Tag Navigation */}
         <section className="flex flex-col md:flex-row gap-2 items-center mb-2">
           <input
             className="border p-2 rounded w-full md:w-1/2"
@@ -148,9 +151,9 @@ export default function DashboardPage() {
           </button>
         </section>
 
-        {/* Main Feed: Posts */}
         <section className="bg-white dark:bg-zinc-900 rounded-lg p-4 min-h-[200px]">
           <h2 className="font-semibold mb-2">Posts & Discussions</h2>
+
           {postsLoading ? (
             <div className="text-zinc-400">Loading posts...</div>
           ) : posts.length === 0 ? (
@@ -162,39 +165,76 @@ export default function DashboardPage() {
                   <div className="flex items-center gap-2 mb-1">
                     <span className="font-bold text-orange-700">{post.title}</span>
                     {post.tags && post.tags.length > 0 && (
-                      <span className="ml-2 text-xs text-blue-600">{post.tags.map((t: string) => `#${t}`).join(' ')}</span>
+                      <span className="ml-2 text-xs text-blue-600">
+                        {post.tags.map((t: string) => `#${t}`).join(" ")}
+                      </span>
                     )}
                   </div>
+
                   {post.thumbnailUrl && (
-                    <img src={post.thumbnailUrl} alt="thumbnail" className="w-24 h-24 object-cover rounded mb-2" />
+                    <img
+                      src={post.thumbnailUrl}
+                      alt="thumbnail"
+                      className="w-24 h-24 object-cover rounded mb-2"
+                    />
                   )}
+
                   <div className="mb-2 text-zinc-800 dark:text-zinc-200">{post.body}</div>
+
                   <div className="flex gap-2 items-center text-xs text-zinc-500 mb-1">
-                    <span>By <a href={post.authorUsername ? `/user/${encodeURIComponent(post.authorUsername)}` : '#'} className="underline">{post.authorUsername || 'Unknown'}</a></span>
+                    <span>
+                      By{" "}
+                      <a
+                        href={post.authorUsername ? `/user/${encodeURIComponent(post.authorUsername)}` : "#"}
+                        className="underline"
+                      >
+                        {post.authorUsername || "Unknown"}
+                      </a>
+                    </span>
+
                     {post.createdAt && (
-                      <span className="ml-2">{post.createdAt.seconds ? new Date(post.createdAt.seconds * 1000).toLocaleString() : ''}</span>
+                      <span className="ml-2">
+                        {post.createdAt.seconds
+                          ? new Date(post.createdAt.seconds * 1000).toLocaleString()
+                          : ""}
+                      </span>
                     )}
                   </div>
+
                   <div className="mt-2">
                     <h3 className="font-semibold text-sm mb-1">Comments</h3>
                     <div className="text-zinc-400 text-xs">(Comments coming soon...)</div>
                   </div>
+
                   <div className="flex gap-2">
                     {user && post.authorUid === user.uid && (
                       <>
-                        <button className="text-blue-600 hover:underline" onClick={() => router.push(`/edit-post/${post.id}`)}>Edit</button>
-                        <button className="text-red-600 hover:underline" onClick={async () => {
-                          if (confirm('Delete this post?')) {
-                            await import('firebase/firestore').then(async ({ doc, deleteDoc }) => {
-                              await deleteDoc(doc(db, 'posts', post.id));
-                            });
-                          }
-                        }}>Delete</button>
+                        <button
+                          className="text-blue-600 hover:underline"
+                          onClick={() => router.push(`/edit-post/${post.id}`)}
+                        >
+                          Edit
+                        </button>
+
+                        <button
+                          className="text-red-600 hover:underline"
+                          onClick={async () => {
+                            if (confirm("Delete this post?")) {
+                              await import("firebase/firestore").then(async ({ doc, deleteDoc }) => {
+                                await deleteDoc(doc(db, "posts", post.id));
+                              });
+                            }
+                          }}
+                        >
+                          Delete
+                        </button>
                       </>
                     )}
+
                     {user && post.authorUid !== user.uid && (
                       <button className="text-pink-600 hover:underline">Favorite</button>
                     )}
+
                     <button className="text-yellow-600 hover:underline">Report</button>
                   </div>
                 </li>
