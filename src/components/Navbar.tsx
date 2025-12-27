@@ -2,15 +2,36 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { auth } from "@/lib/firebase";
+import { useEffect, useState } from "react";
+import { auth, db } from "@/lib/firebase";
+import { onAuthStateChanged } from "firebase/auth";
+import { doc, getDoc } from "firebase/firestore";
 
 export default function Navbar() {
   const pathname = usePathname();
+  const [username, setUsername] = useState<string | null>(null);
+  const [loading, setLoading] = useState(true);
 
-  if (!auth.currentUser) return null;
+  useEffect(() => {
+    const unsub = onAuthStateChanged(auth, async (user) => {
+      if (!user) {
+        setUsername(null);
+        setLoading(false);
+        return;
+      }
+
+      const userDoc = await getDoc(doc(db, "users", user.uid));
+      setUsername(userDoc.exists() ? userDoc.data().username : null);
+      setLoading(false);
+    });
+
+    return () => unsub();
+  }, []);
+
+  if (loading || !username) return null;
 
   return (
-    <div className="fixed top-4 left-4 z-50">
+    <div className="fixed top-4 left-4 z-50 flex items-center gap-3">
       {pathname !== "/dashboard" && (
         <Link
           href="/dashboard"
@@ -20,6 +41,14 @@ export default function Navbar() {
           🏠
         </Link>
       )}
+
+      <Link
+        href={`/user/${encodeURIComponent(username)}`}
+        className="text-sm font-semibold text-orange-700 dark:text-orange-400 hover:underline"
+        title="View profile"
+      >
+        Welcome, {username}
+      </Link>
     </div>
   );
 }
