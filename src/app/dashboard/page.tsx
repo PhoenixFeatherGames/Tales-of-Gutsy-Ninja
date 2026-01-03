@@ -160,8 +160,13 @@ export default function DashboardPage() {
             <div className="text-zinc-400">No posts yet.</div>
           ) : (
             <ul className="space-y-4">
-              {posts.map(post => (
-                <li key={post.id} className="border-b pb-4">
+             {posts.map(post => (
+  <li
+    key={post.id}
+    className="border-b pb-4 cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800 rounded p-2"
+    onClick={() => router.push(`/post/${post.id}`)}
+  >
+
                   <div className="flex items-center gap-2 mb-1">
                     <span className="font-bold text-orange-700">{post.title}</span>
                     {post.tags && post.tags.length > 0 && (
@@ -184,10 +189,11 @@ export default function DashboardPage() {
                   <div className="flex gap-2 items-center text-xs text-zinc-500 mb-1">
                     <span>
                       By{" "}
-                      <a
-                        href={post.authorUsername ? `/user/${encodeURIComponent(post.authorUsername)}` : "#"}
-                        className="underline"
-                      >
+                     <a
+  href={post.authorUsername ? `/user/${encodeURIComponent(post.authorUsername)}` : "#"}
+  className="underline"
+  onClick={(e) => e.stopPropagation()}
+>
                         {post.authorUsername || "Unknown"}
                       </a>
                     </span>
@@ -209,16 +215,22 @@ export default function DashboardPage() {
                   <div className="flex gap-2">
                     {user && post.authorUid === user.uid && (
                       <>
-                        <button
-                          className="text-blue-600 hover:underline"
-                          onClick={() => router.push(`/edit-post/${post.id}`)}
-                        >
-                          Edit
-                        </button>
+                      <button
+  className="text-blue-600 hover:underline"
+  onClick={(e) => {
+    e.stopPropagation();
+    router.push(`/edit-post/${post.id}`);
+  }}
+>
+  Edit
+</button>
+
 
                         <button
-                          className="text-red-600 hover:underline"
-                          onClick={async () => {
+  className="text-red-600 hover:underline"
+  onClick={async (e) => {
+    e.stopPropagation();
+
                             if (confirm("Delete this post?")) {
                               await import("firebase/firestore").then(async ({ doc, deleteDoc }) => {
                                 await deleteDoc(doc(db, "posts", post.id));
