@@ -164,11 +164,16 @@ export default function DashboardPage() {
   <li
     key={post.id}
     className="border-b pb-4 cursor-pointer hover:bg-zinc-100 dark:hover:bg-zinc-800 rounded p-2"
-    onClick={() => router.push(`/post/${post.id}`)}
+
   >
 
                   <div className="flex items-center gap-2 mb-1">
-                    <span className="font-bold text-orange-700">{post.title}</span>
+                    <a
+  href={`/post/${post.id}`}
+  className="font-bold text-orange-700 hover:underline"
+>
+  {post.title}
+</a>
                     {post.tags && post.tags.length > 0 && (
                       <span className="ml-2 text-xs text-blue-600">
                         {post.tags.map((t: string) => `#${t}`).join(" ")}
