@@ -1,5 +1,8 @@
 "use client";
 
+throw new Error("DASHBOARD PAGE LOADED");
+
+
 import { useEffect, useState } from "react";
 import type { User } from "firebase/auth";
 import { listenToAuth } from "@/lib/auth";
