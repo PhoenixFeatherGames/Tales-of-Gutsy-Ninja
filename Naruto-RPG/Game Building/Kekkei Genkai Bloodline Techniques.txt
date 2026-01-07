@@ -1,0 +1,743 @@
+[|] Jiton [|]
+[Bcu][|] Magnet Release [|]
+
+[Bc]Rank:
+[c]KKG,  Passive 
+[Bc]Technique:
+[c]Advanced Nature Transformation 
+[Bc]Element:
+[C]風 +風 + 土 + 土
+[BC]Prerequisite 
+[C]Must have strong Wind and Earth Nature Affinitys.
+[Bc]Cost:
+[C]N/A
+[Bc]Description:
+[C]Magnet Release is a nature transformation kekkei genkai that is a combination of wind and earth natures. Magnet Release users generate a magnetic force which they apply to earthly or metalic substances for various purposes.
+
+[C]Members of the Suna Clan all have a varient of this Hekkei Genkai, but over time have developed unique hijutsu with it that allow them to specifically manipulate metalic dust!
+
+[|] Suna no Sōsa [|]
+[Bcu][|] Sand Manipulation [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG, Hijutsu, Active, Reactive
+[Bc]Technique:
+[c]Sunajutsu
+[Bc]Element:
+[C]Wind, Earth
+[BC]Prerequisite 
+[C]Must be a member of the [Suna Clan|http://aminoapps.com/p/4d7703]
+[Bc]Cost: 
+[C]1 Max Chakra Points per 1 Pound of Sand
+[Bc]Description 
+[C]Sand Manipulation, as the name implies, is the manipulation of it within the relative vicinity. It is both offensive and defensive styled, augmented for making long, mid, and close ranged attacks, weapons, and armor molded by the grains! Only jinchūriki, past and present, of the Ichibi, or the One-Tailed Beast themself, are capable of manipulating actual sand of the desert and earth to the extent that they could be considered a native user of the nature itself. Attempts to replicate it however have yielded with the Immitation of the kekkei genkai,  [Magnet Realease|http://aminoapps.com/p/nglytx], which focuses on manipulating magnetic minerals, such as Iron and Gold by the Suna Clan of the sand village.
+
+[C]User's of this technique may infuse 1 Chakra Point from their Max Chakra Pool per pound. These shavings may manipulated in shape at will! If the dust is "Destroyed", The user's max ChP is unlocked, but, by reinserting the equivilent ChP from their max Chakra Pool as an action, they may once again take control of the metalic residue. The reach and ability to hit with their power is equal to half of their "Will" stat. The stats of these differing materials are as follows:
+
+•Satetsu: Iron Sand can be used to create up to 1 Damage per pound and 2 DP per pound. Users can grind down a half rank of metal into a pound of Iron Sand, destroying it, or buy the iron Sand from the Shop. They also start with "(1ib)Iron Dust | D-" in their inventory.
+
+•Sakin: Gold Dust, being a heavier yet softer metal per square inch, can be used to create up to 2 Damage and 1 DP per pound. Users can grind down 1,000 Ryo to make a pound of Gold Dust, destroying the coins, or buy the Gold Dust from the Shop. They start off already possessing "(1ib)Gold Dust | D-" in their inventory.
+
+•Suna: Sand from the earth can be used to create up to 1 Damage per pound and 1 DP per pound. Users can imbue their chakra into the surrounding earth, practically offering unlimited reserves of supply for their stock with no financial cost or expense. Sand is represented in the inventory of these users as  "(1ib)Sand | E".
+
+[|] Suna Bushin no Jutsu [|]
+[Bcu][|] Sand Clone Technique [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG, Hijutsu, Active, Reactive
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Wind, Earth
+[BC]Prerequisite 
+[C]Suna Clan / Ichibi Host, Must know [|][Clone Jutsu|http://aminoapps.com/p/wcw989][|]
+[Bc]Cost:
+[C]1ib of Infused Sand per 1 HP of Clone
+[Bc]Description:
+[C]Unlike other clone techniques, the sand clone's composition is usually obvious at all times, only taking the castor's basic form, but not their exact appearance. Because of this, the clone can be reverted to sand at any time, most often when being attacked; as it's punched or kicked, the castor can use the clone's sand to immediately capture the opponent's limbs. Alternatively, one could use the clone as a decoy, drawing opponents to it and once they're close enough, manipulating the clone's sand against them. Whereas other clones can only take so much damage before being destroyed, users of this technique can reform the sand clone regardless of what happens to it... 
+
+[C]The clone's stats are 10% of the user, requiring 1 pound of the users own chakra infused sand per Health Point of the clone. As these clon'es HP reduces, the pounds of sand are also destroyed, requiring the castor to re-instill chakra into the sand as they would normally if their dust's DP is broken apart. However, unique to these clone's are the ability to repair themselves with more of the castor's chakra infused grains, restoring 1HP per pound replaced on their body!
+
+[C]Like normal clones, these can perform all the same technique's as the castor, even manipulate their sand, including the sand formong their own bodies! However, if these clones expend chakra for jutsu, it comes from the sand that formed them, because these clones do not have their own chakra pool, instead spending their own HP in place of ChP.
+
+[C]Lastly, the matter used to form the clone also effects the properties of the clone! Iron Sand will increase the clone's DP by 66%, Gold Dust will increase the clone's Melee Damage by 66%, and Earth Sand increase both by 33%. A maximum of 10 of these clones may be formed at any one time by a single castor.
+
+[|] Suna no Fuyū [|]
+[|] Sand levitation [|]
+ 
+
+ 
+Rank:
+ 
+D-Rank, active, reactive
+ 
+Technique:
+ 
+Ninjutsu
+ 
+Element:
+ 
+N/A
+ 
+Prerequisite 
+ Must be Suna, 10 lbs of sand.
+ 
+Cost:
+ 
+N/A
+ 
+Description:
+ 
+ The user uses sand to create a platform capable of supporting their weight, which is suspended in the air with their chakra. One of the simpler purposes for this technique is as a defence, lifting the user out of reach of attacks. While airborne, the user can still use other techniques, such as forming his Shield of Sand around the platform for additional protection. This technique can also be used for transportation, enabling the user to travel around quickly. Platforms can be made larger to support allies, or the user can give allies their own platforms.
+
+This levitating, T1, structure is formed by 10ib of sand and capable of carrying roughly 1 person and their possessions, or 200ib of weight. This platform is capable of manuvering freely in a three-dimensional space with a flying speed of 10. Every 5 pounds, up to +45ib at T10, of sand added to this construct increase the carrying weight by 100ib or an additional person with an increased +5 Flying Speed.
+
+One may create up to 10 T1 platforms,  but they must stay within reach of the castors control. Alternatively,  one may make multiple platforms of different sizes, but the tiers stack and cap at T10 from any combination of platforms and or sizes. 
+
+Sand of the platform may still be used normally,  but may not be removed from the platform. Every pound of sand removed or destroyed reduces the flight speed by -2. Starting from the first pound over, every 20 pounds of weight over the platforms limit also decreases the flight speed by -2. The user may always use there sand to repair their platforms when able as well.
+
+[|] Jiton: Jika no Jutsu [|]
+[Bcu][|] Magnet Release: Magnetism Technique [|]
+
+[Bc]Rank:
+[c]D-Rank, KKG, Passive
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Magnet
+[BC]Prerequisite
+[C]Must possess [Magnet Nature Release|http://aminoapps.com/p/nglytx]
+[Bc]Cost:
+[C]10 Chakra Point per 10ib Force
+[Bc]Description:
+[C]Through the Magnet Release nature, the user is able to magnetise anything they touch as well as themselves, and then subsequently, anything that touches something they have already magnetised, and so on. However, the magnetic force weakens from object to object. Once a person has been magnetised, the user can manipulate the magnetic field in such a manner as to make any subsequent attack using a magnatized weapon practically impossible to evade.
+
+[C]The castor may control whether the magnetic field they place upon themselves or of what they touch is of a +Positive (North) or a -Negative (South) polarity. The user may only remove the charge or change the polarity of said charge of a field by directly coming into contact with it. Whenever anything or anyone, besides the castor unless they will it, comes into contact with these fields, the Magnetic Force is evenly distributed  between these subjects.
+
+[C]Opposite magnetic forces attract, pulling towards eachother, where as the same polarities will push away from eachother. At it's most basic effect, T1, this field reaches out in a 1 meter diameter centered on the magnetised subject. The pushing and pulling strength is treated as 10, so if the total magnetic force between the two subjects is 10ib, adding +10 melee Damage and +10(R)OP to attracted fields within range, or reducing incoming Melee Damage and (R)OP from opposing fields within range by -10. The total added or reduced effect is determined by the total #ib of magnetic force between the effected bodies. 
+
+[C]The user may also increase the Damage and ROP of their own projectiles by charging them opposite to their own field, increasing the force they are launched away. If a target's melee weapon is charged the same as the target, their strength is reduced by that charge when using that weapon for melee, as a portion of their strength is being used to hold the weapon with a magnetic push from the one holding it, but their OP with it would increase as the push from the user is increased.
+
+[C]Targets may also be connected by opposing fields, becoming grappled together with a force of #Str depending on the #ib of force between them. If their is a pulling force between two subjects that are not touching but within magnetic range, their speed is reduced moving away from eachother, or increased if moving towards eachother by an amount equal to the total force. 
+
+[C]A maximum of 100ib of force may be charged to any field at a time, whether that is 10 T1 charges, 1 T10 Charge, 2 T5 Charges, etc.
+
+*There are many out of the box uses for this ability and creative manipulations of the gravitational pulls and pushes of the environment and subjects when in it. The results of these unstated uses of this ability should be discussed and agreed upon by the overseeing Anbu at the time if applicable, or if need be, voted on by Advisors and or Daimyo.
+
+[|] Ranton [|]
+[Bcu][|] Storm Release [|]
+
+[Bc]Rank:
+[c]KKG, Passive 
+[Bc]Technique:
+[c]Advanced Nature Transformation 
+[Bc]Element:
+[C]雷 + 雷 + 水 + 水
+[BC]Prerequisite 
+[C]Must have strong Lightning and Water Nature Affinities and be from No Clan.
+[Bc]Cost:
+[C]N/A
+[Bc]Description:
+[C]Storm Release is a nature transformation kekkei genkai, a combination of lightning and water.  Despite its name, Storm Release does not manipulate actual storms; it instead manipulates energy like beams made of lightning and water natured chakra. It is most often seen being used in the Land of Lightning.
+
+[|] Ranton: Kihō [|]
+[Bcu][|] Storm Style: Energy Burst [|]
+
+[Bc]Rank:
+[c]D-Rank, KKG, Active 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Storm
+[BC]Prerequisite 
+[C]Must possess the Storm Nature Release
+[Bc]Cost:
+[C]10 Chakra Points
+[Bc]Description:
+[C]Energy Bursts are are formed and discharged portions of Storm Release Chakra; the more chakra they use, the bigger the blast. It's basic form creates a small balls of energy with a diameter of 1 foot. Its basic damage can cause "1° Burn" and knock a target prone if hit directly, causing 5 Damage, and takes ROP+30 to dodge! Every 5 points of chakra put into this Technique increases its effect by +1° Burn, +5 Damage, +1', +10ROP, or can create consecutive blasts.
+
+[|] Bakuton [|]
+[Bcu][|] Explosion Release [|]
+
+[Bc]Rank:
+[c]KKG, Passive 
+[Bc]Technique:
+[c]Advanced Nature Transformation 
+[Bc]Element:
+[C]土 + 土 + 雷 + 雷
+[BC]Prerequisite 
+[C]Must have strong Earth and Lightning Nature Affinities and be from No Clan.
+[Bc]Cost:
+[C]N/A
+[Bc]Description:
+[C]Explosion Release is a nature transformation kekkei genkai, a combination of earth and lightning. Explosion Release users utilise explosive chakra in combat. It is seemingly very common in the land of Earth.
+
+[|] Bakuton: Bakusai Tenohira [|]
+[Bcu][|] Explosion Release: Exploding Palm [|]
+
+[Bc]Rank:
+[c]D-Rank, KKG, Active, Reactive
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Explosion 
+[BC]Prerequisite 
+[C]Must possess the Explosion Nature Release
+[Bc]Cost:
+[C]8 Chakra Points 
+[Bc]Description:
+[C]The user concentrates their explosive chakra into the palm of their hand, carefully as to have the resulting Jutsu harm the user, but rather aim away. This explosion only reaches within close to mid range, using ones own OP+2 to hit, and whatever is on the opposing end takes 4 damage and +1°Burn! This can would also blast a target back 4 meters and knock them prone if hit directly!
+
+[C]This can be used in conjunction with taijutsu, adding this explosive damage on top of ones own melee attack, but the user must hit with an open palm. If the user uses their natural DP to block an attack, they may also use this to damage the attacker or their weapon! A user may also cleverly use this to deflect, and redirect,  ranged projectiles! If one blocks a ranged attack with their natural DP, they can use this ability to send the projectile back at the thrower, however doing so damages the projectile, possibly even breaking it.
+
+[C]For every additional +4ChP pushed into this jutsu, the effect is increased by about 50%, adding +2 Damage, +1 OP, +1°Burn per tier.
+
+[|] Meiton [|]
+[Bcu][|] Dark Release [|]
+
+[Bc]Rank:
+[c]KKG, Passive 
+[Bc]Technique:
+[c]Advanced Nature Transformation
+[Bc]Element:
+[C]陰 + 陰 + 陰
+[BC]Prerequisite 
+[C]Must have triple Yin Affinity and be from No Clan.
+[Bc]Cost:
+[C]N/A
+[Bc]Description:
+[C]Dark Release, (冥遁, Meiton), is an advanced nature transformation kekkei genkai that can be used to absorb, manipulate, and release jutsu taken from an opponent through a birthmark on the user's left hand. This mark resembles two diamonds, one overlapping the other. Jutsu's absorbed through the upper square, while it is released and manipulated through the lower.
+
+[|] Meiton: Kyūketsukō [|]
+[Bcu][|] Dark Release: Inhaling Maw [|]
+
+[Bc]Rank:
+[c]D-Rank, KKG, Active, Reactive 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Dark
+[BC]Prerequisite 
+[C]Must possess the [Dark Release|http://aminoapps.com/p/l4aa6sr] Nature Release
+[Bc]Cost:
+[C]50% ChP of Ninjutsu Absorbed 
+[Bc]Description:
+[C]The castor may either absorb the chakra into the upper square of the mark on their left hand or their mouth. By using the upper diamond on their palm, requiring the user to first Defend or Evade against the jutsu, then absorbing the Ninjutsu by burning half ChP it's worth. By using their mouth, the technique's range is bigger as their mouth becomes like a giant jutsu-suctioning vacuum, decreasing the EP or DP cost to absorb by 25%, but increases the ChP required to absorb it to 75% of the Ninjutsu's worth. 
+
+[C]To properly deconstruct and store the jutsu, the castor must have the available slots in their Jutsu Bank to comprehend a jutsu of it's rank. This technique may be able to absorb elemental Ninjutsu made of chakra, but cannot absorb naturally accuring elements, such as water from a river or fire from a torch nor of special types of chakra the user is not able to use, such as Nature Chakra or Tailed Beast Chakra without being a Sage or Jinchuriki.
+
+[|] Meiton: Jajimento [|]
+[Bcu][|] Dark Release: Judgment [|]
+
+[Bc]Rank:
+[c]D-Rank, KKG, Active, Reactive 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Dark
+[BC]Prerequisite 
+[C][C]Must possess the [Dark Release|http://aminoapps.com/p/l4aa6sr] Nature Release, Must possess [|][Inhaling Maw|http://aminoapps.com/p/jj04xt][|]
+[Bc]Cost:
+[C]Dependant on Absorption Process 
+[Bc]Description:
+[C]This technique allows the castor to cast stored Ninjutsu for the same price it was absorbed with using [|][Inhaling Maw|http://aminoapps.com/p/jj04xt][|]. The Ninjutsu is cast from the lower diamond marked on there left palm, or through their mouth. On top of it's natural nature affinity, the Ninjutsu grows Dark, it's nature ALSO becoming Yin release. 
+
+[C]Once the stored Ninjutsu is cast, if obtained via "Inhaling Maw", it leaves the castor's Jutsu Bank, freeing up the filled slots.
+
+[|] Hikariton [|]
+[Bcu][|] Light Release [|]
+
+[Bc]Rank:
+[c]KKG, Passive 
+[Bc]Technique:
+[c]Advanced Nature Transformation
+[Bc]Element:
+[C]陽 + 陽 + 陽
+[BC]Prerequisite 
+[C]Must have triple Yin Affinity and be from No Clan.
+[Bc]Cost:
+[C]N/A
+[Bc]Description:
+[C]Light Release, ( 光遁, Hikariton), is an advanced  nature transformation kekkei genkai that can be used to absorb, store, and restore life force from and or to one's self or another opponent through a birthmark on the user's Right hand. This mark resembles two diamonds, one overlapping the other. Health absorbed through the upper square, while it is released and manipulated through the lower.
+
+[|] Hikariton: Jinsei no Ago [|]
+[Bcu][|] Light Release: Jaws of Life [|]
+
+[Bc]Rank:
+[c]D-Rank, KKG, Active, Reactive 
+[Bc]Technique:
+[c]Iryojutsu 
+[Bc]Element:
+[C]Light
+[BC]Prerequisite 
+[C]Must possess the [Light Release|http://aminoapps.com/p/31qzmy] Nature Release
+[Bc]Cost:
+[C]Chakra Points equal to HP Absorbed 
+[Bc]Description:
+[C]The castor may either absorb the life force of their target into the upper square of the mark on their left hand or their mouth via physical contact. For every second contact is made, 1% of the target's HP is absorbed, so by striking a target with their palm, they would absorb 1%HP,  or by grappling a target for a full round, 6% of their HP would be absorbed!
+
+[C]The absorbed life force may go to durectly healing the user, or, for half the chakra cost, may be stored away for later use, taking up 1 Jutsu Bank Slot for ever 5 Health Points stored, however,  doing so only retains half of the health absorbed. As an example, if 10HP is absorbed,  it would cost 10ChP to directly restore 10HP to the user, or, the user could use 5ChP to store 5HP into their Jutsu Bank, filling 1 slot.
+
+[|] Hikariton: Hyōketsu [|]
+[Bcu][|] Light Release: Verdict [|]
+
+[Bc]Rank:
+[c]D-Rank, KKG, Active, Reactive 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Light
+[BC]Prerequisite 
+[C]Must possess the [Light Release|http://aminoapps.com/p/31qzmy] Nature Release, Must possess [|] [Jaws of Life|http://aminoapps.com/p/7bjmx6] [|]
+[Bc]Cost:
+[C]Dependant on Absorption Process 
+[Bc]Description:
+[C]This technique allows the castor to restore stored, or even active, Life Force for the same cost of Chakra Points of Health Points being distributed. The energy is cast from the lower diamond marked on there Right palm, or through their mouth via direct physical contact. This life energy grows Light, gaining attributes of the Yang release nature. 
+
+[C]This can distribute up to +1% HP per second of direct physical contact. Every stored "5HP" is spent, if obtained via "Jaws of Life", it leaves the castor's Jutsu Bank, freeing up the filled slots.
+
+[|] Mokuton [|]
+[|] Wood Release [|]
+ 
+
+ 
+Rank:
+ 
+KKT, Passive
+ 
+Technique:
+ 
+Advanced Chakra Nature
+ 
+Element:
+ 
+水 + 水 + 土 + 土 + 陽
+ 
+Prerequisite 
+ Must have strong Water, Earth, Yang affinities and be from No-Clan
+ 
+Cost:
+ 
+N/A
+ 
+Description:
+ 
+An extremely rare Nature transformation to only have been seen in the hands of legendary shinobi. The rare nature of this release has a lot of its acutal power shrouded in myth and confusion. Wood release allows the user to seemingly create trees and logs of wood, both from the ground, out of the users body or even from preexisting wood!
+
+[|] Mokuton: Jukai Kōtan [|]
+[|] Wood Style: Deep Forest Emergence [|]
+ 
+
+ 
+Rank:
+ 
+S-Rank, Active, Reactive
+ 
+Technique:
+ 
+Ninjutsu
+ 
+Element:
+ 
+Wood
+Prerequisite:
+ 
+150Chakra Control, 50 Ninjutsu, Mokuton
+ 
+Cost:
+ 
+100 Chakra
+ 
+Description:
+ 
+The User creates a dense growth of trees, controlling how it grows using their chakra. The trees' life force is immense enough to split the earth as they sprout and further pierce through any other obstructions they encounter. This growth is also fast enough that it can capture targets before they have a chance to escape. Its said the first hokage used this technique to serve as a foundation for Konohagakure.
+
+As the user activates this Jutsu 10, 15 meter trees begin to sprout from the ground where the user wants them, the user is freely able to control the trees once they are created and may spend an additional 10 chakra points to sprout another tree, along with growing each one by 5 more meters, each tree has a Strength of 50 and Dp of 45, as they grow they gain +10Strength/Dp per 5 meters!
+
+If the user runs out of chakra or is knocked out they lose control of the trees leaving them in whatever position they were before, the user may also mold the tree in whatever shape they want, instantly creating shelters with the trees stats. The trees will remain even after the users death unless destroyed or dispelled by the user.
+
+[|] Jinkuton [|]
+[|] Swift Release [|]
+ 
+
+ 
+Rank:
+ 
+Kkg, Passive 
+ 
+Technique:
+ 
+Ninjutsu
+ 
+Element:
+ 
+風 + 風 + 雷 + 雷
+ 
+Description:
+ Swift release is a special nature release. With the combination of Wind and Lightning, the two fastest elements, the user is turned into an avatar of speed. The blinding power of lightning and the mind bending fluidity of wind make the user the fastest thing in their vicinity. When used, swift release makes Taijutsu useless against the user unless their opponent is faster. And that's at it's weakest levels. At it's strongest it's overwhelming speed is enough to completely bend spacetime around the user. Mastered users of Swift release become speed incarnate, forces of nature who's speed and physical prowess is unrivaled.
+
+[|] Jinton: Subayai Te [|]
+[Bcu][|] Swift Release: Swift Hand [|]
+
+[Bc]Rank:
+[c]E-Rank, KKG, Active, Reactive 
+[Bc]Technique:
+[c]Taijutsu, Ninjutsu
+[Bc]Element:
+[C]Swift
+[BC]Prerequisite 
+[C]Must Posess [Swift Release|http://aminoapps.com/p/e031nr]
+[Bc]Cost:
+[C]2 Chakra Points and 1 Evasion Point
+[Bc]Description:
+[C]For swift release user's, sometimes it is easier to maneuver around the world around them with their gifted speed by first focusing on movibg a smaller, more controllable portion of their body swiftly through said world first. 
+
+[C]By chanelling their unique chakra through their arms, focusing on delivering their hands from point A to point B, they are able to add +3 to their own attacks OP or ROP, as well as reduce the ROP of incoming projectiles by -3EP if attempting to catch them! This ability increases by 3 for every 2 ponts of Chakra and 1 point of EP put into it.
+
+[|] Jinton: Mueishō [|]
+[Bcu][|] Swift Release: Shadowless Flight [|]
+
+[Bc]Rank:
+[c]D-Rank, KKG, Active, Reactive 
+[Bc]Technique:
+[c]Taijutsu, Ninjutsu
+[Bc]Element:
+[C]Swift
+[BC]Prerequisite 
+[C]Must Posess [Swift Release|http://aminoapps.com/p/e031nr]
+[Bc]Cost:
+[C]3 Chakra Points and 2 Evasion Points per Minute
+[Bc]Description:
+[C]Shinobi's with Swift Release uses this technique to move at instantaneous speeds, rapidly striking his opponents at various angles while avoiding any opposition regardless of the opponent's speed or strength. This technique is very effective against strength-based close-combat taijutsu users.
+
+[C]Every Teir of this technique increases the castor's base speed by +10% per minute, theorfore temporarily increasing all stats affiliated with speed temporarily, being reduced soon after by an amount equal to the amount it was increased. As an example, T10
+
+[|] Jinton: Zanzō no Jutsu [|]
+[|] Swift Release: Afterimage Technique [|]
+ 
+Rank:
+ 
+C-Rank, Active, Reactive
+ 
+Technique:
+ 
+Taijutsu, Ninjutsu
+ 
+Element:
+ 
+Swift
+Prerequisite 
+ 
+Must have Swift release, 100 Chakra control
+ 
+Cost:
+ 
+Dependant on usage
+ 
+Description:
+ 
+One can move so fast that those too slow only see an after image of what was, those who wield swift release have the potential to learn this technique. However to create an after image would require great skill and as such not many active speeds of this level. Those who do gain a massive advantage against an opponent too slow to stop them.
+
+As an attack approaches the user they can choose to dodge it, paying chakra equal to 50% of the EP required to leave an after image as they disappear from view effectively granting them full stealth for a turn with no cover unless the foe is aware of this technique or has double the speed stat thus making it half stealth. The user will however have to dodge the attack completely and if there are several then using it on the first gives the after image EP equal to half of the user’s speed to use.
+
+Alternatively one could use the after image technique to fool opponents before they can even attack, by paying 25% of their OP with both chakra and EP one can leave an after image for a turn as they gain either half or full stealth given the situation. Regardless of which way this technique is used one cannot increase it’s effectiveness in tiers making it useful in certain situations but not always working.
+
+[|] Jinton [|]
+[|] Dust Release [|]
+ 
+
+ 
+Rank:
+ 
+KKT, Passive
+ 
+Technique:
+ 
+Ninjutsu
+ 
+Element:
+ 
+火 + 土 + 土 + 風 + 風
+ 
+Prerequisite 
+ Strong Affinity for both earth and wind with an affinity for fire
+ 
+Cost:
+ 
+N/A
+ 
+Description:
+ 
+Dust Release sometimes referred to as practical style is a chakra nature transformation or known as a kekkei tota, this KKT is known as one of the most deadly in the world, many shinobi have fallen to users of it, however it also is an incredibly taxing nature transformation. Users of this Jutsu are rarely ever found weak due to the great chakra cost making anyone who has this release even more deadly.
+
+[|] Kōton [|]
+[|] Steel Release [|]
+ 
+
+ 
+Rank:
+ 
+KKG, Passive
+ 
+Technique:
+ 
+Advanced Chakra Nature
+ 
+Element:
+ 
+ Earthx3
+ 
+Prerequisite 
+ Must have strong Earth affinities and be from No-Clan
+ 
+Cost:
+ 
+N/A
+ 
+Description:
+ 
+Those with steel release have been seen as extremely formidable foes, on the battlefield they are not only able to turn their body to steel making themselves nearly invincible while also continuously making weapons out of their body that they can control.
+
+[|] Kōton: Hagane no Kōshō [|]
+[|] Steel Release: Steel Arsenal [|]
+ 
+
+ 
+Rank:
+ 
+C-Rank, KKG, Active, Reactive
+ 
+Technique:
+ 
+Ninjutsu
+ 
+Element:
+ 
+Steel
+ 
+Prerequisite 
+ Must possess Steel Release
+ 
+Cost:
+ 
+5 Chakra Points
+ 
+Description:
+ 
+The user is able to manipulate the steel nature chakra in their body to form metallic objects from their body, these objects can be items as simple as steel ingots to swords. This technique is highly useful when it comes to supplying those around you and oneself as a mobile armory.
+
+Shinobi with this technique may create any physical [|]Weapon or Tool[|] out of steel for 5 Chakra Points per half rank, ie, a D- Item worth 3 stat points, would cost -5 ChP to form. You may also adjust the properties of the object, making it harder, lighter, stronger, or faster. Doing so increases the objects stats by 3 points, also increasing the objects worth by half a rank for every tier spent forming the item. The properties of steel by default add +1DP per rank to the item, giving objects without a listed DP an initial 2DP.
+
+[|] Kōton: Fū Shintō-sei no Yoroi [|]
+[|] Steel Release: Impervious Armour [|]
+ 
+
+ 
+Rank:
+ 
+B-Rank, KKG, Passive
+ 
+Technique:
+ 
+Ninjutsu
+ 
+Element:
+ 
+Steel
+Prerequisite 
+ 
+Must possess steel release, 100 chakra control
+ 
+Cost:
+ 
+30 Chakra points per minute
+ 
+Description:
+ 
+This technique allows the user to turn their body into jet-black steel which in turn allows them to take a lot of hits while not taking damage, many who use this technique are said to be invincible thus the name.
+
+After using this technique the user’s body turns into jet-black steel, while in this form the user gains a 60% boost to DP while also being immune to status effects like bleed, poison, burn, and even things like prone while in this state due to the user’s body turning into steel, however due to the user’s body now being steel they take double damage from lightning techniques.
+
+[|] Kōton: Hagane Kabe [|]
+[|] Steel Release: Steel Wall Technique [|]
+ 
+Rank:
+C-Rank, KKG, Active, Reactive
+ 
+Technique:
+Ninjutsu
+ 
+Element:
+Steel
+Prerequisite 
+ 
+Must possess steel release, 60 Chakra control, 20 Ninjutsu
+ 
+Cost:
+ 
+25 Chakra points
+ 
+Description:
+ 
+ The user raises a steel shield from the ground, in the form of a defensive wall. The shield is strong enough to ward off large amounts of damage.
+
+It's lowest form, it has a DP of 60. It's size and shape are maluable to the castors needs, but the sum of it's thickness, height, and width/length can stretch no more than 10 meters. For example: 1m thick, 4m high, 5m long. For every additional 15ChP, the total size and DP increases by +10. Similarly to earth wall this technique stays after being cast.
+
+[|] Karada Suika [|]
+[Bcu][|] Body Hydrification [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG, Passive 
+[Bc]Technique:
+[c]Ninjutsu, Hijutsu
+[Bc]Element:
+[C]Water
+[BC]Prerequisite 
+[C]Must be member of the Hōzuki Clan.
+[Bc]Cost:
+[C]1ChP (Partial body) / 5ChP (Full Body) per Round/6 seconds. This costs Chakra to activate, but not to de-activate.
+[Bc]Description:
+[C]This ability, a hallmark of the Hōzuki clan, allows the user to liquefy any part of their body at will, from the hair on their head to the muscles in their arms. When the user is struck by a physical attack, the impacted area becomes liquid, causing the attack to pass through them and leave them unharmed. The user then solidifies back into their original form. Despite the versatility of their liquid states, they are unable to counter elemental Ninjutsu  this way, rendering Hōzuki very vulnerable to Lightning Release, as well as effects from Poison, recieving double the damage, but halving that of Fire Jutsu.
+
+[C]It is said that 60% of the human body is is water, and though Hōzuki may temporarily change this too 100%, they have a Water Pool, (WP), equal to 60% of their max HP in ounces. This is filled by drinking, typically water, or instantly absorbing water while fully liquified! This technique does not liquify ones items or clothes, but such things may be carried along within your liquified mass. If your WP is 0, your body cannot liquify. When you return your body to a solid state, it returns to it's previous condition it was before liquifying. 
+
+[C]Whenever they liquify to bypass physical attacks, they use their WP instead of HP. They may also use their own WP to perform Water jutsu when seemingly no water is around, where 1 WP = 2oz.
+
+[C]Hōzuki may fully liquify their entire body to perform a number of amazing things. Once fully liquified, they may slip through otherwise impassable obstacles,  camouflage onto the surface of water, triple their swimming speed, and breathe underwater! 
+
+[C]While in a fully liquified state, on land, they will be treated as "Prone", but solidifying from this state will nullify your Prone status, or even Grappled Status, without reducing any remaining movement distance! If a portion of their body becomes disabled, (eyes, ears, limbs), they can liquify and solidify that portion, and burn 10% WP to repair it. To regrow completely lost limbs, -20%WP must be spent from a fully liquified state. They may also use this technique to heal tiers of Bleed and Burn at the equivalent %cost of their max WP, (-1%Bleed =-1%WP).
+
+[|] Suiton: Gōsuiwan no Jutsu [|]
+[Bcu][|] Water Style: Great Water Arm Technique [|]
+
+[Bc]Rank:
+[c]B-Rank, KKG, Passive
+[Bc]Technique:
+[c]Ninjutsu, Taijutsu
+[Bc]Element:
+[C]Water
+[BC]Prerequisite 
+[C]Must be member of the Hōzuki Clan., 100 Chakra Control
+[Bc]Cost:
+[C]15Chakra Points + 15 Water Points per stat point per Minute
+[Bc]Description:
+[C]By putting the Hydrification Technique into practical use, the muscles of the arm are temporarily enlarged and strengthened. Moisture is gathered from the whole body and compressed into the entire arm, like an instant pump-up. However, because it is essential to properly control the moisture balance inside the body, this technique's degree of difficulty is very high. The technique gives the user superhuman strength, capable of breaking through both rock walls and steel doors with ease and able to wield two handed weapons with a single arm!
+
+[C]This technique may only be used on one limb at a time.This increases the Strength and Stamina of the user's Arm by +15 per tier, also increasing the DP, OP and ROP when using this arm. Despite the name, this technique may also be used on a user's Leg, (Gōsui-ashi). Using this technique on one's leg increases the limb's Strength and Speed by +15, also increasing the EP, OP, and Movement Speed when using this leg.
+
+[|] Shikotsumyaku [|]
+[Bcu][|] Dead Bone Pulse [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG,  Active,  Reactive 
+[Bc]Technique:
+[c]Shikotsumyaku, Iryojutsu 
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite 
+[C]Must be member of the Kaguya Clan.
+[Bc]Cost:
+[C]2 Chakra Points, 1 Health Points
+[Bc]Description:
+[C]Shikotsumyaku is a kekkei genkai which gives its wielder the ability to manipulate their own bones. It manifests within members of the Kaguya clan. Users of Shikotsumyaku possess three unique skills: the ability to control their osteoblasts (cells responsible for producing bones); the ability to control their osteoclasts (cells responsible for breaking down bones); the ability to regulate their bones' calcium density.
+
+[C]With Shikotsumyaku, users can grow new bones anywhere in their body. Typically these bones are functionally and visually identical to other bones in the body, such as the spine or ribs. Other times the bones will be similar to standard bones, but with specific alterations. If the user chooses, they can create entirely original bones with no clear parallels.
+
+[C]]You may create any physical [|][Weapon or Tool|http://aminoapps.com/p/n0y9sp][|] out of your own bones for the cost of 1 Max Chakra Point and 2 Max Health Points per 3 Stat Points, adjusting the density of the bone that is forming the object, making it harder, lighter, stronger, or faster, distributing the stat points as they please as they form the macabre instrument. Using this technique, they may also re-absorb any bones they have formed or extended from their body, restoring +1MChP and +2 MHP from every 3 stat points of the item, stat points ≤2 will restore MHP. This may also be restored by absorbing osteoclasts of the deceased...
+
+[C]To compensate for the drastic effect this ability would have on a person of normal anatomy, the Kaguya clan have a unique physiology and healing factor. Using their ability causes 1 teir of bleeding, but they naturally heal 1 tier of bleeding per round. They may also remove broken bones to grow new replacements practically instantly!
+
+*This ability's usage must always be posted publicly via chatroom or blog, and the user's status must be updated accordingly.
+
+[|] Shikotsumyaku: Teshi Sendan [|]
+[Bcu][|] Dead Bone Pulse: Finger Shrapnel [|]
+
+[Bc]Rank:
+[c]D-Rank KKG, Active
+[Bc]Technique:
+[c]Shikotsumyaku, Bukijutsu,  Iryojutsu
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite 
+[C]Must posess [Shikotsumyaku|http://aminoapps.com/p/xaaa58]
+[Bc]Cost:
+[C]1 Health points and 2 Chakra Points per Shot
+[Bc]Description:
+[C]The user parts their fingertips, creating holes that expose hardened finger bones. They can fire these with pulses of chakra individually or in volleys (five per hand, 10 max at a time), causing a loud sound as they're fired. The bullets travel incredibly quickly through the air and take a spinning motion. Upon impact, the bullets tear through skin, flesh, bone and can even pierce a samurai's armour.
+
+[C]Each bullet fired is similar to a Senbon, (Finger Shrapnel <Sharp/3Damage>), but are destroyed once they make any sort of impact. This techniq does not cause any bleeding, however, if all 5 fingertips on a single hand are fired, the hand is disabled until the start of the user's following turn. The castor may also theoretically use their toes, disabling the foot if 5 toe bones are shot, disabling that leg. Only one digit is restored per round.
+
+[|] Shikotsumyaku: Shikabane-kotsu no Mai [|]
+[Bcu][|] Dead Bone Pulse: Dead Bone Dance [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG, Passive
+[Bc]Technique:
+[c]Iryojutsu, Shikotsumyaku
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite 
+[C]Must possess [|] [Shikotsumyaku|http://aminoapps.com/p/xaaa58] [|] score of 10
+[Bc]Cost:
+[C]6 Chakra Points, 9 Health Points 
+[Bc]Description:
+[C]This technique uses the same principles as "Dead Bone Pulse" in functionality, and is just as versatile,  but it in utility it is optimized for convenience in the field.
+
+[C]In practice, the castor forms or manipulates their bones to create offensive or defensive forms, however,  unlike Shikotsumyaku's useage, the castor does not need the time to form and draw full arsenals, instead forming protrusions directly through their skin while remaining completely connected to their body, keeping their hands free!
+
+[C]These partial formations can take the shape of blades, spikes, rods, or coverings made of bone. For every Tier, one of these protrusions may be formed with a stat value of 15 points. 
+
+[C]If "Sharp" protrusions are formed suddenly at the point of a would be impacted area, the attacker must spend EP equivilent to half of their own attack to avoid damaging their weapons, or even mutilating themselves...
+
+[C]As per Shikotsumyaku's normal use, each use, regardless of Tier, causes 1 Tier of Bleeding to the user, but also causes +1 Bleed when suddenly retracted! Luckily, their body's natural ability to naturally heal 1 Tier of Bleeding per round helps to slightly compensate for this physical trauma. As mentioned, just as these may passivley be formed on a whim, these formations may passivley re-absorbed, restoring +1ChP and +2 HP from every 3 stat points of the growth, any surplus stat points will restore HP.
+
+[|] Shikotsumyaku: Soto Kokkaku [|]
+[Bcu][|] Dead Bone Pulse: Exoskeleton [|]
+
+[Bc]Rank:
+[c]B-Rank, KKG, Active, Reactive
+[Bc]Technique:
+[c]Shikotsumyaku, Iryojutsu 
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite 
+[C]Must possess [|] [Shikotsumyaku|http://aminoapps.com/p/xaaa58] [|] score of 20, Chakra Control of 100
+[Bc]Cost:
+[C]15 Chakra Point & 10 Total Natural Defensive Points per 30 Temporary Health Points
+[Bc]Description:
+[C]The Kaguya uses their unique anatomy and chakra to transfer their osteoclasts from inside their body to just under/over the top layer of their skin through their pores, weakening their endoskeleton to form an exoskeleton...
+
+[C]This creates +30 Temp HP, (HP: #/#+30), at the cost of 15ChP and -10 Total Nat DP (-10 Current & -10 Max DP), making the bone layered, denser, and stronger. This exoskeleton protects the user's direct health and even protects them from threats that could normally bypass DP. This layer of bone protecting vitals and veins also defends the user not only from attacks that would cause bleed, but also allows the use of "Dead Bone Pulse" techniques by using Temp HP instead of Nat HP, and without causing Tiers of Bleed from these techniques, (this does not protect from effects of Burn, Poison, Frostbite, Shock, Acid, etc). This technique may also be used in reverse to convert it's Temp HP back to Total Nat DP, and ChP, any surplus points restoring Nat DP.
+
+[|] Shikabane-Kotsu Sawarabi no Mai [|]
+[|] Dead Bone Fern Dance [|]
+ 
+
+ 
+Rank:
+ 
+A-Rank, KKG, Active 
+ 
+Technique:
+ 
+Ninjutsu, Iryojutsu 
+ 
+Element:
+ 
+N/A
+ 
+Prerequisite  
+ Must possess Shikotsumyaku Score of 40, 
+150 Chakra Control
+ 
+Cost:
+ 
+ 4 Health Points, 8 Chakra Points
+ 
+Description:
+ 
+This technique is a powerful offshoot of the Kaguya in which the castor can pour their osteoblasts into the ground, causing blades of bone to sprout from the earth!  Because of how fast the bones shoot up from the ground and how far and tall they can grow, the Dead Bone Ferns skew any unsuspecting target in their path!
+
+For the cost of -4HP and -8ChP, the castor creates a meter tall & foot wide spike, a T1 Bone Fern (Sharp, 3DMG, 3DP, 3’) that shoots up from the ground at their target. This has a reach equal to half the castor’s ROP. This attacks ROP is equal to the user’s ROP-Distance of target, however, each spike is considered half stealth unless somehow sensed or tracked before sprouting.
+
+For each Tier, the max range is increased by +1 and another spike may sprout from the ground, or the stats of a singular spike may be stacked as it grows larger, stronger, and sprouts more “branches”, potentially forming a garden of death, or an unyeilding bone tree.

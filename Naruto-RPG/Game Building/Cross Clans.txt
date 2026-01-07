@@ -1,0 +1,794 @@
+[|]Kaguya/Hozuki[|]
+
+[Bc]Village
+[C] [Kirigakure|http://aminoapps.com/p/avggfft]
+
+[Bc]Skill Proficiencies: 
+[C]+3 Shikotsumyaku, +1 Taijutsu, +1 Kenjutsu, +1 Bukijutsu, +2 Iryojutsu, -3 Genjutsu, -5 Fuinjutsu
+
+[Bc]Clan Ability:
+
+[cu]Distant Descendant of Kaguya:
+[C]As half descendants of Kaguya Ōtsutsuki, they have inherited a derivative of her original ability to manipulate one's bone structures through their kekkei genkai "[Shikotsumyaku| http://aminoapps.com/p/xaaa58 ]", but at +50% the cost, their body not properly suited for the dramatic ability, which also only allow them to heal from 1 tier of bleeding, if applicable, every 2 rounds.
+
+[cu]Deluted Water Body:
+[C]Even related members of this clan have gained the ability to change their entire body into water at will through their Kekkei Genkai, the "[Body Hydrification|http://aminoapps.com/p/j7w94o]", but at +50% the cost.
+
+[Cu]Snovia
+[C]By making use of their inherited ability to liquify any part of their body via Body Hydrification, aswell as shape and produce their own bodies bone structure, this shinobi crossed between two clans is able to bypass the HP requirements and bleeding normally caused by using Shikotsumyaku techniques by spending their WP instead, liquifying their flesh and bones! External bones they have produced may also be liquified, as they are still made from their own body and chakra!
+
+[Bc]Chakra Natures: 
+[C]水², 土, 陽
+
+[|]Kaguya/Samurai[|]
+
+[Bc]Village
+[C] [Kirigakure|http://aminoapps.com/p/avggfft] / [Iron Summit|http://aminoapps.com/p/n6dwdz]
+
+[Bc]Skill Proficiencies: 
+[C]+3 Shikotsumyaku, -8 Ninjutsu, +8 Taijutsu, +8 Bukijutsu, +9 Kenjutsu, -8 Genjutsu, -8 Fuinjutsu, -4 Iryojutsu
+[Bc]Clan Ability:
+[cu]Bushido Inspired: 
+[C]A samurai believes that his swords held his soul. That made the sword the most important thing he had. You are a descendant of such a warrior, and have inherired a Tanto <§, +6Dmg, +3ROP> | B as a testimate to said heritage. On top of that, you have been taught the basics of the " [Samurai Sabre Technique|http://aminoapps.com/p/ov439es] ", though only half as efficient as a true Samurai.
+
+[cu]Distant Descendant of Kaguya:
+[C]As half descendants of Kaguya Ōtsutsuki, they have inherited a derivative of her original ability to manipulate one's bone structures through their kekkei genkai "[Shikotsumyaku| http://aminoapps.com/p/xaaa58 ]", but at +50% the cost, their body not properly suited for the dramatic ability, which also only allow them to heal from 1 tier of bleeding, if applicable, every 2 rounds.
+[Bc]Chakra Natures: 
+[C]火, 風, 雷, 土², 水²
+
+[|]Senju/Aburame[|]
+
+[Bc]Village
+[C] [Konohagakure|http://aminoapps.com/p/y5zj5ub] / [Sunagakure|http://aminoapps.com/p/6goi6w8]
+
+[Bc]Skill Proficiencies: 
+[C]+3 Konchūjutsu, +1 Ninjutsu, +2 Taijutsu, -2 Genjutsu, -2 Kenjutsu, -2 Bukijutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Asura: 
+[C]As a very distant dicendant Asura's, this shinobi's Chakra Pool is equal to (Int+Sta+Will)×1.5.
+[Cu]Sensory Sensitivity:
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+[Cu]A Half-Thousand Skills
+[C]Compared to full blooded Senju, these half breeds may not specialise in just one area, but are known to struggle in the ones they don't, starting with +1 in four of their Jutsu Skills.
+[Cu]Late Bloomer
+[C]It is said that once a Senju has fully matured, their true potential will bear fruit in the form of an advanced nature, but for those with roots that do not run as deeply struggle to grow as well... Once a half blooded senju's reaches 500 Potential, they may only then hope to awaken an "Advanced Nature Release" they meet the prerequisites for, or increase a nature affinity they posess by +1 stage..
+[cu]Infested: 
+[C]Only members of the Aburame clan may host and breed these special instects, gaining the [Parasitic Insects Technique|http://aminoapps.com/p/6u7lu4] by default, however as a have breed, your body is less suited to host as many insects, requiring more energy to maintain at 3MChP per swarm housed in their hive. You start by housing the following species;
+•Cicada <XT, 0.001Dmg, 0.001DP, 0.003ChP Drain> | D-
+[Bc]Chakra Natures:
+[C]土, 水², 陽
+
+[|]Uchiha/Yamanaka [|]
+
+[Bc]Village
+[C] [Konohagakure|http://aminoapps.com/p/y5zj5ub] / [Iwagakure|http://aminoapps.com/p/6k9ls0]
+[Bc]Skill Proficiencies: 
+[C]+3 Shintenjutsu, +1 Ninjutsu, +1 Genjutsu, +1 Bukijutsu, -2 Fuinjutsu, -2 Taijutsu, -2 Kenjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Indra: 
+[C]As a distant descendant, the half Uchiha may awaken the power of the "[Sharingan|http://aminoapps.com/p/wwbmml]", given the right circumstances, which is added to the shinobi's list of Jutsu Skills, improving as used, however, only the diluted potency halves the their effect.
+[Cu]False Pride of the Uchiha: 
+[C]Half Uchiha begin knowing the "[Firestarter Technique| http://aminoapps.com/p/7cyxdp ]", regardless of the user's elemental affinity, regardless of Jutsu bank size.
+[cu]Mirror Mind:
+[C]Members of the Yamanaka clan are able to transfer their own minds into the body of another, assentially hijacking their targets body! This signature move is the "[Mind Transfer Technique|http://aminoapps.com/p/5i620k]", taught to all Yamanaka. Yamanaka have "Shintenjutsu" listed amongst their Jutsu Skills. Half bred from this clan and taught the basics, this user can only use jutsu of the Yamanaka clan with half of the effect. This individual may also cast this technique via direct eye contact through their Sharingan, when applicable. 
+[Cu]Sensory Sensitivity: 
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+[Bc]Chakra Natures: 
+[C]火, 陰², 土
+
+[|]Nō-Clan/Hozuki[|]
+[Bc]Village
+[C][Any Village|http://aminoapps.com/p/vk8tcr]
+[Bc]Skill Proficiencies:  
+[C]+2 Ninjutsu, +2 Taijutsu, -4 Fuinjutsu
+[Bc]Clan Ability:
+[Uc]Work Ethic:
+[C]You start with +5 Points to spend freely on any Jutsu Skill Score!
+[Cu]Extra Potential: 
+[C]Their max EXP is capped at 550 instead of 500 points and are able to awaken a single advanced nature release, that is not clan locked, gaining an E-Rank starting jutsu of said nature when awakened. 
+[cu]Deluted Water Body:
+[C]All members of this clan have gained the ability to change their entire body fully into water at will through their Kekkei Genkai, the "[Body Hydrification|http://aminoapps.com/p/j7w94o]", but at +50% the cost.
+[Bc]Chakra Natures: 
+[C]水, 陽, +1
+
+[|]Uchiha/Chikamatsu[|]
+[Bc]Village
+[C] [Konohagakure|http://aminoapps.com/p/y5zj5ub] / [Sunagakure|http://aminoapps.com/p/6goi6w8]
+[Bc]Skill Proficiencies: 
+[C]+3 Kugujutsu, -1 Genjutsu, +3 Bukijutsu, -2 Iryojutsu, -3 Taijutsu, +1 Kenjutsu, -1 Fuinjutsu 
+[Bc]Clan Ability:
+[cu]Distant Descendant of Indra: 
+[C]As a distant descendant, the half Uchiha may awaken the power of the "[Sharingan|http://aminoapps.com/p/wwbmml]", given the right circumstances, which is added to the shinobi's list of Jutsu Skills, improving as used, however, only the diluted potency halves the their effect.
+[Cu]False Pride of the Uchiha: 
+[C]Half Uchiha begin knowing the "[Firestarter Technique| http://aminoapps.com/p/7cyxdp ]", regardless of the user's elemental affinity, regardless of Jutsu bank size.
+[cu]Proud Puppeteer: 
+[C]Only members of the Chikamatsu clan may control and customize these special puppets, posessing the [Puppet Technique|http://aminoapps.com/p/1n25bh], regardless available Jutsu Bank slots, adding "Kugutsu" to their list of skills, however,  even the basics may be taught to impure bloods, though the chakra cost is +50%, and starting as Genin gain the following, Small Sized, puppet as a base. This "Puppet" may easily be mistaken for a prestigious fan, adorned with reflective tomoe, reminiscent of magatama. The puppet itself may be used in conjunction with wind jutsu to intensify their breeze, which in turn may be used to fan the flames of fire ninjutsu, and it's mirrored surface is clear enough to reflect the shinobi's face from a distance,  increasing the range of their gaze.
+•Sm Uchiwa Puppet <1', 3Dmg, 3DP,  3EP, 3OP, Fan, Refelctive> | C+
+[Bc]Chakra Natures: 
+[C]火, 風, 水, 陰
+
+[|]Wasabi / Akimichi[|]
+[Bc]Village
+[C] [Kumogakure|http://aminoapps.com/p/ic9pa54] / [Iwagakure|http://aminoapps.com/p/6k9ls0]
+
+[Bc]Skill Proficiencies: 
+[C]+3 Calorie Control, +3 Cat Cloak, +1 Ninjutsu, +1 Taijutsu, +1 Bukijutsu, +1Kenjutsu, -5 Genjutsu, -5 Iryojutsu
+[Bc]Clan Ability:
+[cu]Caterpillar Body:
+[C]Half Akimichi may still use the chakra they store to perform the body-expanding "[Partial Expansion Technique|http://aminoapps.com/p/rmp0lt]", but Akimichi techniques perform at half efficiency, allowing them to increase the size of their limbs or torso and grab, smash, or slam anything in their way, but at -50% effect as their body is less pre-disposed to the dramatic alterations! 
+
+[Cu]Calorie Management 
+[C]Typically, Akimichi may freely convert the calories they consume into chakra, hence their husky physique and frequent eating habits. This ability is refered to as "Calorie Control" and is the core technique to the Akimichi clans Hijutsu, and is added to their list of Justu Skills. They must try to track their calories for this reason, getting a pool of Calories they can safley burn equal to 3× their HP, which recovers at the same rate as their HP, or by eating, gaining +100Cal per half rank of food items. The Akimichi developed the Three Coloured Pills for easier use of this technique, however, the use of these pills carry great risks. However, it takes more time for half Akimichi to master, so genin start with a set of 3 colored pills of special hijutsu medicine in case of absolute emergencies to force this power, allowed to carry no more than one of any single pill at any given time. These pills however pose a larger risk to those without the pure Akimichi physique, and offer less reward. If all three pills are taken, their effects are stacked together, good and bad, and force the Half-Akimichi into a Psuedo-Butterfly Mode!
+
+•Green Spinach Pill <This converts 5% of one's Max HP and turns it into fuel, gaining +5% Chakra and allowing them to burn 20 more calories past the safe amount, (negative number if past 0). The user's  Strength, Stamina, and Speed by 5% for 1 round, however,  this also causes 2% Poison and a 3% Debuff to Str, Sta, and Spe until Calories are restored.> | D
+
+•Yellow Curry Pill <This converts 13% of one's Max HP and turns it into fuel, gaining +13% Chakra and allowing them to burn 50 more calories past the safe amount, and increases  the user's  Strength, Stamina, and Will by 13% for 3 rounds, however, this also causes 4% Poison and a 7% Debuff to Str, Sta, and Spe until Calories are restored.> | C
+
+•Red Chilli Pill <This converts 33% of one's Max HP and turns it into fuel, gaining +33% Chakra and allowing them to burn 80 more calories past the safe amount, also increasing  the user's  Strength, Stamina, and Will by 33% for 6 rounds, however,  this also causes 8% Poison and a 17% Debuff to Str, Sta, and Spe until Calories are restored.> | B
+
+[Cu]Feline Similarities
+[C]As descendant members of this clan, these shinobi have certain feline characteristics, including tails, and greatly enhanced senses, especially their sense of smell, turning any stealth attempts against them into half stealth, increasing their their ability to find those hiding by 50%. This also gives a +25% bonus to see through illusions without sound and another 25% bonus to see through illusions without scent.
+[cu]Neko-notes
+[C]The Wasabi clan has passed down Hiden Fuinjutsu techniques that form cat like traits in chakra form, able to enhance their own senses and physical prowess. Distant descendants of the Wasabi will never have quite the same connection but still start off knowing one of these following techniques, gaining the "Cat Cloak" Jutsu a Score. Though may only use these techniques at half the efficiency, the effects of these abilities are increased by +3% for every 10 points in their "Cat Cloak" Jutsu Score:
+•[|] [Nekokaburi no Jutsu: Siamese|http://aminoapps.com/p/4yhspbi] [|]
+•[|] [Nekokaburi no Jutsu: Tabby|http://aminoapps.com/p/tuox0t] [|]
+•[|] [Nekokaburi no Jutsu: Calico|http://aminoapps.com/p/3i6g69t] [|]
+•[|] [Nekokaburi no Jutsu: Main Coon|http://aminoapps.com/p/tl3eci] [|]
+•[|] [Nekokaburi no Jutsu: Persian|http://aminoapps.com/p/23qex1] [|]
+
+[Bc]Chakra Natures: 
+[C]雷, 風, 土, 陽
+
+[|]Uchiha/Suna[|]
+[Bc]Skill Proficiencies: 
+[C]+3 Sunajutsu, +1 Ninjutsu, +1 Kenjutsu, +2 Bukijutsu, +2 Genjutsu,  -3 Iryojutsu, -3 Taijutsu, -3 Fuinjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Indra: 
+[C]As a distant descendant, the half Uchiha may awaken the power of the "[Sharingan|http://aminoapps.com/p/wwbmml]", given the right circumstances, which is added to the shinobi's list of Jutsu Skills, improving as used, however, only the diluted potency halves the their effect.
+[Cu]False Pride of the Uchiha: 
+[C]Half Uchiha begin knowing the "[Firestarter Technique| http://aminoapps.com/p/7cyxdp ]", regardless of the user's elemental affinity, regardless of Jutsu bank size.
+[cu]Dusty: 
+[C]Kin of this clan may choose to use "Iron Sand" or "Gold Dust", each being manipulated by different usage of their magnetic properties. They may infuse 2 Chakra Points from their Chakra Pool per pound of sand. The reach of their power is equal half to their ROP. If the dust is "Destroyed" , The user's max ChP is unlocked, but, by reinserting the equivilent ChP from their max Chakra Pool, they may once again take control of the metalic residue.
+
+•Satetsu: Iron Sand can be used to create. up to 2 Damage per pound and 2 DP per pound. Users can grind down a half rank of metal into a pound of Iron Sand, destroying it, or buy the iron Sand from the Shop. They also start with "(1ib)Iron Dust | D-" in their inventory. 
+
+•Sakin: Gold Dust, being a heavier yet softer metal per square inch, can be used to create up to 3 Damage and 1 DP per pound. Users can grind down 2,500 Ryo to make a pound of Gold Dust, destroying the coins, or buy the Gold Dust from the Shop. They start off alreaddy possessing "(1ib)Gold Dust | D-" in their inventory.
+
+[Bc]Chakra Natures:
+[C]土, 風, 火, 陰
+
+[|]Hyūga/Kaguya[|]
+[Bc]Village
+[C] [Kirigakure|http://aminoapps.com/p/avggfft] / [Kumogakure|http://aminoapps.com/p/ic9pa54]
+
+[Bc]Skill Proficiencies:  
+[C]+3 Shikotsumyaku, +3 Taijutsu, +3 Iryoijutsu, -3 Ninjutsu, -3 Genjutsu, -3 Fuinjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Kaguya:
+[C]As half descendants of Kaguya Ōtsutsuki, they have inherited a derivative of her original ability to manipulate one's bone structures through their kekkei genkai "[Shikotsumyaku| http://aminoapps.com/p/xaaa58 ]", but fo +50% the cost, their body not properly suited for the dramatic ability, which also only allow them to heal from 1 tier of bleeding, if applicable, every 2 rounds.
+[cu]Distant Descendant of Hamura: 
+[C]As Hamura's half descendants, they are born with the power of the "[Byakugan|http://aminoapps.com/p/kj7a1s]", but with half the efficiency, which is added amongst their jutsu scores and the ability to expel chakra from all of their tenketsu, making the most use of these together through their "[Gentle Fist|http://aminoapps.com/p/zcetol]" fighting style, however this technique too is only half as graceful and effective as a pure blooded Hyūga.
+[Cu]Family Roots: 
+[C]The Hyūga clan from which they descend is separated into two parts: the main house (宗家, sōke) and the branch house (分家, bunke), the blood of one if these branches reside in these cousins to the Hyūga.
+•½ Sōke: The chakra of the main family allows the diluted Byakugan to see 50% farther.
+•½ Bunke: The branch familes blood allows them to expel chakra with 50% more force offensively or defensively!
+[Bc]Chakra Natures: 
+[C]水, 風, 土, 雷
+
+[|]Nara/Chikamatsu[|]
+[Bc]Village
+[C] [Iwagakure|http://aminoapps.com/p/6k9ls0] / [Sunagakure|http://aminoapps.com/p/6goi6w8]
+[Bc]Skill Proficiencies: 
+[C]+3 Kagejutsu, +3 Kugujutsu, +2 Ninjutsu, +2 Bukijutsu, -5 Genjutsu, -5 Taijutsu, 
+[Bc]Clan Ability:
+[cu]Faded Shadow:
+[C]Members of the Nara clan are able to manipulate their own shadows in a variety of ways, most notably, to control others and their shadows. This signature move is the "[Shadow Immitation Technique|http://aminoapps.com/p/2beym27]", taught to all Nara. Nara have "Kagejutsu" listed amongst their Jutsu Skills. Half bred from this clan and taught the basics, this user can only use the secret techniques of the Nara clan with -50% less effect.
+[cu]Shadow Puppeteer: 
+[C]Only members of the Chikamatsu clan may control and customize these special puppets, posessing the [Puppet Technique|http://aminoapps.com/p/1n25bh], regardless available Jutsu Bank slots, adding "Kugutsu" to their list of skills, however,  even the basics may be taught to impure bloods, though the chakra cost is increased by +50%, and starting as Genin gain the following, Small Sized, puppet as a base. By using their own chakra, they may channel the Nara Clan's Shadow Possession techniques through this puppet.
+•Shadow Puppet <1', 3Dmg, 3DP, 3EP, 3OP, 6ROP, (0/10) (Shuriken/Senbon)> | C+
+[Bc]Chakra Natures: 
+[C]風, 水, 火, 陰
+
+[|]Nō-Clan/Samurai[|]
+[Bc]Village
+[C][Any Village|http://aminoapps.com/p/vk8tcr]
+[Bc]Skill Proficiencies: 
+[C]-5 Ninjutsu, +5 Taijutsu, +8 Bukijutsu, +8 Kenjutsu, -5 Genjutsu, -5 Fuinjutsu, -5 Iryojutsu
+[Bc]Clan Ability:
+[Uc]Work Ethic:
+[C]You start with +5 Points to spend freely on any Jutsu Skill Score!
+[Cu]Extra Potential: 
+[C]Their max EXP is capped at 550 instead of 500 points and are able to awaken a single advanced nature release, that is not clan locked, gaining an E-Rank starting jutsu of said nature when awakened. 
+[cu]Bushido Inspired: 
+[C]A samurai believes that his swords held his soul. That made the sword the most important thing he had. You are a descendant of such a warrior, and have inherired a Tanto <§, +6Dmg, +3ROP> | B as a testimate to said heritage. On top of that, you have been taught the basics of the " [Samurai Sabre Technique|http://aminoapps.com/p/ov439es] ", though only half as efficient as a true Samurai.
+[Bc]Chakra Natures: 
+[C]火, 風, 雷, 土, 水, +1
+
+[|]Senju/Kaguya[|]
+[Bc]Village
+[C] [Konohagakure|http://aminoapps.com/p/y5zj5ub] / [Kirigakure|http://aminoapps.com/p/avggfft]
+[Bc]Skill Proficiencies: 
+[C]+3 Shikotsumyaku, +2 Taijutsu, +2 Iryojutsu, -4 Genjutsu, -3 Fuinjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Kaguya:
+[C]As half descendants of Kaguya Ōtsutsuki, they have inherited a derivative of her original ability to manipulate one's bone structures through their kekkei genkai "[Shikotsumyaku| http://aminoapps.com/p/xaaa58 ]", but at +50% the cost, their body not properly suited for the dramatic ability, which also only allow them to heal from 1 tier of bleeding, if applicable, every 2 rounds.
+[cu]Distant Descendant of Asura: 
+[C]As a very dustant dicendant Asura's, this shinobi's Chakra Pool is equal to (Int+Sta+Will)×1.5.
+[Cu]Sensory Sensitivity:
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+[Cu]A Half-Thousand Skills
+[C]Compared to full blooded Senju, these half breeds may not specialise in just one area, but are known to struggle in the ones they don't, starting with +1 in four of their Jutsu Skills.
+[Cu]Late Bloomer
+[C]It is said that once a Senju has fully matured, their true potential will bear fruit in the form of an advanced nature, but for those with roots that do not run as deeply struggle to grow as well... Once a half blooded senju's reaches 500 Potential, they may only then hope to awaken an "Advanced Nature Release" they meet the prerequisites for, or increase a nature affinity they posess by +1 stage..
+[Bc]Chakra Natures: 
+[C]水², 陽, 土
+
+[|]Aburame/Inuzuka[|]
+[Bc]Village
+[C][Sunagakure|http://aminoapps.com/p/6goi6w8] / [Kirigakure|http://aminoapps.com/p/avggfft]
+[Bc]Skill Proficiencies: 
+[C]+3 Konchūjutsu,  +1 Bukijutsu, -1 Ninjutsu, -1 Iryojutsu, +2 Taijutsu, -2 Genjutsu, -2 Kenjutsu
+[Bc]Clan Ability: 
+[cu]Canine Similarities: 
+[C]The members of the Inuzuka clan, much like their canine partners, have greatly enhanced senses, yours are half of that, especially their sense of smell, turning any half stealth attempts against them into normal attacks, and increasing your ability to find those hiding by 50%. This also gives a +25% bonus to see through illusions without sound and another 25% bonus to see through illusions without scent.
+[Cu]Canine Aquantance: 
+[C]Inuzuka begin with their very own " [Ninken|http://aminoapps.com/p/w67bdi] "! As a half breed, pure breed ninken are not interested in partnering with you, meaning you find yourself bonded to a mutt ninken that starts with 10EXP instead of 15. Because they always fight together,  the Ninken gains 2 EXP for every 5 EXP their partner gains! When their Ninken Partner reaches 50 EXP, they typically grow 1m in size or less and grow in strength, gaining an extra ⅕ of their partner's EXP, OR, the Inuzuka may gain a new young Ninken partner, but this EXP is split between them. For example, two ninken would now gain 2EXP for every 5 their patner gets, or one, 2 meter, Ninken would now recieve 4EXP for every 5EXP their partner gets! This happens once more when the Ninken reaches 100 EXP.
+[cu]Infested: 
+[C]Only members of the Aburame clan may host and breed these special instects, gaining the [Parasitic Insects Technique|http://aminoapps.com/p/6u7lu4] by default, however as a have breed, your body is less suited to host as many insects, requiring more energy to maintain at 3MChP per swarm housed in their hive. You start by housing the following species;
+•Nomi (蚤, Flea) <XT, 0.001Dmg, 0.001DP, +0.001% Bleed(×2 on animals)> | D-
+[Bc]Chakra Natures:
+[C]土², 水, 雷
+
+[|]Hyūga/ Inuzuka[|]
+[Bc]Village
+[C][Kumogakure|http://aminoapps.com/p/ic9pa54]
+[Bc]Skill Proficiencies: 
+[C]+6 Taijutsu, +3 Iryoijutsu, -3 Kenjutsu, -3 Bukijutsu, -3 Genjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Hamura: 
+[C]As Hamura's half descendants, they are born with the power of the "[Byakugan|http://aminoapps.com/p/kj7a1s]", but with half the efficiency, which is added amongst their jutsu scores and the ability to expel chakra from all of their tenketsu, making the most use of these together through their "[Gentle Fist|http://aminoapps.com/p/zcetol]" fighting style, however this technique too is only half as graceful and effective as a pure blooded Hyūga.
+[Cu]Family Roots: 
+[C]The Hyūga clan from which they descend is separated into two parts: the main house (宗家, sōke) and the branch house (分家, bunke), the blood of one if these branches reside in these cousins to the Hyūga.
+•½ Sōke: The chakra of the main family allows the diluted Byakugan to see 50% farther.
+•½ Bunke: The branch familes blood allows them to expel chakra with 50% more force offensively or defensively!
+[cu]Canine Similarities: 
+[C]The members of the Inuzuka clan, much like their canine partners, have greatly enhanced senses, yours are half of that, especially their sense of smell, turning any half stealth attempts against them into normal attacks, and increasing your ability to find those hiding by 25%. This also gives a +50% bonus to see through illusions without sound and another 25% bonus to see through illusions without scent.
+[Cu]Canine Aquantance: 
+[C]Inuzuka begin with their very own " [Ninken|http://aminoapps.com/p/w67bdi] "! As a half breed, pure breed ninken are not interested in partnering with you, meaning you find yourself bonded to a mutt ninken that starts with 10EXP instead of 15. Because they always fight together,  the Ninken gains 2 EXP for every 5 EXP their partner gains! When their Ninken Partner reaches 50 EXP, they typically grow 1m in size or less and grow in strength, gaining an extra ⅕ of their partner's EXP, OR, the Inuzuka may gain a new young Ninken partner, but this EXP is split between them. For example, two ninken would now gain 2EXP for every 5 their patner gets, or one, 2 meter, Ninken would now recieve 4EXP for every 5EXP their partner gets! This happens once more when the Ninken reaches 100 EXP.
+[Bc]Chakra Natures: 
+[C]風, 土, 雷²
+
+[|]Senju/Monk[|]
+[Bc]Village
+[C] [Konohagakure|http://aminoapps.com/p/y5zj5ub] / [Iron Summit|http://aminoapps.com/p/n6dwdz]
+[Bc]Skill Proficiencies: 
+[C]+12 Ninjutsu, +10 Taijutsu, +11 Iryojutsu, -12 Bukijutsu, -12 Kenjutsu, -11 Genjutsu, +Fuinjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Asura: 
+[C]As a very dustant dicendant Asura's, this shinobi's Chakra Pool is equal to (Int+Sta+Will)×1.5.
+[Cu]Sensory Type:
+[C]Members of this clan have inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users ROP+Willl.
+[Cu]A Half-Thousand Skills
+[C]Compared to full blooded Senju, these half breeds may not specialise in just one area, but are known to struggle in the ones they don't, starting with +1 in four of their Jutsu Skills.
+[Cu]Late Bloomer
+[C]It is said that once a Senju has fully matured, their true potential will bear fruit in the form of an advanced nature, but for those with roots that do not run as deeply struggle to grow as well... Once a half blooded senju's reaches 500 Potential, they may only then hope to awaken an "Advanced Nature Release" they meet the prerequisites for, or increase a nature affinity they posess by +1 stage..
+[cu]The Eightfold: 
+[C]The Noble Eightfold Path is the path of Ninsō practices leading to liberation from samsara, the painful cycle of rebirth,  in the form of nirvana, even those of descendantsthat have branched away from full enlightenment. Their focus still revolves around knowledge, wisdom, and spirituality in guidance of the noble eightfold philosophy has increased their Chakra Control Retention by 50%, allowing them to retain the secrets of more jutsu than most others, faster than others.
+
+[Bc]Chakra Natures:  
+[C] 水, 陰, 陽²
+
+[|]Uchiha/Inuzuka[|]
+[Bc]Skill Proficiencies: 
+[C]+2 Taijutsu, +2 Bukijutsu, -2 Iryojutsu, -2 Fuinjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Indra: 
+[C]As a distant descendant, the half Uchiha may awaken the power of the "[Sharingan|http://aminoapps.com/p/wwbmml]", given the right circumstances, which is added to the shinobi's list of Jutsu Skills, improving as used, however, only the diluted potency halves the their effect.
+[Cu]False Pride of the Uchiha: 
+[C]Half Uchiha begin knowing the "[Firestarter Technique| http://aminoapps.com/p/7cyxdp ]", regardless of the user's elemental affinity, regardless of Jutsu bank size.
+[cu]Canine Similarities: 
+[C]The members of the Inuzuka clan, much like their canine partners, have greatly enhanced senses, yours are half of that, especially their sense of smell, turning any half stealth attempts against them into normal attacks, and increasing your ability to find those hiding by 50%. This also gives a +25% bonus to see through illusions without sound and another 25% bonus to see through illusions without scent.
+[Cu]Canine Aquantance: 
+[C]Inuzuka begin with their very own " [Ninken|http://aminoapps.com/p/w67bdi] "! As a half breed, pure breed ninken are not interested in partnering with you, meaning you find yourself bonded to a mutt ninken that starts with 10EXP instead of 15. Because they always fight together,  the Ninken gains 2 EXP for every 5 EXP their partner gains! When their Ninken Partner reaches 50 EXP, they typically grow 1m in size or less and grow in strength, gaining an extra ⅕ of their partner's EXP, OR, the Inuzuka may gain a new young Ninken partner, but this EXP is split between them. For example, two ninken would now gain 2EXP for every 5 their patner gets, or one, 2 meter, Ninken would now recieve 4EXP for every 5EXP their partner gets! This happens once more when the Ninken reaches 100 EXP.
+[Bc]Chakra Natures: 
+[C]火, 陰, 土, 雷
+
+[|] Suna/Aburame [|]
+[Bc]Skill Proficiencies: 
+[C]+3 Sunajutsu, +3 Konchūjutsu, +1 Bukijutsu, -2 Iryojutsu, -2 Taijutsu, -2 Fuinjutsu, -1Genjutsu
+[Bc]Clan Ability:
+[cu]Dusty: 
+[C]Kin of this clan may choose to use "Iron Sand" or "Gold Dust", each being manipulated by different usage of their magnetic properties. starting off with "[Sand Manipulation (Satetsu/Sakin)|http://aminoapps.com/p/q75qcgd]" in their Jutsu Bank, regardless of available bank slots, but require 2MChP per 1ib of sand. Like Suna Clan members, they gain the "Sunajutsu" score added to their Jutsu Skills,  adding 1/10 (10%) of this score to the range and (R)OP when manipulating sand. They also begin with 1ib of Gold or Iron Sand in their inventory.
+
+[cu]Infested: 
+[C]Only members of the Aburame clan may host and breed these special instects, gaining the [Parasitic Insects Technique|http://aminoapps.com/p/6u7lu4] by default, however as a have breed, your body is less suited to host as many insects, requiring more energy to maintain at 3MChP per swarm housed in their hive. You start by housing the following species;
+
+•Tetsu Scarab <XT, 0.002Dmg, 0.002DP, *Iron Dung> | D-
+*Damage to Iron produces equal Ounces of Iron
+
+•Kin Scarab <XT, 0.003Dmg, 0.001DP, *Gold Dung> | D-
+*Damage to Gold produces equal Ounces of Gold
+
+[Bc]Chakra Natures:
+[C]土², 水, 風
+
+[|] Senju/Samurai [|]
+[Bc]Skill Proficiencies: 
+[C]-3 Ninjutsu, +7 Taijutsu, -9 Iryojutsu, -11 Genjutsu, +6 Bukijutsu, +6 Kenjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Asura: 
+[C]As a very dustant dicendant Asura's, this shinobi's Chakra Pool is equal to (Int+Sta+Will)×1.5.
+[Cu]Sensory Sensitivity:
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+[Cu]A Half-Thousand Skills
+[C]Compared to full blooded Senju, these half breeds may not specialise in just one area, but are known to struggle in the ones they don't, starting with +1 in four of their Jutsu Skills.
+[Cu]Late Bloomer
+[C]It is said that once a Senju has fully matured, their true potential will bear fruit in the form of an advanced nature, but for those with roots that do not run as deeply struggle to grow as well... Once a half blooded senju's reaches 500 Potential, they may only then hope to awaken an "Advanced Nature Release" they meet the prerequisites for, or increase a nature affinity they posess by +1 stage..
+[cu]Bushido Inspired: 
+[C]A samurai believes that his swords held his soul. That made the sword the most important thing he had. You are a descendant of such a warrior, and have inherired a Tanto <§, +6Dmg, +3ROP> | B as a testimate to said heritage. On top of that, you have been taught the basics of the " [Samurai Sabre Technique|http://aminoapps.com/p/ov439es] ", though only half as efficient as a true Samurai.
+[Bc]Chakra Natures: 
+[C]水², 火, 風, 雷, 土, 陽
+
+[|] Aburame / Yamanaka [|]
+[Bc]Village
+[C][Sunagakure|http://aminoapps.com/p/6goi6w8] / [Iwagakure|http://aminoapps.com/p/6k9ls0]
+[Bc]Skill Proficiencies: 
+[C]+3 Shintenjutsu, +3 Konchūjutsu, -3 Taijutsu, -3 Kenjutsu
+[Bc]Clan Ability:
+[cu]Infested: 
+[C]Only members of the Aburame clan may host and breed these special instects, gaining the [Parasitic Insects Technique|http://aminoapps.com/p/6u7lu4] by default, however as a have breed, your body is less suited to host as many insects, requiring more energy to maintain at 3MChP per swarm housed in their hive. You start by housing the following species;
+•Hachi (蜂, Bee) <XT, 0.001Dmg, 0.001DP, +0.001%Poison, *Hive Mind> | D-
+[cu]Hive Mind:
+[C]Members of the Yamanaka clan are able to transfer their own minds into the body of another, essentially hijacking their targets body! This signature move is the "[Mind Transfer Technique|http://aminoapps.com/p/5i620k]", taught to all Yamanaka. Yamanaka have "Shintenjutsu" listed amongst their Jutsu Skills. HHalf bred from this clan and taught the basics, this user can only use jutsu of the Yamanaka clan with half of the effect. This individual may cast this technique on their Bees as willing hosts and may perform clan techniques through these mediums, however, these jutsu when cast through their insects are only a fraction as strong, a % equal to how much chakra the collection of insects make of the hosts max Chakra Pool.
+[Cu]Sensory Sensitivity: 
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+[Bc]Chakra Natures: 
+[C]土², 水, 陰
+
+[|] Hoshigaki / Hozuki [|]
+[Bc]Village
+[C] [Kirigakure|http://aminoapps.com/p/avggfft]
+
+[Bc]Skill Proficiencies: 
+[C]+4 Ninjutsu, +4 Taijutsu, +2 Kenjutsu, -6 Fuinjutsu, -2 Bukijutsu, -2 Genjutsu
+[Bc]Clan Ability:
+[cu]Fishy Body:
+[C]Similar to bodies of pure Hoshigaki, these shinobi come equipped with extra sharp teeth that cause +2 Damage and +1 Bleed, as well as a set of gills that let them do even breath under water! They also have extra thick, scaly skin that that cause tiers of bleeding with direct melee attacks and increases their swim speed by 50% and their max DP by 25%!
+[cu]Deluted Water Body:
+[C]All members of this clan have gained the ability to change their entire body fully into water at will through their Kekkei Genkai, the "[Body Hydrification|http://aminoapps.com/p/j7w94o]", but at +50% the cost.
+[Bc]Chakra Natures: 
+[C]水², 陽, 風
+
+[|] Nō-Clan / Blacksmith [|]
+[Bc]Village
+[C][Any Village|http://aminoapps.com/p/vk8tcr]
+[Bc]Skill Proficiencies: 
+[C]-5 Ninjutsu, +5 Taijutsu, -5 Iryojutsu, +5 Bukijutsu, +5 Kenjutsu, -5 Genjutsu, -5 Fuinjutsu, +5 Fōjijutsu
+[Bc]Clan Ability:
+[Uc]Work Ethic:
+[C]You start with +5 Points to spend freely on any Jutsu Skill Score!
+[Cu]Extra Potential: 
+[C]Their max EXP is capped at 550 instead of 500 points and are able to awaken a single advanced nature release, that is not clan locked, gaining an E-Rank starting jutsu of said nature when awakened. 
+[cu]Crafts:
+[C]Even Hobbyist Kajiya rarely practice any form of Ninjutsu or Chakra molding of any nature, focussed primarily on creating the weapons and armors of their land, and how to properly use them. Instead, They gain the Fōjijutsu skill, which reduces the line count needed to craft by -1 for every 20 points, (Minimum 2 lines needed), this score increases by +1 for every 20 lines written. Their life of hammering and shaping their wears on their off time built their bodies up, and thus have also tapped into the ability to throw 60% strength into their blows instead of just 50% with (1H)Weapons, or 80% with (2H)Weapons! Unlike fully focused Shinobi, these reserves don't typically go in the front lines of "missions", but instead earn more of their Experience from forging items, weapons, and armor, earning Ryo from selling these wares. Where as Shinobi are decent at crafting items together, Blacksmiths can also build weapons and armor from the ground up! You must write 5 lines per half rank, to forge gear, (the lowest, D-, is  lines, D=5, D+=10, C-=15, etc). Instead of just learning Jutsu, they get a "Craft Bank" that determines how many things they know how to build at any time, where for example, the "Blueprints" for a D- weapon, a "D- Blueprint", would cost 1,000 Ryo, and take 1 "Craft Bank" Slot, (D=2k Ryo and 2 Slots, D+= 3k and 3 slots, etc), but then they would be able to craft that Weapon wherever and whenever they wish, and attempt selling it at any price they wish, aswell as gain EXP of a mission equivalent to a rank below the item's worth, D-Rank being the lowest.
+
+[Bc]Chakra Natures: 
+[C]+1²
+
+[|] Senju / Uchiha [|]
+[Bc]Village
+[C] [Konohagakure|http://aminoapps.com/p/y5zj5ub]
+[Bc]Skill Proficiencies: 
+[C]+2 Genjutsu, +2 Ninjutsu, +2 Taijutsu, -2 Fuinjutsu, -2 Bukijutsu, -2 Kenjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Asura: 
+[C]As a very dustant dicendant Asura's, this shinobi's Chakra Pool is equal to (Int+Sta+Will)×1.5.
+[Cu]Sensory Sensitivity:
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+[Cu]A Half-Thousand Skills
+[C]Compared to full blooded Senju, these half breeds may not specialise in just one area, but are known to struggle in the ones they don't, starting with +1 in four of their Jutsu Skills.
+[Cu]Late Bloomer
+[C]It is said that once a Senju has fully matured, their true potential will bear fruit in the form of an advanced nature, but for those with roots that do not run as deeply struggle to grow as well... Once a half blooded senju's reaches 500 Potential, they may only then hope to awaken an "Advanced Nature Release" they meet the prerequisites for, or increase a nature affinity they posess by +1 stage..
+[cu]Distant Descendant of Indra: 
+[C]As a distant descendant, the half Uchiha may awaken the power of the "[Sharingan|http://aminoapps.com/p/wwbmml]", given the right circumstances, which is added to the shinobi's list of Jutsu Skills, improving as used, however, only the diluted potency halves the their effect.
+[Cu]False Pride of the Uchiha: 
+[C]Half Uchiha begin knowing the "[Firestarter Technique| http://aminoapps.com/p/7cyxdp ]", regardless of the user's elemental affinity, regardless of Jutsu bank size.
+[Cu]Distant Descendant of Hagoromo
+[C]The Uchiha and Senju Clans, descent from Indra and Asura Ōtsutsuki, sons of Hagoromo Ōtsutsuki. His sons and his blood, once united, became divided, and swore generational rivalry, however, through this shinobi, their blood is united once more, and through them, the power of the Sage of Six paths may once more be awakened, the level of Dojutsu surpassing the Magekyo Sharingan, the [Rinnegan|http://aminoapps.com/p/gu4pf3]...
+[Bc]Chakra Natures: 
+[C]水, 陽, 火, 陰
+
+[|] Kaguya / Chikamatsu [|]
+[Bc]Village
+[C] [Kirigakure|http://aminoapps.com/p/avggfft] / [Sunagakure|http://aminoapps.com/p/6goi6w8]
+
+[Bc]Skill Proficiencies: 
+[C]+3 Shikotsumyaku, +3 Kenjutsu, +3 Bukijutsu, +2 Iryojutsu, -3 Ninjutsu, -6 Genjutsu, -2 Fuinjutsu, -1 Taijutsu
+
+[Bc]Clan Ability:
+
+[cu]Distant Descendant of Kaguya:
+[C]As half descendants of Kaguya Ōtsutsuki, they have inherited a derivative of her original ability to manipulate one's bone structures through their kekkei genkai "[Shikotsumyaku| http://aminoapps.com/p/xaaa58 ]", but at +50% the cost, their body not properly suited for the dramatic ability, which also only allow them to heal from 1 tier of bleeding, if applicable, every 2 rounds.
+
+[cu]Macabre Puppeteer: 
+[C]Only members of the Chikamatsu clan may control and customize these special puppets, posessing the [Puppet Technique|http://aminoapps.com/p/1n25bh] and [Puppet Crafting|http://aminoapps.com/p/vwyxc1], regardless available Jutsu Bank slots, adding "Kugutsu" to their list of skills, however, even the basics may be taught to impure bloods, though the chakra cost is increased by +50%, and starting as Genin gain the following, Small Sized, puppet as a base. The Puppet of this half clan is potentially the most unique, personal, and disturbing of it's kind, form from it's mIasters very own bones, allowing them to channel the Kaguya's Bone Pulse techniques through their macabre Marionetre uning it's DP and their own Chakra...
+•Skeleton Puppet <1', 6DP, 6OP, 6EP> | C+
+
+[Bc]Chakra Natures: 
+[C]水², 土, 風
+
+[|] Uchiha / Nara [|]
+[Bc]Village
+[C][Konohagakure|http://aminoapps.com/p/y5zj5ub] / [Iwagakure|http://aminoapps.com/p/6k9ls0] 
+
+[Bc]Skill Proficiencies: 
+[C]+3 Kagejutsu, +2 Ninjutsu, +2 Bukijutsu,  +2 Genjutsu, -3 Taijutsu, -3 Kenjutsu, -3 Iryojutsu
+
+[Bc]Clan Ability:
+[cu]Distant Descendant of Indra: 
+[C]As a distant descendant, the half Uchiha may awaken the power of the "[Sharingan|http://aminoapps.com/p/wwbmml]", given the right circumstances, which is added to the shinobi's list of Jutsu Skills, improving as used, however, only the diluted potency halves the their effect.
+
+[Cu]False Pride of the Uchiha: 
+[C]Half Uchiha begin knowing the "[Firestarter Technique| http://aminoapps.com/p/7cyxdp ]", regardless of the user's elemental affinity, regardless of Jutsu bank size.
+
+[cu]Faded Shadow:
+[C]Members of the Nara clan are able to manipulate their own shadows in a variety of ways, most notably, to control others and their shadows. This signature move is the "[Shadow Immitation Technique|http://aminoapps.com/p/2beym27]", taught to all Nara. Nara have "Kagejutsu" listed amongst their Jutsu Skills. Half bred from this clan and taught the basics, this user can only use the secret techniques of the Nara clan with -50% less effect.
+
+[Bc]Chakra Natures: 
+[C]火², 陰²
+
+[|] Nō Clan / Nara [|]
+[Bc]Village
+[C][Any Village|http://aminoapps.com/p/vk8tcr]
+
+[Bc]Skill Proficiencies: 
+[C]+3 Kagejutsu, +2 Ninjutsu, +1 Bukijutsu, -3 Taijutsu, -3 Kenjutsu
+
+[Bc]Clan Ability:
+[Uc]Work Ethic:
+[C]You start with +5 Points to spend freely on any Jutsu Skill Score!
+[Cu]Extra Potential: 
+[C]Their max EXP is capped at 550 instead of 500 points and are able to awaken a single advanced nature release, that is not clan locked, gaining an E-Rank starting jutsu of said nature when awakened.
+[cu]Faded Shadow:
+[C]Members of the Nara clan are able to manipulate their own shadows in a variety of ways, most notably, to control others and their shadows. This signature move is the "[Shadow Immitation Technique|http://aminoapps.com/p/2beym27]", taught to all Nara. Nara have "Kagejutsu" listed amongst their Jutsu Skills. Half bred from this clan and taught the basics, this user can only use the secret techniques of the Nara clan with -50% less effect.
+
+[Bc]Chakra Natures: 
+[C]火, 陰, +1
+
+[|] Hyūga / Yamanaka [|]
+[Bc]Village
+[C][Kumogakure|http://aminoapps.com/p/ic9pa54] / [Iwagakure|http://aminoapps.com/p/6k9ls0]
+[Bc]Skill Proficiencies: 
+[C]+3 Shintenjutsu, +2 Ninjutsu, +2 Iryoijutsu, -5 Bukijutsu, -5 Kenjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Hamura: 
+[C]As Hamura's half descendants, they are born with the power of the "[Byakugan|http://aminoapps.com/p/kj7a1s]", but with half the efficiency, which is added amongst their jutsu scores and the ability to expel chakra from all of their tenketsu, making the most use of these together through their "[Gentle Fist|http://aminoapps.com/p/zcetol]" fighting style, however this technique too is only half as graceful and effective as a pure blooded Hyūga.
+[Cu]Family Roots: 
+[C]The Hyūga clan from which they descend is separated into two parts: the main house (宗家, sōke) and the branch house (分家, bunke), the blood of one if these branches reside in these cousins to the Hyūga.
+•½ Sōke: The chakra of the main family allows the diluted Byakugan to see 50% farther.
+•½ Bunke: The branch familes blood allows them to expel chakra with 50% more force offensively or defensively!
+[cu]Moon Mind:
+[C]Members of the Yamanaka clan are able to transfer their own minds into the body of another, assentially hijacking their targets body! This signature move is the "[Mind Transfer Technique|http://aminoapps.com/p/5i620k]", taught to all Yamanaka. Yamanaka have "Shintenjutsu" listed amongst their Jutsu Skills. Half bred from this clan and taught the basics, this user can only use jutsu of the Yamanaka clan with half of the effect. When using the "Mind Transfer Technique" with the Byakugan active, not only is their range increased, but the castor is able to even transfer their minds to targets through solid walls as long as their able to see their targets chakra network through said obstacle as their chakra is projected directly through their tenketsu!
+[Cu]Sensory Sensitivity: 
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+[Bc]Chakra Natures: 
+[C]雷, 風, 土, 陰
+
+[|] Chikamatsu/ Samurai [|]
+[Bc]Village
+[C][Sunagakure|http://aminoapps.com/p/6goi6w8] / [Iron Summit|http://aminoapps.com/p/n6dwdz]
+[Bc]Skill Proficiencies: 
+[C]+10 Bukijutsu, +10 Kenjutsu, -4 Fuinjutsu, -8 Genjutsu, -5 Ninjutsu
+
+[Bc]Clan Ability:
+[cu]Bunraku Puppeteer: 
+[C]Only members of the Chikamatsu clan may control and customize these special puppets, posessing the [Puppet Technique|http://aminoapps.com/p/1n25bh] and [Puppet Crafting|http://aminoapps.com/p/vwyxc1], regardless available Jutsu Bank slots, adding "Kugutsu" to their list of skills, however,  even the basics may be taught to impure bloods, though the chakra cost is increased by +50%, and starting as Genin gain the following, Small Sized, Samurai puppet as a base, with its own 'Katana' and 'Armor' included, allowing the user to perform known "Samurai Sabre Techniques" by channeling them through their chakra threads;
+
+•Musha-Ningyō <1', 3+3Dmg, +Sharp, 3+6DP | D
+>Ningyō Armor <+6DP> | D
+>Ningyō Katana <Sharp, +3Dmg> | D
+
+[cu]Bushido Inspired: 
+[C]A samurai believes that his swords held his soul. That made the sword the most important thing he had. You are a descendant of such a warrior, and have inherired a Tanto <§, +6Dmg, +3ROP> | B as a testimate to said heritage. On top of that, you have been taught the basics of the " [Samurai Sabre Technique|http://aminoapps.com/p/ov439es] ", though only half as efficient as a true Samurai.
+
+[Bc]Chakra Natures: 
+[C]風², 水², 火, 雷, 土
+
+[|] Inuzuka / Nara [|]
+[Bc]Village
+[C][Kumogakure|http://aminoapps.com/p/ic9pa54] / [Iwagakure|http://aminoapps.com/p/6k9ls0]
+[Bc]Skill Proficiencies: 
+[C]+3 Kagejutsu, +3 Ninjutsu, -2 Genjutsu, -2 Kenjutsu, -2 Fuinjutsu
+[Bc]Clan Ability:
+[cu]Canine Similarities: 
+[C]The members of the Inuzuka clan, much like their canine partners, have greatly enhanced senses, yours are half of that, especially their sense of smell, turning any half stealth attempts against them into normal attacks, and increasing your ability to find those hiding by 50%. This also gives a +25% bonus to see through illusions without sound and another 25% bonus to see through illusions without scent.
+[Cu]Canine Aquantance: 
+[C]Inuzuka begin with their very own " [Ninken|http://aminoapps.com/p/w67bdi] "! As a half breed, pure breed ninken are not interested in partnering with you, meaning you find yourself bonded to a mutt ninken that starts with 10EXP instead of 15. Because they always fight together,  the Ninken gains 2 EXP for every 5 EXP their partner gains! When their Ninken Partner reaches 50 EXP, they typically grow 1m in size or less and grow in strength, gaining an extra ⅕ of their partner's EXP, OR, the Inuzuka may gain a new young Ninken partner, but this EXP is split between them. For example, two ninken would now gain 2EXP for every 5 their patner gets, or one, 2 meter, Ninken would now recieve 4EXP for every 5EXP their partner gets! This happens once more when the Ninken reaches 100 EXP.
+[cu]Ruff Shadow:
+[C]Members of the Nara clan are able to manipulate their own shadows in a variety of ways, most notably, to control others and their shadows. This signature move is the "[Shadow Immitation Technique|http://aminoapps.com/p/2beym27]", taught to all Nara. Nara have "Kagejutsu" listed amongst their Jutsu Skills. Half bred from this clan and taught the basics, this user can only use the secret techniques of the Nara clan with -50% less effect. Unique to this mixed clan spawn, their Ninken may channel the Nara Clan's Shadow Possession techniques if the user connects their shadow to said companion!
+
+[Bc]Chakra Natures: 
+[C]土, 雷, 火, 陰
+
+[|] Uzumaki / Gomu [|]
+[Bc]Village
+[C][Uzushiogakure|http://aminoapps.com/p/y8b73j]
+[Bc]Skill Proficiencies: 
+[C]+1 Fuinjutsu, +5 Ninjutsu, +5 Taijutsu, -6 Genjutsu, -2 Bukijutsu, -3 Kenjutsu, -2 Iryojutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Hagoromo : 
+[C]Said to be related to descendants of Hagoromo Ōtsutsuki, but niether of the Senju nor Uchiha lines, the soul and bodies of the Uzumaki relitives are enhanced, increasing their Health Points and Chakra Pool by +25% each.
+[Cu]Sensory Sensitivity:
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+[cu]Elastic Skin
+[C]With shared heritage to the Gomu Clan, this relative licks up on the basics of "Gomujutsu", adding it to the the Jutsu Skill list, which can be trained by using Rubber Style techniques. A downside to their inherited  kekkei genkai is that they are born with is the dificulty swim, becoming "Prone" if enveloped in water...
+[Cu]The Story of D.
+[C]Some say it's the will of D. passed down generations, others say it's inherited side effects from eating a rotten seedling of the world tree, but even distant cousins to the Gomu clan inhert a hieghtened energy and determination, gaining +25% boost to their Chakra and EP! 
+
+[Bc]Chakra Natures:
+[C]水, 風, 土, 陰, 陽²
+
+[|] Nō-Clan / Uchiha [|]
+[Bc]Village
+[C][Any Village|http://aminoapps.com/p/vk8tcr]
+[Bc]Skill Proficiencies: 
+[C]+2 Genjutsu, +2 Bukijutsu, -2 Iryojutsu, -2 Fuinjutsu
+[Bc]Clan Ability:
+[Uc]Work Ethic:
+[C]You start with +5 Points to spend freely on any Jutsu Skill Score!
+[Cu]Extra Potential: 
+[C]Their max EXP is capped at 550 instead of 500 points and are able to awaken a single advanced nature release, that is not clan locked, gaining an E-Rank starting jutsu of said nature when awakened.
+[cu]Distant Descendant of Indra: 
+[C]As a distant descendant, the half Uchiha may awaken the power of the "[Sharingan|http://aminoapps.com/p/wwbmml]", given the right circumstances, which is added to the shinobi's list of Jutsu Skills, improving as used, however, only the diluted potency halves the their effect.
+[Cu]False Pride of the Uchiha: 
+[C]Half Uchiha begin knowing the "[Firestarter Technique| http://aminoapps.com/p/7cyxdp ]", regardless of the user's elemental affinity, regardless of Jutsu bank size.
+[Bc]Chakra Natures: 
+[C]火, 陰, +1
+
+[|] Nō Clan / Uzumaki [|]
+[Bc]Village
+[C][Any Village|http://aminoapps.com/p/vk8tcr]
+[Bc]Skill Proficiencies: 
+[C]+3 Fuinjutsu, +2 Ninjutsu, +2 Iryojutsu, +2 Taijutsu, -3 Genjutsu, -3 Bukijutsu, -3 Kenjutsu
+[Bc]Clan Ability:
+[Uc]Work Ethic:
+[C]You start with +5 Points to spend freely on any Jutsu Skill Score!
+[Cu]Extra Potential: 
+[C]Their max EXP is capped at 550 instead of 500 points and are able to awaken a single advanced nature release, that is not clan locked, gaining an E-Rank starting jutsu of said nature when awakened.. 
+[cu]Distant Descendant of Hagoromo : 
+[C]As distant descendants of Hagoromo Ōtsutsuki, but niether of the Senju nor Uchiha lines, the soul and bodies of half Uzumaki are enhanced, even if ever so slightly, increasing their Health Points and Chakra Pool by +25% each.
+[Cu]Sensory Sensitivity:
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+[Bc]Chakra Natures: 
+[C]水, 陰, 陽, +1
+
+[|] Cross-Hyūga [|]
+[Bcu][|] Cross-Hyūga [|]
+
+[Bc]The Hyūga clan are descendants from the Ōtsutsuki clan, specifically from Hamura Ōtsutsuki's lineage. As a result, they are also distant cousins of the Uchiha, Senju, Uzumaki, and Kaguya clans. Being descendants of Hamura Ōtsutsuki‎, The Hyūga clan are most feared for their dōjutsu kekkei genkai, the Byakugan, which  that gives them extended fields of vision and the ability to see through solid objects and even the chakra circulatory system, amongst other things. Members of this clan also possess an innate ability which allows them to expel chakra from any of the tenketsu, (Chakra Points), in their body.
+[Bc]Village
+[C][Kumogakure|http://aminoapps.com/p/ic9pa54]
+[Bc]Skill Proficiencies: 
+[C]+3 Taijutsu, +3 Iryoijutsu, -3 Kenjutsu, -3 Bukijutsu
+[Bc]Clan Ability:
+[cu]True Descendant of Hamura: 
+[C]As Hamura's descendants, the Hyūga are born with the power of the "[Byakugan|http://aminoapps.com/p/kj7a1s]", which is added amongst their jutsu scores and the ability to expel chakra from all of their tenketsu, making the most use of these together through their "[Gentle Fist|http://aminoapps.com/p/zcetol]" fighting style. Through this shinobi however, the blood of the Hyūga families is united once more, and the power of the Sage of Six paths brother may once more be awakened by mastering the Byakugan and surpassing the potential of the kage, the level of Dojutsu far beyond the Byakugan, the [Tenseigan|http://aminoapps.com/p/tnu0us]...
+
+[Cu]Crossed Family Tree: 
+[C]The clan has traditionally been separated into two parts: the main house (宗家, Sōke) and the branch house (分家, Bunke), a system that protects the secrets of the Byakugan from outsiders. The main house runs the family while the branch house protects it. However,  it is strictly taboo to ever intermix between these branches, punishable for their degeneracy by banishment or even death if they were to ever breed and birth what would be deemed as an abomination, spawned from a Rotten House, (朽家, Kyūke)...
+•Kyūke: The kin of the rotton family do not have eyes as great as those of the head house, but better than those of the branch house, seeing 50% farther. Their Tenketsu are not as streamlined as that of the branch family, but more fine then that of the main family, expeling chakra with 50% more force.
+
+[Bc]Chakra Natures: 
+[C]雷, 風
+
+[|] Senju/Sarutobi [|]
+[Bc]Village
+[C] [Konohagakure|http://aminoapps.com/p/y5zj5ub]
+[Bc]Skill Proficiencies: 
+[C]+3 Ninjutsu, +3 Taijutsu, +1 Iryojutsu, +1 Genjutsu, -1 Bukijutsu, -1 Kenjutsu, -2 Fuinjutsu
+[Bc]Clan Ability:
+[Cu]Distant Descendant of Asura
+[C]As a very distant decendant Asura's, this shinobi's Chakra Pool is equal to (Int+Sta+Will)×1.5.
+
+[Cu]Sensory Sensitivity:
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+
+[Cu]A Half-Thousand Skills
+[C]Compared to full blooded Senju, these half breeds may not specialise in just one area, but are known to struggle in the ones they don't, starting with +1 in four of their Jutsu Skills.
+
+[Cu]Late Bloomer
+[C]It is said that once a Senju has fully matured, their true potential will bear fruit in the form of an advanced nature, but for those with roots that do not run as deeply struggle to grow as well... Once a half blooded senju's reaches 500 Potential, they may only then hope to awaken an "Advanced Nature Release" they meet the prerequisites for, or increase a nature affinity they posess by +1 stage..
+
+[cu]Burning Hope: 
+[C]The shared blood of the Sarutobi will begin this shinobi with a 5% bonus to Will checks, a freely added Fire Affinity to their starting Nature Affinities, as well as a resistance to fire which ignores 1 Tiers of Burn, capping at 9° Burns. 
+
+[Cu]Dusted in Ashes:
+[C]The Sarutobi clan have have developed Hijutsu surrounding the use of burning and explosive ashes, stored in their lungs, this shinobi's lungs are not as developed for this however, *this makes it so cost is 5% less chakra after smoking herb or tabacco, beginning with "[Blinding Ash Technique|http://aminoapps.com/p/8zxaxx ]" among their known jutsu regardless of available Jutsu Bank Slots. 
+*Tabacco/Herb loses ½ min worth of effect ,(5 rounds), to reduce chakra cost of Ash jutsu by 5%.
+[Bc]Chakra Natures: 
+[C]水, 陽, 火, 土
+
+[|] Cross-Suna [|]
+[Bcu][|] Cross-Suna [|]
+
+[Bc]As one of the most influential families in Sunagakure, the Suna clan almost quite literally helped build the village from the ground up! Inspired by the Ichibi and the Hekkei Genkai, Magnet Release, this clan has developed a very unique way of utilizing this ability via infusing their chakra into metalic grains of Iron or Gold, sand like dust, moving it around freely at will.
+[Bc]Village
+[C][Sunagakure|http://aminoapps.com/p/6goi6w8]
+[Bc]Skill Proficiencies: 
+[C]+3 Sunajutsu, +1 Ninjutsu, +1 Kenjutsu, +1 Bukijutsu, -2 Iryojutsu, -2 Taijutsu, -2 Fuinjutsu
+[Bc]Clan Ability:
+[cu]Mixed Grains of Sand: 
+[C]Members of this clan may usually choose to use "Iron Sand" or "Gold Dust", each being manipulated by different usage of their magnetic properties, starting off with "[Sand Manipulation (Sa-Ōtekkō)|http://aminoapps.com/p/q75qcgd]" in their Jutsu Bank, regardless of available bank slots. However, rarely, one gifted enough may balance the magnetic properties of both, mixing themtogether to form structures of fools gold! 
+
+[C]Like other Suna Clan members, these Shinobi gain the "Sunajutsu" score added to their Jutsu Skills,  adding 1/10 (10%) of this score to the range and (R)OP when manipulating sand. They also begin with ½ib of Gold and ½ib of Iron Sand pre-mixed together into 1ib of Pyrite Powder in their inventory! One may mix Iron Sand and Gold Dust together to form "(1ib)Pyrite Powder | D-", which is worth 2Dmg and 2DP per pound!
+
+[Bc]Chakra Natures:
+[C]土, 風
+
+[|]Nara/Yuki[|]
+[Bc]Village
+[C][Iwagakure|http://aminoapps.com/p/6k9ls0] / [Yukigakure|http://aminoapps.com/p/x72e9x]
+[Bc]Skill Proficiencies: 
+[C]+3 Kagejutsu, +4 Ninjutsu, +3 Bukijutsu,  -2 Taijutsu, -2 Kenjutsu, -3 Fuinjutsu, -3 Genjutsu
+[Bc]Clan Ability:
+[cu]Faded Shadow:
+[C]Members of the Nara clan are able to manipulate their own shadows in a variety of ways, most notably, to control others and their shadows. This signature move is the "[Shadow Immitation Technique|http://aminoapps.com/p/2beym27]", taught to all Nara. Nara have "Kagejutsu" listed amongst their Jutsu Skills. Half bred from this clan and taught the basics, this user can only use the secret techniques of the Nara clan with -50% less effect.
+
+[Cu]Cold Shoulder:
+[C]As kin of the Yuki clan, the the "Ice Release" kekkei genkai runs in their blood, granting them the "[Kōri no Keisei|http://aminoapps.com/p/b0xo6h]" technique at a very young age, but performing these ice jutsu half as effectively. Due to their natural affinity with the cold, less so than a pure Yuki, their deluded bloodline still naturally heals one tier of frostbite every two rounds.
+
+[Bc]Chakra Natures: 
+[C]火, 陰, 水, 風 陽
+
+[|]Nara/Chinoike[|]
+[Bc]Village
+[C][Iwagakure|http://aminoapps.com/p/6k9ls0] / Yugakure
+[Bc]Skill Proficiencies: 
+[C]+3 Kagejutsu, +4 Ninjutsu, +2 Genjutsu, +3 Iryojutsu, -2 Bukijutsu, -2 Taijutsu, -5 Kenjutsu, -3 Fuinjutsu
+[Bc]Clan Ability:
+[cu]Faded Shadow:
+[C]Members of the Nara clan are able to manipulate their own shadows in a variety of ways, most notably, to control others and their shadows. This signature move is the "[Shadow Immitation Technique|http://aminoapps.com/p/2beym27]", taught to all Nara. Nara have "Kagejutsu" listed amongst their Jutsu Skills. Half bred from this clan and taught the basics, this user can only use the secret techniques of the Nara clan with -50% less effect.
+
+[cu]Blood Puddle: 
+[C]Descendant from a clan that survived decades living on food and water collected through a heavily iron filled river and the soil it ran through, this shinobi not only inherited the "[Ketsuryūgan|http://aminoapps.com/p/234ydjw]", which is added to their Jutsu Scores, but it's influence on fluid with high iron content, such as blood aswell... However, due to the diluted blood of this shinobi, these eyes and their techniques are only half as effective. 
+
+[Bc]Chakra Natures: 
+[C]火, 陰², 土, 水
+
+[|]Akimichi/Gomu[|]
+[Bc]Village
+[C][Iwagakure|http://aminoapps.com/p/6k9ls0] / [Uzushiogakure|http://aminoapps.com/p/y8b73j]
+[Bc]Skill Proficiencies: 
+[C]+3 Calorie Control, +3 Gomujutsu, +4 Ninjutsu, +3 Taijutsu, +1 Bukijutsu,  -6 Genjutsu, -5 Fuinjutsu, -5 Iryojutsu
+[Bc]Clan Ability:
+[cu]Hungry Caterpillar:
+[C]Half Akimichi may still use the chakra they store to perform the body-expanding "[Partial Expansion Technique|http://aminoapps.com/p/rmp0lt]", but Akimichi techniques perform at half efficiency, allowing them to increase the size of their limbs or torso and grab, smash, or slam anything in their way, but at -50% effect as their body is less pre-disposed to the dramatic alterations! This may be overcome however from their other bloodline if they are using the Gomu clan's "Rubber Body Technique"
+
+[Cu]Calorie Management 
+[C]Typically, Akimichi may freely convert the calories they consume into chakra, hence their husky physique and frequent eating habits. This ability is refered to as "Calorie Control" and is the core technique to the Akimichi clans Hijutsu, and is added to their list of Justu Skills. They must try to track their calories for this reason, getting a pool of Calories they can safley burn equal to 3× their HP, which recovers at the same rate as their HP, or by eating, gaining +100Cal per half rank of food items. The Akimichi developed the Three Coloured Pills for easier use of this technique, however, the use of these pills carry great risks. However, it takes more time for half Akimichi to master, so genin start with a set of 3 colored pills of special hijutsu medicine in case of absolute emergencies to force this power, allowed to carry no more than one of any single pill at any given time. These pills however pose a larger risk to those without the pure Akimichi physique, and offer less reward. If all three pills are taken, their effects are stacked together, good and bad, and force the Half-Akimichi into a Psuedo-Butterfly Mode!
+
+•Green Spinach Pill <This converts 5% of one's Max HP and turns it into fuel, gaining +5% Chakra and allowing them to burn 20 more calories past the safe amount, (negative number if past 0). The user's  Strength, Stamina, and Speed by 5% for 1 round, however,  this also causes 2% Poison and a 3% Debuff to Str, Sta, and Spe until Calories are restored.> | D
+
+•Yellow Curry Pill <This converts 13% of one's Max HP and turns it into fuel, gaining +13% Chakra and allowing them to burn 50 more calories past the safe amount, and increases  the user's  Strength, Stamina, and Will by 13% for 3 rounds, however, this also causes 4% Poison and a 7% Debuff to Str, Sta, and Spe until Calories are restored.> | C
+
+•Red Chilli Pill <This converts 33% of one's Max HP and turns it into fuel, gaining +33% Chakra and allowing them to burn 80 more calories past the safe amount, also increasing  the user's  Strength, Stamina, and Will by 33% for 6 rounds, however,  this also causes 8% Poison and a 17% Debuff to Str, Sta, and Spe until Calories are restored.> | B
+
+[cu]Elastic Body
+[C]These shinobi share the blood with some alleged thieves who long ago were said to have stolen a rotten sappling from the World Tree, giving their bodies elastic properties. As such, they gain "Gomujutsu" to their Jutsu Skill list, which can be trained by using Rubber Style techniques, which are only half as strong in effect and drawback as that of a pure blooded Gomu, starting with "[Gomu Gomu Pistoru|http://aminoapps.com/p/yfa0uro]", along with the inability to swim, becoming "Prone" if enveloped in water. 
+[Cu]The Goal of Dieting
+[C]Distantly related to those who dined centuries ago on the rubber fruit, they inherited a natural  +25% boost to their Chakra and EP! They may also supplement half of the chakra cost of their Gomujutsu by burning calories, (10Cal/1ChP), with their Akimichi bloodline's Calorie Control!
+
+[Bc]Chakra Natures: 
+[C]土², 陽², 風
+
+[|]Suna/Chikamatsu[|]
+[Bc]Village
+[C][Sunagakure|http://aminoapps.com/p/6goi6w8]
+[Bc]Skill Proficiencies: 
+[C]+2 Sunajutsu, +1 Ninjutsu, +3 Kenjutsu, +3 Bukijutsu, -1 Iryojutsu, -4 Taijutsu, -3 Genjutsu
+[Bc]Clan Ability:
+[cu]Dusty Puppets: 
+[C]Kin of this clan may choose to use "Iron Sand" or "Gold Dust", each being manipulated by different usage of their magnetic properties. starting off with "[Sand Manipulation (Satetsu/Sakin)|http://aminoapps.com/p/q75qcgd]" in their Jutsu Bank, regardless of available bank slots, but require 2MChP per 1ib of sand. Like Suna Clan members, they gain the "Sunajutsu" score added to their Jutsu Skills,  adding 1/10 (10%) of this score to the range and (R)OP when manipulating sand. Only members of the Chikamatsu clan may control and customize their special puppets, posessing the [Puppet Technique|http://aminoapps.com/p/1n25bh] and [Puppet Crafting|http://aminoapps.com/p/vwyxc1], regardless available Jutsu Bank slots, adding "Kugutsu" to their list of skills, however, even the basics may be taught to impure bloods, though the chakra cost is increased by +50%, and starting as Genin gain the following, Small Sized, Sand Doll puppet as a base. By using their own chakra, they may channel the Suna Clan's Sand Manipulation techniques through this puppet, which doubles as a storage for sand!
+
+•Sand Doll <1', 3Dmg, 3DP, 3EP, 3OP, 3ROP, 1/4ib (Iron/Gold) Sand> | C+
+
+[Bc]Chakra Natures:
+[C]土, 風², 水
+
+[|]Uchiha/Samurai[|]
+[Bc]Village
+[C] [Konohagakure|http://aminoapps.com/p/y5zj5ub] / [Iron Summit|http://aminoapps.com/p/n6dwdz]
+[Bc]Skill Proficiencies: 
+[C]+10 Bukijutsu, +8 Kenjutsu, +5 Taijutsu, -7 Iryojutsu, -7 Fuinjutsu, -5 Ninjutsu, -3 Genjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Indra: 
+[C]As a distant descendant, the half Uchiha may awaken the power of the "[Sharingan|http://aminoapps.com/p/wwbmml]", given the right circumstances, which is added to the shinobi's list of Jutsu Skills, improving as used, however, only the diluted potency halves the their effect.
+[Cu]False Pride of the Uchiha: 
+[C]Half Uchiha begin knowing the "[Firestarter Technique| http://aminoapps.com/p/7cyxdp ]", regardless of the user's elemental affinity, regardless of Jutsu bank size.
+
+[cu]Bushido Inspired: 
+[C]A samurai believes that his swords held his soul. That made the sword the most important thing he had. You are a descendant of such a warrior, and have inherired a Tanto <§, +6Dmg, +3ROP> | B as a testimate to said heritage. On top of that, you have been taught the basics of the " [Samurai Sabre Technique|http://aminoapps.com/p/ov439es] ", though only half as efficient as a true Samurai.
+
+[Bc]Chakra Natures: 
+[C]火², 陰, 風, 雷, 土, 水
+
+[|]Wasabi/Inuzuka[|]
+[Bc]Village
+[C][Kumogakure|http://aminoapps.com/p/ic9pa54]
+[Bc]Skill Proficiencies: 
+[C]+4 Taijutsu, +2 Taijutsu, +2 Ninjutsu, -4 Genjutsu, -2 Iryojutsu
+[Bc]Clan Ability:
+[Cu]Feline Similarities
+[C]As descendant members of this clan, these shinobi have certain feline characteristics, including tails, and greatly enhanced senses, especially their sense of smell, turning any stealth attempts against them into half stealth, increasing their their ability to find those hiding by 50%. This also gives a +25% bonus to see through illusions without sound and another 25% bonus to see through illusions without scent.
+[cu]Neko-notes
+[C]The Wasabi clan has passed down Hiden Fuinjutsu techniques that form cat like traits in chakra form, able to enhance their own senses and physical prowess. Distant descendants of the Wasabi will never have quite the same connection but still start off knowing one of these following techniques, gaining the "Cat Cloak" Jutsu a Score. Though may only use these techniques at half the efficiency, the effects of these abilities are increased by +3% for every 10 points in their "Cat Cloak" Jutsu Score:
+•[|] [Nekokaburi no Jutsu: Siamese|http://aminoapps.com/p/4yhspbi] [|]
+•[|] [Nekokaburi no Jutsu: Tabby|http://aminoapps.com/p/tuox0t] [|]
+•[|] [Nekokaburi no Jutsu: Calico|http://aminoapps.com/p/3i6g69t] [|]
+•[|] [Nekokaburi no Jutsu: Main Coon|http://aminoapps.com/p/tl3eci] [|]
+•[|] [Nekokaburi no Jutsu: Persian|http://aminoapps.com/p/23qex1] [|]
+
+[Cu]Feline Aquantance: 
+[C]Inuzuka begin with their very own " [Ninken|http://aminoapps.com/p/w67bdi] "! As a half breed, pure breed of the Wasabi clan, canine ninken are not interested in partnering with you, meaning you find yourself bonded to a feline ninken that starts with 10EXP instead of 15. Because they always fight together, the Ninken gains 2 EXP for every 5 EXP their partner gains! When their Ninken Partner reaches 50 EXP, they typically grow 1m in size or less and grow in strength, gaining an extra ⅕ of their partner's EXP, OR, this shinobi may gain a new young Ninken partner, but this EXP is split between them. For example, two ninken would now gain 2EXP for every 5 their patner gets, or one, 2 meter, Ninken would now recieve 4EXP for every 5EXP their partner gets! This happens once more when the Ninken reaches 100 EXP. These feline Ninken have these alternate Natural Weapons:
+[Bc][|] Natural Weapons [|]
+[C]•Bite <2×Sharp, +3Dmg> | D+
+[C]•(2)Claw <Sharp, +1Dmg, +50% Climb> | D+
+
+[Bc]Chakra Natures: 
+[C]雷², 風, 土
+
+[|] Senju/Uzumaki [|]
+[Bc]Village
+[C] [Konohagakure|http://aminoapps.com/p/y5zj5ub] / [Uzushiogakure|http://aminoapps.com/p/y8b73j]
+[Bc]Skill Proficiencies: 
+[C]+4 Ninjutsu, +4 Taijutsu, +3 Iryojutsu, +3 Fuinjutsu,  -5 Genjutsu, -4 Bukijutsu, -5 Kenjutsu
+
+[Bc]Clan Ability:
+[cu]Distant Descendant of Asura: 
+[C]As a very dustant dicendant Asura's, this shinobi's Chakra Pool is equal to (Int+Sta+Will)×1.5.
+
+[Cu]A Half-Thousand Skills
+[C]Compared to full blooded Senju, these half breeds may not specialise in just one area, but are known to struggle in the ones they don't, starting with +1 in four of their Jutsu Skills.
+
+[Cu]Late Bloomer
+[C]It is said that once a Senju has fully matured, their true potential will bear fruit in the form of an advanced nature, but for those with roots that do not run as deeply struggle to grow as well... Once a half blooded senju's reaches 500 Potential, they may only then hope to awaken an "Advanced Nature Release" they meet the prerequisites for, or increase a nature affinity they posess by +1 stage..
+
+[cu]Distant Descendant of Hagoromo: 
+[C]Said to be related to descendants of Hagoromo Ōtsutsuki, but niether of the Senju nor Uchiha lines, the soul and bodies of the Uzumaki relitives are enhanced, increasing their Health Points and Chakra Pool by +25% each.
+
+[Cu]Sensory Type:
+[C]Members of this clan have inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users ROP+Willl.
+[Bc]Chakra Natures: 
+[C]水², 陽², 陰
+
+[|]Inuzuka/Nō-Clan[|]
+[Bc]Village
+[C][Any Village|http://aminoapps.com/p/vk8tcr]
+[Bc]Skill Proficiencies: 
+[C]+2 Taijutsu, +2 Ninjutsu,  -2 Genjutsu, -2 Fuinjutsu
+[Bc]Clan Ability:
+[Uc]Work Ethic:
+[C]You start with +5 Points to spend freely on any Jutsu Skill Score!
+[Cu]Extra Potential: 
+[C]Their max EXP is capped at 550 instead of 500 points and are able to awaken a single advanced nature release, that is not clan locked, gaining an E-Rank starting jutsu of said nature when awakened. 
+[cu]Canine Similarities: 
+[C]The members of the Inuzuka clan, much like their canine partners, have greatly enhanced senses, yours are half of that, especially their sense of smell, turning any half stealth attempts against them into normal attacks, and increasing your ability to find those hiding by 25%. This also gives a +50% bonus to see through illusions without sound and another 25% bonus to see through illusions without scent.
+[Cu]Service Canine: 
+[C]Inuzuka begin with their very own " [Ninken|http://aminoapps.com/p/w67bdi] "! As a half breed, pure breed ninken are not interested in partnering with you, meaning you find yourself bonded to a mutt ninken that starts with 10EXP instead of 15. Because they always fight together,  the Ninken gains 2 EXP for every 5 EXP their partner gains! When their Ninken Partner reaches 50 EXP, they typically grow 1m in size or less and grow in strength, gaining an extra ⅕ of their partner's EXP, OR, the Inuzuka may gain a new young Ninken partner, but this EXP is split between them. For example, two ninken would now gain 2EXP for every 5 their patner gets, or one, 2 meter, Ninken would now recieve 4EXP for every 5EXP their partner gets! This happens again when the Ninken reaches 100 EXP and once more when the Shinobi reaches 550 EXP, allowing the addition of one more Ninken or the growth of those currently held! If 4 Ninken are held in this way, 
+[Bc]Chakra Natures: 
+[C]雷, 土, +1
+
+[|]Nara/Aburame[|]
+[Bc]Village
+[C][Iwagakure|http://aminoapps.com/p/6k9ls0] / [Sunagakure|http://aminoapps.com/p/6goi6w8]
+[Bc]Skill Proficiencies: 
+[C]+3 Kagejutsu, +3 Konchūjutsu, +1 Ninjutsu, +2 Bukijutsu, -2 Taijutsu, -2 Kenjutsu, -3 Fuinjutsu, -3 Iryojutsu 
+[Bc]Clan Ability:
+[cu]Insect Shadow:
+[C]Members of the Nara clan are able to manipulate their own shadows in a variety of ways, most notably, to control others and their shadows. This signature move is the "[Shadow Immitation Technique|http://aminoapps.com/p/2beym27]", taught to all Nara. Nara have "Kagejutsu" listed amongst their Jutsu Skills. Half bred from this clan and taught the basics, this user can only use the secret techniques of the Nara clan with -50% less effect. This particular cross-breeding between the Nara and Aburame clans and their techniques,  however, has uncovered the hidden ability to channel this shinobi's shadow manipulating Jutsu through the shadows of their insects! 
+[cu]Infested: 
+[C]Only members of the Aburame clan may host and breed these special instects, gaining the [Parasitic Insects Technique|http://aminoapps.com/p/6u7lu4] by default, however as a half breed, your body is less suited to host as many insects, requiring more energy to maintain at 3MChP per swarm housed in their hive. You start by housing the following species;
+•Kagebuto <XT, 0.001Dmg, 0.001DP, 0.003m Shdw> | D-
+
+[Bc]Chakra Natures: 
+[C]火, 陰, 土, 水

@@ -1,0 +1,57 @@
+[|] 陰 火 風 雷 土 水 陽 [|]
+[|] About ? [|]
+[|]Clan: ? [|]
+[|]Village: ? [|]
+[|] Gender: M / F / Other [|]
+[|] Birthday: (Date of Month, Year) [|]
+[|] Age: # [|]
+[|] Height: #'#" [|]
+[|] Chakra Natures: (Limit 2) [|]
+[|] Personality: ? [|]
+[|] Likes: ? [|]
+[|] Dislikes: ? [|]
+[|] History: ? [|]
+[|] Nindo: (Ninja Way/ personal code you live by) [|]
+[|] Traits [|] (30 points)
+[|] Intelligence: # [|]
+[|] Strength: # [|]
+[|] Speed: # [|]
+[|] Stamina: # [|]
+[|] Will: # [|]
+[|] Health Points: #/# (Strength+Stamina​•2) [|]
+[|] Defensive Points: #/# (Int+Stamina) [|]
+[|] Evasion Points: #/# (Int+Speed) [|]
+[|] Chakra Pool: #/# (Int+Sta+Will) [|]
+[|] Offensive Points: # (Speed+Stamina)/2) [|]
+[|] Ranged Offensive Points: # (Int+Sta)÷4) [|]
+[|]Initiative: # (EP+OP) [|]
+[|] Jutsu Skill [|] (5 Points)
+[|] Ninjutsu: # [|]
+[|] Genjutsu: # [|]
+[|] Taijutsu: # [|]
+[|] Fuinjutsu: # [|]
+[|] Iryojutsu: # [|]
+[|] Bukijutsu: # [|]
+[|] Kenjutsu: # [|]
+[|] Status [|]
+[|] Shinobi Title: Genin [|]
+[|] Shinobi Rank: D [|]
+[|] Experience: # (Added Trait Points) [|]
+[|] Chakra Control: # (Added Jutsu Skill Points) [|]
+[|] Potential: (EXP+Chakra C.) [|]
+[|] Jutsu Bank : #/# (# of Jutsu techniques known / number knowable, (Potential÷5. Round Down.) [|]
+[|] Missions Completed: # [|]
+D:
+C:
+B:
+A:
+S:
+[|] Confirmed Kills: # [|]
+[|] Equipment #/# ((Str+Sta)÷3. Round down)[|]
+[|] Ryō: 両10,000 [|]
+[|] Items [|]
+>
+[|] Weapons [|]
+>
+[|] Gear [|]
+>

@@ -1,0 +1,91 @@
+[|] Byuakugan [|]
+[Bcu][|] All Seeing White Eye [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG, Passive
+[Bc]Technique:
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must be an Hyūga, or Transplant a Byakugan.
+[Bc]Cost:
+[C]-8ChP per Minute activated per eye activated, Doubled for non-Hyūga.
+[Bc]Description:
+[C]The Byakugan, literally meaning "White Eye",  is the kekkei genkai that originated from the Ōtsutsuki Clan, and later inherited by their distant descendants, the Hyūga Clan. It is regarded as one of the "Three Great Dōjutsu", the others being the Sharingan and the Rinnegan. This dōjutsu usually is manifested as very distinctive eyes, characterised by their enlarged and featureless white irides with no visible pupils. While active, the pupils become more distinct and the veins near their temples bulge.
+
+[C]The Byakugan gives a near 360º diameter field of vision, with one blind spot at the back of the neck above the first thoracic vertebra. Its vision can penetrate through any solid objects or obstructions, and likewise remains unaffected by blinding interferences, though certain barriers may distort the Byakugan's perception to a degree. It also grants incredible clarity and insight, able to clearly see and analyse all minute details, even at high-speeds, granting a highly accurate sense of prediction to anticipate the flow of events and actions of others, turning any stealth attack within range of this vision into half stealth!
+
+[C]The Byakugan can see chakra to a higher degree than the Sharingan, such as identifying where a person's chakra signature originates from, any strange fluctuations of chakra, or even unique types of chakra or recognize chakra signatures of familiar individuals. Its ability to see chakra is acute enough to see the chakra pathway system and the 361 tenketsu that run along it. The Hyūga have devised a fighting style known as the "[Gentle Fist|http://aminoapps.com/p/zcetol]" to take advantage of this ability, wherein they strike an opponent's tenketsu to either seal or forcibly open them.
+
+[C]All of this together increases the Bunke Hyūga's EP, OP, and ROP by 32% and the Sōke Hyūga's by +64% while active and turns any stealth attacks into half stealth.
+
+[C]It has a powerful range of vision on top of  all that, able to magnify up to cellular level on its targets or view great distances. Bunke Hyūga may see a 360° Diameter equal to their natural ROP plus their "Byakugan" score, Sōke Hyuuga may see twice as far.
+
+[|] Jūken [|]
+[Bcu][|] Gentle Fist [|]
+
+[Bc]Rank:
+[c]D-Rank Hijutsu, KKG,  Active 
+[Bc]Technique:
+[c]Taijutsu 
+[Bc]Element:
+[C]Yang
+[BC]Prerequisite 
+[C]Be a member of the Hyūga clan with Byakugan.
+[Bc]Cost:
+[C]8 Chakra Points per blow.
+[Bc]Description:
+[C]The Gentle Fist is a form of hand-to-hand combat used by members of the Hyūga clan. It inflicts internal damage through attacking the body's Chakra Pathway System, subsequently injuring organs which are closely intertwined with the area of the network which has been struck. To do this, the user surgically injects a certain amount of their own chakra into the opponent's chakra pathway system, causing damage to surrounding organs due to their proximity to the chakra circulatory system. Even the slightest tap can cause severe internal damage, hence the name "gentle" fist. Doing this, a Sōke Hyūga deals an extra +4 damage to the target each successful blow, but a Bunke clan member deals an extra +8 damage per blow!
+
+[C]By employing the use of the Byakugan they can target the tenketsu, thus enhancing the havoc and control a Gentle Fist practitioner can impose upon an opponent's chakra network. These 361 nodes are key gate-keeping interceptions in the chakra circulatory network, thus forcibly opening or sealing them in whatever manner the Gentle Fist user sees fit, but damaging their HP regardless. Doing this, a Sōke Hyūga may reduce or raise 4ChP of the targets current and max Chakra Pool per successful blow, locking 4ChP of the Max Pool per point blocked. Bunke clan members are able to raise or reduce and lock 8ChP per blow.
+
+[|] Hakke Rokujūyon Shō [|]
+[Bcu][|] Eight Trigrams Sixty-Four Palms [|]
+
+[Bc]Rank:
+[c]B-Rank Hijutsu,  Active 
+[Bc]Technique:
+[c]Taijutsu 
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite 
+[C]Be a member of the Hyūga clan and know the "[Gentle Fist|http://aminoapps.com/p/zcetol]".
+[Bc]Cost:
+[C]24 Evasion Points
+[Bc]Description:
+[C]This is a secret taijutsu of the Hyūga clan. Using their Byakugan's near-360° field of vision, the Hyūga envisions themselves within the centre of an Eight Trigrams symbol. The user then delivers a series of attacks to a target that is within the symbol's perimeter, striking sixty-four of their tenketsu. Those sixty-four tenketsu are subsequently blocked, stopping the flow of chakra within the target's body following the same rules as the "[Gentle Fist|http://aminoapps.com/p/zcetol]", making it difficult for them to move. Alternatively, the sixty-four strikes can be split amongst multiple targets, such as to to deflect incoming projectiles. The highest and by far most difficult form of this ability is composed of 128 consecutive strikes!
+
+[C]The total number of strikes are broken into six smaller sets. Users perform each set of strikes within the same length of time, but because each set has more strikes than the one before it, the set's strikes become increasingly faster. As targets are struck, they are increasingly knocked backwards, with the combined force of the final sets being great enough to push them through tree trunks. If the first strike of any set is countered, the technique is ended, though the chakra cost is accounted for at the beginning of each set. If a set successfully, fully lands without any hit being countered, you make continue to the next set. The six sets of strikes are;
+
+•First, two consecutive strikes to make two. This is treated as a dual action, halving the melee damage and OP of each strike to any target within range.
+
+•Second, another two consecutive strikes to make four. The melee damage of each strike deals 1/4th melee damage, and 1/4 OP to any target within range.
+
+•Third, four consecutive strikes to make eight. The melee damage of each strike deals 1/8th melee damage, and 1/8 OP to any target within range.
+
+•Fourth, eight consecutive strikes to make sixteen. The melee damage of each strike deals 1/15th melee damage, and 1/15th OP to any target within range.
+
+•Fifth, sixteen consecutive strikes to make thirty-two. The melee damage of each strike deals 1/30th melee damage, and 1/30th OP to any target within range.
+
+•Sixth, thirty two consecutive strikes to make sixty-four. The melee damage of each strike deals 1/50th melee damage, and 1/50th OP to any target within range.
+
+•Seventh, another sixty four consecutive strikes in succession to make a total of one hundred and twenty-eight strikes. The melee damage of each strike deals 1/100th melee damage, and 1/100th OP to any target within range.
+
+[|] Hakkeshō Kaiten [|]
+[Bcu][|] Eight Trigrams Palms Revolving Heaven [|]
+
+[Bc]Rank:
+[c]C-Rank Hijutsu, KKG, Active, Reactive 
+[Bc]Technique:
+[c]Taijutsu 
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite 
+[C]Be a member of the Hyūga clan.
+[Bc]Cost:
+[C]16 Chakra Points
+[Bc]Description:
+[C]This is a secret taijutsu of the Hyūga clan. The moment before the Hyūga is struck by an attack, they emit chakra from all of their body's tenketsu to block it. They then spin rapidly, repelling the attack (and anything else in the vicinity) away and creating a protective shield for as long as they continue to spin. The greater the force of an attack, the greater the force with which it's repelled. Revolving Heaven is meant to compensate for the blindspot of the Hyūga's Byakugan.
+
+[C]This round defensive wall of pure chakra has a radius of 4 meters, (8 Meter diameter), centered on the castor,  and provides 32 Temporary DP and anything that makes contact with this wall, that is unable to break through, is flung back with a strength of 16! Meaning a projectile could be flung back to sender with a +8 to damage, or if one were to physically make contact, they would suffer 16 damage and be thrown back 8 meters and knocked prone! This is all doubled for Bunke Hyūga of the branch family.

@@ -1,0 +1,98 @@
+[|] Ketsuryūgan [|]
+[Bcu][|] Blood Dragon Eye [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG, Passive
+[Bc]Technique: 
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must be an [Chinoike|http://aminoapps.com/p/ij8v4m] , or transplant a Ketsuryūgan.
+[Bc]Cost:
+[C]-3ChP per Minute activated per eye activated, Doubled for non-Chinoike
+[Bc]Description:
+[C]The Ketsuryūgan is recognised by its reddish colour, giving a special appearance for the users of this dōjutsu, characterised as holders of "eyes as red as blood". Its power earned it comparison to the Three Great Dōjutsu, increasing the users "Genjutsu Score" by an amount equal to 50% of their "Ketsuryūgan score". The Ketsuryūgan confers genjutsu casting abilities either by making physical skin contact with the target or meeting each other's gaze. Upon which, they can hypnotise the victim in a variety of ways with their "[Genjutsu: Ketsuryūgan|http://aminoapps.com/p/65tor9]", or even delve deep into their minds to extract information. The Ketsuryūgan also gave the users the ability to manipulate iron, or more accurately, any liquid with a high iron concentration. As such, fitting with its moniker, the Ketsuryūgan can manipulate the blood within a living target, whether if be themselves or another being.
+
+[|] Genjutsu: Ketsuryūgan [|]
+[Bcu][|] Illusion Technique: Blood Dragon Eye [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG, Active
+[Bc]Technique:
+[c]Genjusu (Unsubtle)
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must have the [Ketsuryūgan|http://aminoapps.com/p/234ydjw] 
+[Bc]Cost:
+[C]15 Chakra Points
+[Bc]Description:
+[C]By establishing direct skin or eye contact, (use ROP to make eye contact), with a target, the user can lock them within a genjutsu for one of various purposes. They can brainwash them into mindless drones with a set order to follow, or trap them into a dream-like state. For more defensive means, this technique can create a powerful barrier against mind reading, protecting information from being acquired. This also allows the user to place genjutsu guards upon their own mind and see through the target's memories.
+
+[C]Upon being placed under this genjutsu, the targets body will be "Unconcious", and they will start "Suffocating", however,  this suffocation effects the targets DP, only effecting HP if one has no DP to lose. One may also plant this genjutsu in their minds or the minds of others to trigger upon having their minds being looked into, and cast upon the one trying to get into their mind. 
+
+[C]Once a target is in this state, the castor may use this genjutsu again to look into the vague memories of the target, but only see these flashes of memories, not here them. These memories can go as far back as one week per teir, needing an additional 10 ChP per week older, for as far as 10 weeks.
+
+[C]Alternatively, if the target has been injected/ingested with 5% of the castor's blood (HP) or 1 pint of Iron heavy water, and 5% of the castors Chakra, the user may cast this genjutsu upon the target again while in their unconcious state to direct their body, giving it an order it will do its best to carry out as long as it isn't directly detrimental to it's own life. This also doubles the strength of the genjutsu over the target.
+
+[|] Ōkamiogan [|]
+[Bcu][|] Great Wolf Eyes [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG, Passive
+[Bc]Technique:
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin, Yang
+[BC]Prerequisite 
+[C]Must be an [Ōkami|http://aminoapps.com/p/5hjlrcq] , or Transplant an Ōkamiogan.
+[Bc]Cost:
+[C]Dependent on Stage, Doubled for non-Ōkami
+[Bc]Description:
+[C]The Ōkamiogan's origins are are debated, as some say they are gifts from daiyōkai ancestors, while others claim they are descendants of a god, however, what is agreed is far more important, which is that only those worthy of ruling over others are worthy enough to posesses these eyes, and all others are to be ruled over. Lastly, their is a higher stage of this dōjutsu, a awakened state that is forbidden to all but one, they who have been chosen to command the rest. The law of the Ōkami clan that posesses these eyes dictate only one pair may exist. If two were to posesses these at the same time, they would have to dual, they are almost compelled too...
+
+[Bu]Ōkamiogan:
+[C]Unlike many other Dojutsu, the effects of these eyes activation course through out the users body, not so much increasing their vision, but seeing things differently and attuning them to their other heightening senses, gaining the "Canine Characteristics" ability and increasing their EP and OP by 40%. Another effect on their body is the slight growth, strengthening, and shaping if their teeth into Fangs <Sharp, +15Dmg>, and their nails into (2)Claws <Sharp, +6Dmg>, as well as increasing their Land Speed by 40% when running on all fours! However, the most dangerous aspect of this Dōjutsu is it's ability to manipulating others with their own will by a simple shared glance via the eye's technique,  " [Commanding Stare|http://aminoapps.com/p/tptqtw] " which forces the commanded to obey short and simple instructions, such as "sit", "stay", "fetch", and other movements or half actions/reactions, against their will, exception of self harm as long as they are within the effective range and can hear the commands. As intriguing as these eyes seem, not all are worthy of being blessed by their possession, awakening this gift only once the Ōkami has recognized a true pack of at least 5 who are loyal deep down, and have been truly recognized in kind as their leader, also unlocking the "Ōkamiogan" skill. As long as this Dōjutsu is actived, it costs -5ChP per Minute per eye.
+
+[Bus]Kuraōkamiogan
+[IMG=1NM]
+[Cs]The second, final, and greatest stage of this Dōjutsu, the Kuraōkamiogan... These eyes are forbidden for any to posesses but one, they who are said to be divinely chosen, recognized by their clan's people as their one truest leader, awakened with an "Ōkamiogan" Score of 100 and 10 followers. Upon activation, the castor's hair bleaches to hues of grey or even white as an ancient dwelling power surfaces, their claws blacken and grow, (Fangs <Sharp×2, +30Dmg>), their teeth sharpen, ((2)Claws <Sharp×2, +15Dmg>). Their ascended senses in all ways grant them the "Sensory Type" trait and cause EP and OP increase by 80%, as does their land speed when running on all fours! These eyes may still cast "Commanding Stare", but now at a 50% greater effect, but more terrifying still is their " [Dominating Gaze|http://aminoapps.com/p/lekmbg] ", which binds the target's will to their own, preventing them from intentionally or knowingly disobeying or opposing the will of their master and their demands, barring harm to themself or the latter. Keeping this stage active drains -7ChP of the castor per eye per minute.
+
+[|] Gyōshi o Shiki Suru [|]
+[Bcu][|] Commanding Stare [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG, Active, Reactive
+[Bc]Technique:
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must possess the [Ōkamiogan|http://aminoapps.com/p/6swnita] or the Kuraōkamiogan
+[Bc]Cost:
+[C]12 Chakra Points
+[Bc]Description:
+[C]By catching the target in direct eye contact, vs the castor's ROP, one may bind said target through a proverbial leash to their targets Will, held firmly by their own, as long and far as the master may sense the presence of the bound. 
+
+[C]The commanded is forced to obey simple 3 word instructions, manipulating half of their movements, actions, or reactions, against their will, with the exception of self harm or allowance of harm to self, as long as they are within the effective range and can hear the commands, costing -12ChP to cast and per command, The connection severs once the target or castor are out of range, (the castor can no longer clearly sense the target), or reach 0HP, the castor ends it, or if the link is some how broken by some other means.
+
+[|] Shihai-tekina Shisen [|]
+[Bcsu][|] Dominating Gaze [|]
+
+[Bsc]Rank:
+[cs]S-Rank, KKG, Kinjutsu, Active, Reactive
+[Bsc]Technique:
+[cs]Dōjutsu, 
+[Bsc]Element:
+[Cs]Yin
+[BsC]Prerequisite 
+[Cs]Must possess the [Kuraōkamiogan|http://aminoapps.com/p/6swnita] , Must know "Gyōshi o Shiki Suru"
+[Bsc]Cost:
+[Cs]24 Max Chakra Points
+[Bsc]Description:
+[SC]As with it's precursor, a metaphysical link is established via direct eye contact, one must evade the castor's ROP to evade their gaze... Failing to do so will fasten a spiritual collar to the subjects soul, made from a piece of their own core's chakra. 
+
+[Sc]Unlike it's lesser varient, the boundries of this technique are not restricted to the castor's senses, but may instead reach out to Miles equal to their Will, however they must still be directed clearly within the limits of their masters senses and be able to hear their orders.
+
+[Sc]The instructions given may be more complex than prior, reaching up to 5 words in length, costing 24ChP per commandment, causing the subservient to follow their master's will to the best of their capabilities,  willingly or otherwise, outside of self harm or allowed harm to self. Their own Will, even if not instructed, will prevent them from intentionally bringing harm to their master or sabatoging their orders, thusly creating a sort of forced loyalty. As before, this contract is broken once the master ends it, they or the servent reach 0HP, the link is somehow severed by other means, or either party get out of range if the other.
