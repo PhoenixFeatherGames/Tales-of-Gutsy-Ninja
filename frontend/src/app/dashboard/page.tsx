@@ -1,6 +1,5 @@
 "use client";
 
-throw new Error("DASHBOARD PAGE LOADED");
 
 
 import { useEffect, useState } from "react";
