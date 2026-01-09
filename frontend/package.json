@@ -1,5 +1,4 @@
 {
-  // Dummy change to force redeploy
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
