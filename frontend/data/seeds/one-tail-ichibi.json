@@ -1,0 +1,43 @@
+{
+  "slug": "one-tail-ichibi",
+  "name": "One-Tail / Shukaku",
+  "aliases": ["Ichibi","Shukaku"],
+  "type": "Bijū",
+  "rank": "S+",
+  "title": "Deity",
+  "height": "150' / 50m",
+  "description": "Shukaku, the One-Tail (一尾, Ichibi), is a tanuki-like bijū known for sand manipulation and powerful sealing techniques.",
+  "traits": {
+    "intelligence": 75,
+    "strength": 75,
+    "speed": 75,
+    "stamina": 175,
+    "will": 200,
+    "hp": "500/500",
+    "dp": "250/250+300",
+    "evp": "105/105(150)",
+    "chakraPool": "383/383(450)",
+    "op": "170(125)",
+    "rop": "113(68)",
+    "initiative": 225,
+    "jutsuBank": "65/200"
+  },
+  "naturalWeapons": [
+    {"name":"Sand (225ib)","tags":"E","damage":"varies"},
+    {"name":"Bite","tags":"Sharp×2","damage":"+44"},
+    {"name":"Claws (2)","tags":"Sharp","damage":"+18","notes":"+50% climb speed"}
+  ],
+  "naturalAbilities": [
+    "Sand Release",
+    "Heightened Senses",
+    "Sensory Type: chakra sensing (range = ROP + Will)",
+    "Bijūvenation: can burn Bijū chakra to recover HP and restore effects/limbs"
+  ],
+  "jutsu": [
+    "Sand Manipulation",
+    "Wind Release: Drilling Air Bullet",
+    "Tailed Beast Telepathy",
+    "Tailed Beast Bomb"
+  ],
+  "sourceRaw": "pasted-bijuu.txt"
+}

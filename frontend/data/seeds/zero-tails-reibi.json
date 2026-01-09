@@ -1,0 +1,42 @@
+{
+  "slug": "zero-tails-reibi",
+  "name": "Zero-Tails / Reibi",
+  "aliases": ["Reibi","Zero-Tails"],
+  "type": "Bijū",
+  "rank": "S+",
+  "title": "Deity",
+  "height": "variable 6' / 2m - 150' / 50m",
+  "description": "The Zero-Tails (零尾, Reibi) is a man-made tailed beast formed from dark thoughts and the downtrodden. It resembles a large leech with a Noh mask and its power scales with its current chakra/EXP.",
+  "traits": {
+    "intelligence": "10-200",
+    "strength": "10-200",
+    "speed": "10-200",
+    "stamina": "10-200",
+    "will": "10-200",
+    "hp": "40/40 - 800/800",
+    "dp": "20/20 - 400/400",
+    "evp": "19/19(20) - 355/355(400)",
+    "chakraPool": "0/60 - 600/600",
+    "op": "11(10)-245(200)",
+    "rop": "6(5)-145(100)",
+    "initiative": "30-600",
+    "jutsuBank": "variable"
+  },
+  "naturalWeapons": [
+    {"name":"Bite","tags":"Sharp","damage":"+47"}
+  ],
+  "naturalAbilities": [
+    "Darkness Release (Yamiton) variants",
+    "Variable Power: core stats scale with current chakra/EXP percentage",
+    "Heightened Senses",
+    "Empath",
+    "Bijūvenation: can burn Bijū chakra to recover HP and restore effects/limbs"
+  ],
+  "jutsu": [
+    "Yamiton: Parasitism",
+    "Tailed Beast Telepathy",
+    "Tailed Beast Chakra Arms",
+    "Tailed Beast Bomb"
+  ],
+  "sourceRaw": "pasted-bijuu.txt"
+}

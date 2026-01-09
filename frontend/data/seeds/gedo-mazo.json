@@ -1,0 +1,48 @@
+{
+  "slug": "gedo-mazo",
+  "name": "Demonic Statue of the Outer Path",
+  "aliases": ["Gedō Mazō"],
+  "type": "Bijū",
+  "rank": "S+",
+  "title": "Deity",
+  "height": "150' / 50m",
+  "description": "The Demonic Statue of the Outer Path (外道魔像, Gedō Mazō) is the husk of the Ten-Tails that remained after its chakra was separated from its body. Sealed in the moon, it is used as a container for tailed-beast chakra and strives only to regain the chakra taken from it.",
+  "traits": {
+    "intelligence": 150,
+    "strength": 150,
+    "speed": 150,
+    "stamina": 150,
+    "will": 150,
+    "hp": "600/600",
+    "dp": "300/300",
+    "evp": "255/255(300)",
+    "chakraPool": "450/450",
+    "op": "195(150)",
+    "rop": "130(75)",
+    "initiative": 450,
+    "jutsuBank": "200/200"
+  },
+  "naturalWeapons": [
+    {"name":"Bite","tags":"Sharp×2","damage":"+44"},
+    {"name":"Demonic Fist","count":2,"damage":"+25"},
+    {"name":"Demonic Feet","count":2,"damage":"+25"}
+  ],
+  "naturalAbilities": [
+    "Heightened Senses",
+    "Sensory Type: can sense chakra signatures (range = ROP + Will)",
+    "Husk of the Jūbi: grows and gains +10 to all stats per large thresholds of absorbed Bijū chakra; fully awakens after major absorption"
+  ],
+  "jutsu": [
+    "Clap of Thunderstorms",
+    "Stomping Earthquake",
+    "Tsunami Spit",
+    "Wildfire Breath",
+    "Roaring Tornado",
+    "Splinter Cell Fission",
+    "Phantom Dragons Nine Consuming Seals",
+    "Demonic Statue Chains",
+    "Wood Release: Cutting Technique",
+    "Black Receiver"
+  ],
+  "sourceRaw": "pasted-bijuu.txt"
+}

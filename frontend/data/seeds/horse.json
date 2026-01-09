@@ -1,0 +1,31 @@
+{
+  "slug": "horse",
+  "name": "Horse",
+  "type": "creature",
+  "traits": {
+    "intelligence": 10,
+    "strength": 25,
+    "speed": 50,
+    "stamina": 50,
+    "will": 15
+  },
+  "stats": {
+    "hp": 150,
+    "maxHp": 150,
+    "dp": 100,
+    "maxDp": 100,
+    "ep": 60,
+    "maxEp": 60,
+    "offense": 50,
+    "rangedOffense": 8,
+    "initiative": 110
+  },
+  "naturalWeapons": [
+    { "name": "Hoof", "quantity": 2, "effect": "+9Dmg" }
+  ],
+  "abilities": [
+    "Heightened Senses: Increased hearing and smell make it almost impossible to stealthily attack or hide from this creature. Effects of Blind are halved.",
+    "Quadruped: Travels on all fours, doubling land speed. A disabled limb counts as a disabled arm AND leg.",
+    "Fight or Flight: Prioritizes escape once HP is reduced to 90% or below, only fighting in self-defense if escape is not an option."
+  ]
+}

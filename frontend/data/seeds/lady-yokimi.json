@@ -1,0 +1,42 @@
+{
+  "slug": "lady-yokimi",
+  "name": "Lady Yokimi",
+  "type": "npc",
+  "role": "Escort Client",
+  "traits": {
+    "intelligence": 20,
+    "strength": 5,
+    "speed": 5,
+    "stamina": 5,
+    "will": 15
+  },
+  "stats": {
+    "hp": 20,
+    "maxHp": 20,
+    "dp": 12,
+    "maxDp": 12,
+    "ep": 25,
+    "maxEp": 25,
+    "chakra": 40,
+    "maxChakra": 40,
+    "offense": 5,
+    "rangedOffense": 7,
+    "initiative": 20
+  },
+  "equipment": {
+    "items": [
+      { "name": "Bento", "effect": "+35 Temp DP for 1 Hour", "grade": "A-" },
+      { "name": "Tea", "effect": "+35 Temp EP for 1 Hour", "grade": "A-" }
+    ],
+    "weapons": [
+      { "name": "Uchiwa", "effect": "+1DMG, +2DP", "grade": "D-" }
+    ],
+    "gear": []
+  },
+  "behavior": [
+    "Will always try dodging before blocking.",
+    "Will only attack if unable to dodge, block, or run.",
+    "Will stay in palanquin or near escorts at all times unless forced to run.",
+    "Will do her best to survive and remain unharmed."
+  ]
+}

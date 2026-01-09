@@ -1,0 +1,10 @@
+{
+  "slug": "dont-get-couriered-away",
+  "name": "Delivery: Don't Get Couriered Away",
+  "rank": "C",
+  "village": "Konoha",
+  "client": "Courier Express Ninja Delivery International (C.E.N.D. Int.)",
+  "mission": "Deliver packages to Yu no Kuni in 50 hours or less. Early arrival increases reward, late arrival reduces it. Packages and duffel bag must arrive undamaged for full reward. Expect daily attacks by thugs, bandits, wolves, or tigers.",
+  "creatures": ["stray-wolf", "tiger", "bandit", "thug"],
+  "sourceRaw": "pasted-missions-c.txt"
+}

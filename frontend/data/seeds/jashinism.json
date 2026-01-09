@@ -1,0 +1,30 @@
+{
+  "slug": "jashinism",
+  "name": "Jashinism",
+  "type": "cult",
+  "description": "Jashinism is a death cult whose followers, Jashinists, believe their deity demands utter death and destruction. They frame their killings as a public service, saving people from the fear of death. Ritual prayer and sacrifice are central to their faith.",
+  "initiation": {
+    "requirements": "Take 100 lives of the weak, 10 of the strong, or 5 Jashinists (or any combination worth 100 points: strong=10, Jashinist=20)",
+    "afterInitiation": "Receives divine orders to join the cult and is recruited by followers."
+  },
+  "doctrine": [
+    "Pray to Jashin before a fight for a 'good kill'.",
+    "Pray for forgiveness if unable to kill or if a kill is not preceded by prayer.",
+    "Proper prayer is required for kills to count and to maintain favor."
+  ],
+  "skill": {
+    "name": "Jashinism",
+    "initial": "1/10th of kill count upon joining.",
+    "advancement": "+1 per proper prayer/sacrifice (weak), +10 for strong sacrifices, -10 for failures or improper ritual, 1 hour repentance required for failures."
+  },
+  "holySymbol": {
+    "name": "Jashin Necklace",
+    "requirement": "Must always wear and protect; used for all prayers."
+  },
+  "rituals": {
+    "prayer": "10 minutes before and after each kill; treated as Stunned during prayer.",
+    "seasonalOffering": "At least 10 lives per season must be offered."
+  },
+  "blessings": "As faith and offerings grow, followers gain divine revelations, hidden and forbidden techniques, or lose favor if slothful.",
+  "sourceRaw": "pasted-jashinism.txt"
+}

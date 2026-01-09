@@ -1,0 +1,78 @@
+[|]Kaguya/Hozuki[|]
+
+[Bc]Village
+[C] [Kirigakure|http://aminoapps.com/p/avggfft]
+
+[Bc]Skill Proficiencies: 
+[C]+3 Shikotsumyaku, +1 Taijutsu, +1 Kenjutsu, +1 Bukijutsu, +2 Iryojutsu, -3 Genjutsu, -5 Fuinjutsu
+
+[Bc]Clan Ability:
+
+[cu]Distant Descendant of Kaguya:
+[C]As half descendants of Kaguya Ōtsutsuki, they have inherited a derivative of her original ability to manipulate one's bone structures through their kekkei genkai "[Shikotsumyaku| http://aminoapps.com/p/xaaa58 ]", but at +50% the cost, their body not properly suited for the dramatic ability, which also only allow them to heal from 1 tier of bleeding, if applicable, every 2 rounds.
+
+[cu]Deluted Water Body:
+[C]Even related members of this clan have gained the ability to change their entire body into water at will through their Kekkei Genkai, the "[Body Hydrification|http://aminoapps.com/p/j7w94o]", but at +50% the cost.
+
+[Cu]Snovia
+[C]By making use of their inherited ability to liquify any part of their body via Body Hydrification, aswell as shape and produce their own bodies bone structure, this shinobi crossed between two clans is able to bypass the HP requirements and bleeding normally caused by using Shikotsumyaku techniques by spending their WP instead, liquifying their flesh and bones! External bones they have produced may also be liquified, as they are still made from their own body and chakra!
+
+[Bc]Chakra Natures: 
+[C]水², 土, 陽
+
+[|]Kaguya/Samurai[|]
+
+[Bc]Village
+[C] [Kirigakure|http://aminoapps.com/p/avggfft] / [Iron Summit|http://aminoapps.com/p/n6dwdz]
+
+[Bc]Skill Proficiencies: 
+[C]+3 Shikotsumyaku, -8 Ninjutsu, +8 Taijutsu, +8 Bukijutsu, +9 Kenjutsu, -8 Genjutsu, -8 Fuinjutsu, -4 Iryojutsu
+[Bc]Clan Ability:
+[cu]Bushido Inspired: 
+[C]A samurai believes that his swords held his soul. That made the sword the most important thing he had. You are a descendant of such a warrior, and have inherired a Tanto <§, +6Dmg, +3ROP> | B as a testimate to said heritage. On top of that, you have been taught the basics of the " [Samurai Sabre Technique|http://aminoapps.com/p/ov439es] ", though only half as efficient as a true Samurai.
+
+[cu]Distant Descendant of Kaguya:
+[C]As half descendants of Kaguya Ōtsutsuki, they have inherited a derivative of her original ability to manipulate one's bone structures through their kekkei genkai "[Shikotsumyaku| http://aminoapps.com/p/xaaa58 ]", but at +50% the cost, their body not properly suited for the dramatic ability, which also only allow them to heal from 1 tier of bleeding, if applicable, every 2 rounds.
+[Bc]Chakra Natures: 
+[C]火, 風, 雷, 土², 水²
+
+[|]Senju/Aburame[|]
+
+[Bc]Village
+[C] [Konohagakure|http://aminoapps.com/p/y5zj5ub] / [Sunagakure|http://aminoapps.com/p/6goi6w8]
+
+[Bc]Skill Proficiencies: 
+[C]+3 Konchūjutsu, +1 Ninjutsu, +2 Taijutsu, -2 Genjutsu, -2 Kenjutsu, -2 Bukijutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Asura: 
+[C]As a very distant dicendant Asura's, this shinobi's Chakra Pool is equal to (Int+Sta+Will)×1.5.
+[Cu]Sensory Sensitivity:
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+[Cu]A Half-Thousand Skills
+[C]Compared to full blooded Senju, these half breeds may not specialise in just one area, but are known to struggle in the ones they don't, starting with +1 in four of their Jutsu Skills.
+[Cu]Late Bloomer
+[C]It is said that once a Senju has fully matured, their true potential will bear fruit in the form of an advanced nature, but for those with roots that do not run as deeply struggle to grow as well... Once a half blooded senju's reaches 500 Potential, they may only then hope to awaken an "Advanced Nature Release" they meet the prerequisites for, or increase a nature affinity they posess by +1 stage..
+[cu]Infested: 
+[C]Only members of the Aburame clan may host and breed these special instects, gaining the [Parasitic Insects Technique|http://aminoapps.com/p/6u7lu4] by default, however as a have breed, your body is less suited to host as many insects, requiring more energy to maintain at 3MChP per swarm housed in their hive. You start by housing the following species;
+•Cicada <XT, 0.001Dmg, 0.001DP, 0.003ChP Drain> | D-
+[Bc]Chakra Natures:
+[C]土, 水², 陽
+
+[|]Uchiha/Yamanaka [|]
+
+[Bc]Village
+[C] [Konohagakure|http://aminoapps.com/p/y5zj5ub] / [Iwagakure|http://aminoapps.com/p/6k9ls0]
+[Bc]Skill Proficiencies: 
+[C]+3 Shintenjutsu, +1 Ninjutsu, +1 Genjutsu, +1 Bukijutsu, -2 Fuinjutsu, -2 Taijutsu, -2 Kenjutsu
+[Bc]Clan Ability:
+[cu]Distant Descendant of Indra: 
+[C]As a distant descendant, the half Uchiha may awaken the power of the "[Sharingan|http://aminoapps.com/p/wwbmml]", given the right circumstances, which is added to the shinobi's list of Jutsu Skills, improving as used, however, only the diluted potency halves the their effect.
+
+[Cu]False Pride of the Uchiha: 
+[C]Half Uchiha begin knowing the "[Firestarter Technique| http://aminoapps.com/p/7cyxdp ]", regardless of the user's elemental affinity, regardless of Jutsu bank size.
+[cu]Mirror Mind:
+[C]Members of the Yamanaka clan are able to transfer their own minds into the body of another, assentially hijacking their targets body! This signature move is the "[Mind Transfer Technique|http://aminoapps.com/p/5i620k]", taught to all Yamanaka. Yamanaka have "Shintenjutsu" listed amongst their Jutsu Skills. Half bred from this clan and taught the basics, this user can only use jutsu of the Yamanaka clan with half of the effect. This individual may also cast this technique via direct eye contact through their Sharingan, when applicable. 
+[Cu]Sensory Sensitivity: 
+[C]Inherited from one of their parental clans, this shinobi has the inate ability to sense the chakra signatures around them by concentrating as well as able to supress their own. This extends in a diameter equal to the users (ROP+Will)÷2.
+[Bc]Chakra Natures: 
+[C]火, 陰², 土

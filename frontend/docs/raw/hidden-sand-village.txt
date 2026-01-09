@@ -1,0 +1,32 @@
+[|] The Hidden Sand Village [|]
+ [|]Sunagakure (砂隠れの里, Sunagakure no Sato, Literally meaning: Village Hidden by Sand)[|]
+Sunagakure is the hidden village of the Land of Wind. As the village of one of the Five Great Shinobi Countries. Being surrounded by desert offers the village a natural deterrent against invasion, as few foreign powers would be willing to endure the sandstorms and water scarcity common to Suna. Sunagakure itself lies in a fortified valley behind cliffs of rock, with passage in and out of the village restricted to a single cleft between two cliff faces, making the area very hard to attack from the ground. The buildings inside seem to be made of clay or stucco, which would help to keep the buildings cool.
+
+ [|] Kazekage [|]
+ Sabaku Chikamatsu
+
+ [|] Retainer [|]
+ Chōko Aburame
+
+ [|] Suna mission board [I]
+ Mission Board
+
+ [|] Registered Shinobi [|]
+
+ [|] Treasury [|]
+両10,000,000
+
+ [|] Clans [|]
+ Aburame
+ Chikamatsu
+ Suna
+
+ [|] Jutsu Affinity [|]
+ Wind, Earth, Fire
+
+ [|] Jutsu Affinity [|]
+ Ninjutsu | +5
+ Bukijutsu | +3
+ Fuinjutsu | +3
+ Iryojutsu | +2
+ Taijutsu | +2

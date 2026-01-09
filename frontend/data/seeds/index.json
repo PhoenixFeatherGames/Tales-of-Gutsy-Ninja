@@ -1,0 +1,177 @@
+[
+  {
+    "slug": "",
+    "title": "陰 火 風 雷 土 水 陽",
+    "type": "village",
+    "file": "character-sheet-template.md",
+    "rawFile": "character-sheet-template.txt"
+  },
+  {
+    "slug": "bcu-kaguya",
+    "title": "[Bcu] Kaguya",
+    "type": "village",
+    "file": "clans-part-1.md",
+    "rawFile": "clans-part-1.txt"
+  },
+  {
+    "slug": "kaguya-hozuki",
+    "title": "Kaguya/Hozuki",
+    "type": "village",
+    "file": "clans-part-2.md",
+    "rawFile": "clans-part-2.txt"
+  },
+  {
+    "slug": "the-hidden-lightning-village",
+    "title": "The Hidden Lightning Village",
+    "type": "village",
+    "file": "hidden-lightning-village.md",
+    "rawFile": "hidden-lightning-village.txt"
+  },
+  {
+    "slug": "the-hidden-mist-village",
+    "title": "The Hidden Mist Village",
+    "type": "village",
+    "file": "hidden-mist-village.md",
+    "rawFile": "hidden-mist-village.txt"
+  },
+  {
+    "slug": "the-hidden-sand-village",
+    "title": "The Hidden Sand Village",
+    "type": "village",
+    "file": "hidden-sand-village.md",
+    "rawFile": "hidden-sand-village.txt"
+  },
+  {
+    "slug": "the-hidden-stone-village",
+    "title": "The Hidden Stone Village",
+    "type": "village",
+    "file": "hidden-stone-village.md",
+    "rawFile": "hidden-stone-village.txt"
+  },
+  {
+    "slug": "the-iron-summit",
+    "title": "The Iron Summit",
+    "type": "village",
+    "file": "iron-summit.md",
+    "rawFile": "iron-summit.txt"
+  },
+  {
+    "slug": "bc-items",
+    "title": "[Bc] Items",
+    "type": "doc",
+    "file": "items-shop-rules.md",
+    "rawFile": "items-shop-rules.txt"
+  },
+  {
+    "slug": "bc-nature-transformation",
+    "title": "[Bc] Nature Transformation",
+    "type": "clan",
+    "file": "nature-transformation.md",
+    "rawFile": "nature-transformation.txt"
+  },
+  {
+    "slug": "shinobi-way-contributor-fire-daimyo",
+    "title": "⟦ Shinobi Way ⟧ Contributor: Fire Daimyo",
+    "type": "village",
+    "file": "shinobi-way-consolidated.md",
+    "rawFile": "shinobi-way-consolidated.txt"
+  },
+  {
+    "slug": "sh-kan-species",
+    "title": "Shōkan Species",
+    "type": "doc",
+    "file": "shokan-species.md",
+    "rawFile": "shokan-species.txt"
+  },
+  {
+    "slug": "chakra-j-den-no-jutsu",
+    "title": "Chakra Jūden no Jutsu",
+    "type": "rule",
+    "file": "techniques-part-1.md",
+    "rawFile": "techniques-part-1.txt"
+  },
+  {
+    "slug": "fy-jon",
+    "title": "Fyūjon",
+    "type": "clan",
+    "file": "techniques-part-11.md",
+    "rawFile": "techniques-part-11.txt"
+  },
+  {
+    "slug": "sharingan",
+    "title": "Sharingan",
+    "type": "clan",
+    "file": "techniques-part-12-sharingan.md",
+    "rawFile": "techniques-part-12-sharingan.txt"
+  },
+  {
+    "slug": "ketsury-gan",
+    "title": "Ketsuryūgan",
+    "type": "clan",
+    "file": "techniques-part-13-ketsuryugan.md",
+    "rawFile": "techniques-part-13-ketsuryugan.txt"
+  },
+  {
+    "slug": "ki-nobori-no-jutsu",
+    "title": "Ki Nobori no Jutsu",
+    "type": "doc",
+    "file": "techniques-part-2.md",
+    "rawFile": "techniques-part-2.txt"
+  },
+  {
+    "slug": "ki-nobori-no-jutsu",
+    "title": "Ki Nobori no Jutsu",
+    "type": "clan",
+    "file": "techniques-part-3.md",
+    "rawFile": "techniques-part-3.txt"
+  },
+  {
+    "slug": "kage-bunshin-no-jutsu",
+    "title": "Kage Bunshin no Jutsu",
+    "type": "doc",
+    "file": "techniques-part-4.md",
+    "rawFile": "techniques-part-4.txt"
+  },
+  {
+    "slug": "rasengan",
+    "title": "Rasengan",
+    "type": "clan",
+    "file": "techniques-part-5.md",
+    "rawFile": "techniques-part-5.txt"
+  },
+  {
+    "slug": "t-ku-no-jutsu",
+    "title": "Tōku no Jutsu",
+    "type": "clan",
+    "file": "techniques-part-6.md",
+    "rawFile": "techniques-part-6.txt"
+  },
+  {
+    "slug": "hachiman",
+    "title": "Hachiman",
+    "type": "clan",
+    "file": "techniques-part-7.md",
+    "rawFile": "techniques-part-7.txt"
+  },
+  {
+    "slug": "kagemane-no-jutsu",
+    "title": "Kagemane no Jutsu",
+    "type": "clan",
+    "file": "techniques-part-8.md",
+    "rawFile": "techniques-part-8.txt"
+  },
+  {
+    "slug": "bcu-each-coordinate-is-100-100-miles-in-size-making-this-map-miles-3-600mi-5-400mi-in-total-each-major-village-such-as-konaha-is-10mi-10mi-in-size-each-minor-village-such-as-the-sound-is-5mi-5mi-in-size",
+    "title": "[Bcu]Each coordinate is 100×100 miles in size, making this map miles 3,600mi×5,400mi in total. Each major village, (such as Konaha) is 10mi×10mi in size, each minor village, (such as the Sound), is 5mi×5mi in size.",
+    "type": "village",
+    "file": "travel-map-rules.md",
+    "rawFile": "travel-map-rules.txt"
+  },
+  {
+    "slug": "this-is-the-history-of-this-world-so-far",
+    "title": "*This is the history of this world so far",
+    "type": "village",
+    "file": "world-history-timeline.md",
+    "rawFile": "world-history-timeline.txt"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "slug": "usps-i",
+  "name": "United Shinobi Postal Service I",
+  "rank": "D",
+  "village": "Konoha",
+  "client": "Village Council",
+  "mission": "Due to recent changes by the new post master general, mail delivery has slowed. Assist by delivering collected USPS mail throughout Konoha quickly and without interruption.",
+  "sourceRaw": "pasted-missions.txt"
+}

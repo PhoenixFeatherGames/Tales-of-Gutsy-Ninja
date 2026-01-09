@@ -1,0 +1,32 @@
+[|] The Hidden Mist Village [|]
+Kirigakure is the hidden village of the Land of Water. As the village of one of the Five Great Shinobi Countries, Kiri has a Kage as its leader known as the Mizukage. Befitting its name, the village is surrounded by a thick mist, with several mountains in the background, making it difficult to find by foreigners. Kirigakure's architecture is composed of several cylindrical buildings, with the Mizukage's office being the widest and largest. Most of the buildings have vegetation growing on their roofs. Kirigakure's society was split into a form of caste system since the founding of the village. The highest ranking civilians were those whose family lineage originally stemmed from within Kirigakure, the second caste was for members of families who were allied with Kirigakure on the battlefields in the past while the last and lowest caste consisted of members of the families who were defeated on said battlefields and annexed into the village. From the early days on, the members of the third caste were handled with caution and had to complete the most perilous and dangerous missions for the village. 
+
+[|] Population [|]
+2,400
+
+[|] Hokage [|]
+ 3rd Mizukage, Ukonzaemon Kaguya
+
+[|] Retainer [|]
+
+[|] Registered Shinobi [|]
+
+[|] Treasury [|]
+両10,000,000
+
+[|] Clans [|]
+Hoshigaki
+Hōzuki
+Kaguya
+
+[|] Nature Affinity [|]
+Water, Wind, Earth
+
+[|] Jutsu Affinity [|]
+Ninjutsu | +3
+Genjutsu | +1
+Taijutsu | +2
+Bukijutsu | +2
+Kenjutsu | +4
+Fuinjutsu | +2
+Iryojutsu  | +1

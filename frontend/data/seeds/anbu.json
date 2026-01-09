@@ -1,0 +1,49 @@
+{
+  "slug": "anbu",
+  "name": "A.N.B.U.",
+  "fullName": "Ansatsu Senjutsu Tokushu Butai",
+  "type": "organization",
+  "description": "The A.N.B.U. (暗部) are covert operatives dispatched directly by their village leader. Members are hand-picked for their skills and personality, wear masks, use code names, and are tasked with high-risk missions including assassination, infiltration, and protection of the Kage. They are paid a salary, not by commission, and are expected to destroy their bodies if captured.",
+  "requirements": {
+    "minAge": 13,
+    "minPotential": 200,
+    "entryRank": "Special Chūnin",
+    "promotionRank": "Jōnin (Anbu title)",
+    "retirementRank": "Special Jōnin (or 500 Potential)"
+  },
+  "duties": [
+    "Assassination",
+    "Infiltration",
+    "Surveillance",
+    "Interrogation",
+    "Village patrol and Kage protection",
+    "High-risk missions in hostile territory"
+  ],
+  "pay": {
+    "salary": 50000,
+    "expPerMonth": 20,
+    "currency": "ryō",
+    "rank": "A-Ranked duty"
+  },
+  "equipment": [
+    {
+      "name": "Anbu Mask",
+      "bonus": "+15DP",
+      "requirement": "Must be Anbu",
+      "rank": "C"
+    },
+    {
+      "name": "Anbu Armor",
+      "bonus": "+25DP",
+      "requirement": "Must be Anbu",
+      "rank": "B-"
+    },
+    {
+      "name": "Ninjatō",
+      "bonus": "Sharp, +8Dmg, +10DP",
+      "requirement": "Must be Anbu",
+      "rank": "B-"
+    }
+  ],
+  "sourceRaw": "pasted-anbu.txt"
+}

@@ -1,0 +1,67 @@
+{
+  "baseNatures": {
+    "Fire": {
+      "name": "Fire",
+      "strengths": { "Wind": 1.25, "Wood": 1.5 },
+      "weaknesses": { "Water": 0.5 },
+      "notes": "If overpowering Wind, increases effect by an additional 25%."
+    },
+    "Wind": {
+      "name": "Wind",
+      "strengths": { "Lightning": 1.25 },
+      "weaknesses": { "Fire": 0.75 },
+      "notes": "If used with Fire of equivalent power, merged effect +25%. Fans give +1% per fan rank."
+    },
+    "Lightning": {
+      "name": "Lightning",
+      "strengths": { "Earth": 1.25 },
+      "weaknesses": { "Wind": 0.75 },
+      "notes": "If combined with Water, effect increased by 25%."
+    },
+    "Earth": {
+      "name": "Earth",
+      "strengths": { "Water": 1.25 },
+      "weaknesses": { "Lightning": 0.75 },
+      "environmental": {
+        "resource": "earth",
+        "ratio": "1 ChP per lb",
+        "envCostMultiplier": 0.75,
+        "selfFormMultiplier": 1.5,
+        "selfFormRequirementChakraControl": 100
+      }
+    },
+    "Water": {
+      "name": "Water",
+      "strengths": { "Fire": 1.5 },
+      "weaknesses": { "Earth": 0.75 },
+      "environmental": {
+        "resource": "water",
+        "ratio": "1 ChP per cup (8oz)",
+        "envCostMultiplier": 0.5,
+        "selfFormMultiplier": 2.0,
+        "selfFormRequirementChakraControl": 100
+      }
+    },
+    "Wood": {
+      "name": "Wood",
+      "strengths": {},
+      "weaknesses": { "Fire": 0.5 },
+      "environmental": {
+        "resource": "wood",
+        "ratio": "1 ChP per 4 in^3",
+        "envCostMultiplier": 0.5,
+        "selfFormMultiplier": 2.0,
+        "selfFormRequirementChakraControl": 100
+      }
+    },
+    "YinYang": {
+      "name": "Yin-Yang",
+      "notes": "25% more effective and 25% resistant to other chakra natures. Special cases: cursed or malevolent chakra is 25% resistant and 25% more effective against Yin-Yang; sage/nature chakra is 50% more resistant and 50% more effective.",
+      "effectivenessBonus": 1.25,
+      "resistance": 0.75
+    }
+  },
+  "advanced": {
+    "combinationNote": "Combining two/three basic natures requires a kekkei genkai (2) or kekkei tōta (3) and strong affinities; this is validated by gameplay code before allowing creation."
+  }
+}

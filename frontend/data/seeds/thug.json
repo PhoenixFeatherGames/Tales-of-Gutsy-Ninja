@@ -1,0 +1,11 @@
+{
+  "slug": "thug",
+  "name": "Thug",
+  "count": 2,
+  "traits": {"intelligence": 3, "strength": 10, "speed": 6, "stamina": 10, "will": 1, "hp": 40, "dp": 16, "evp": 9, "chakraPool": 10, "op": 8, "rop": 4, "initiative": 15},
+  "equipment": [
+    {"name": "Simple Chain", "tags": "5ft", "damage": "+5", "dp": "+5", "rank": "C"},
+    {"name": "Crowbar", "damage": "+5", "dp": "+4", "rank": "D+"}
+  ],
+  "sourceRaw": "pasted-missions-c.txt"
+}
