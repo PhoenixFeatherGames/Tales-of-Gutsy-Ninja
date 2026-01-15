@@ -218,7 +218,14 @@ export default function ProfilePage() {
         ) : (
           <ul className="space-y-2">
             {posts.map((post) => (
-              <li key={post.id} className="border-b pb-2">
+              <li key={post.id} className="border-b pb-2 flex items-center gap-3">
+                {post.thumbnailUrl && (
+                  <img
+                    src={post.thumbnailUrl}
+                    alt="thumbnail"
+                    className="w-12 h-12 object-cover rounded"
+                  />
+                )}
                 <a
                   href={`/post/${post.id}`}
                   className="text-orange-700 hover:underline font-semibold"
