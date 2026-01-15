@@ -65,14 +65,16 @@ export default function PostDetailPage() {
       ? userSnap.data().username
       : null;
 
+    const commentData = {
+      body: comment,
+      authorUid: auth.currentUser.uid,
+      authorUsername,
+      createdAt: serverTimestamp(),
+    };
+    console.log("Comment data to Firestore:", commentData);
     await addDoc(
       collection(db, "posts", postId, "comments"),
-      {
-        body: comment,
-        authorUid: auth.currentUser.uid,
-        authorUsername,
-        createdAt: serverTimestamp(),
-      }
+      commentData
     );
 
     setComment("");
