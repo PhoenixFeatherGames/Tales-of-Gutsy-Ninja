@@ -85,75 +85,88 @@ export default function PostDetailPage() {
   if (!post) return <main className="p-8">Post not found.</main>;
 
   return (
-    <main className="p-8 max-w-2xl mx-auto">
-      <h1 className="text-2xl font-bold mb-2">{post.title}</h1>
-
-      <div className="text-sm text-zinc-500 mb-4">
-        By{" "}
-        <a
-          href={`/user/${encodeURIComponent(post.authorUsername || "")}`}
-          className="underline"
-        >
-          {post.authorUsername || "Unknown"}
-        </a>
-      </div>
-
-      {post.thumbnailUrl && (
-        <img
-          src={post.thumbnailUrl}
-          className="w-full max-h-64 object-cover rounded mb-4"
+    <main className="relative p-8 max-w-2xl mx-auto">
+      {post.backgroundUrl && (
+        <div
+          className="absolute inset-0 w-full h-full z-0"
+          style={{
+            backgroundImage: `url(${post.backgroundUrl})`,
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+            filter: "blur(2px) brightness(0.7)",
+          }}
         />
       )}
+      <div className={post.backgroundUrl ? "relative z-10" : ""}>
+        <h1 className="text-2xl font-bold mb-2">{post.title}</h1>
 
-      <div className="mb-6">{post.body}</div>
+        <div className="text-sm text-zinc-500 mb-4">
+          By{" "}
+          <a
+            href={`/user/${encodeURIComponent(post.authorUsername || "")}`}
+            className="underline"
+          >
+            {post.authorUsername || "Unknown"}
+          </a>
+        </div>
 
-      <hr className="my-6" />
-
-      {/* COMMENTS */}
-      <section>
-        <h2 className="font-semibold mb-3">Comments</h2>
-
-        {auth.currentUser && (
-          <form onSubmit={handleComment} className="flex gap-2 mb-4">
-            <input
-              className="border p-2 flex-1"
-              placeholder="Write a comment..."
-              value={comment}
-              onChange={(e) => setComment(e.target.value)}
-              disabled={commentLoading}
-              maxLength={300}
-            />
-            <button
-              type="submit"
-              disabled={commentLoading}
-              className="bg-orange-600 text-white px-4 py-2 rounded"
-            >
-              {commentLoading ? "Posting..." : "Comment"}
-            </button>
-          </form>
+        {post.thumbnailUrl && (
+          <img
+            src={post.thumbnailUrl}
+            className="w-full max-h-64 object-cover rounded mb-4"
+          />
         )}
 
-        <ul className="space-y-3">
-          {comments.length === 0 && (
-            <li className="text-zinc-400">No comments yet.</li>
+        <div className="mb-6">{post.body}</div>
+
+        <hr className="my-6" />
+
+        {/* COMMENTS */}
+        <section>
+          <h2 className="font-semibold mb-3">Comments</h2>
+
+          {auth.currentUser && (
+            <form onSubmit={handleComment} className="flex gap-2 mb-4">
+              <input
+                className="border p-2 flex-1"
+                placeholder="Write a comment..."
+                value={comment}
+                onChange={(e) => setComment(e.target.value)}
+                disabled={commentLoading}
+                maxLength={300}
+              />
+              <button
+                type="submit"
+                disabled={commentLoading}
+                className="bg-orange-600 text-white px-4 py-2 rounded"
+              >
+                {commentLoading ? "Posting..." : "Comment"}
+              </button>
+            </form>
           )}
 
-          {comments.map((c) => (
-            <li key={c.id} className="border-b pb-2">
-              <div>{c.body}</div>
-              <div className="text-xs text-zinc-500">
-                By{" "}
-                <a
-                  href={`/user/${encodeURIComponent(c.authorUsername || "")}`}
-                  className="underline"
-                >
-                  {c.authorUsername || "Unknown"}
-                </a>
-              </div>
-            </li>
-          ))}
-        </ul>
-      </section>
+          <ul className="space-y-3">
+            {comments.length === 0 && (
+              <li className="text-zinc-400">No comments yet.</li>
+            )}
+
+            {comments.map((c) => (
+              <li key={c.id} className="border-b pb-2">
+                <div>{c.body}</div>
+                <div className="text-xs text-zinc-500">
+                  By{" "}
+                  <a
+                    href={`/user/${encodeURIComponent(c.authorUsername || "")}`}
+                    className="underline"
+                  >
+                    {c.authorUsername || "Unknown"}
+                  </a>
+                </div>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </div>
     </main>
   );
 }
