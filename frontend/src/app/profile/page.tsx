@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { auth, db } from "@/lib/firebase";
 import {
@@ -226,12 +227,12 @@ export default function ProfilePage() {
                     className="w-12 h-12 object-cover rounded"
                   />
                 )}
-                <a
+                <Link
                   href={`/post/${post.id}`}
                   className="text-orange-700 hover:underline font-semibold"
                 >
                   {post.title}
-                </a>
+                </Link>
               </li>
             ))}
           </ul>
