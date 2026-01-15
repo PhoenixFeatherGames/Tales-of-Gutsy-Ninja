@@ -21,6 +21,7 @@ import {
 export default function ProfilePage() {
   // FIXED: user must be typed as User | null
   const [user, setUser] = useState<User | null>(null);
+  const [posts, setPosts] = useState<any[]>([]);
 
   const [username, setUsername] = useState("");
   const [currentUsername, setCurrentUsername] = useState("");
@@ -41,6 +42,12 @@ export default function ProfilePage() {
         if (userDoc.exists()) {
           setCurrentUsername(userDoc.data().username || "");
         }
+
+        // Fetch posts authored by the user
+        const postsRef = collection(db, "posts");
+        const q = query(postsRef, where("authorUid", "==", u.uid));
+        const querySnapshot = await getDocs(q);
+        setPosts(querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })));
       }
     });
 
@@ -205,8 +212,23 @@ export default function ProfilePage() {
       </div>
 
       <div className="p-4 bg-zinc-100 dark:bg-zinc-800 rounded-lg">
-        <h2 className="font-semibold mb-2">Posts & Folders</h2>
-        <p className="text-zinc-500">(Posts, folders, and characters will appear here.)</p>
+        <h2 className="font-semibold mb-2">Your Posts</h2>
+        {posts.length === 0 ? (
+          <p className="text-zinc-500">No posts yet.</p>
+        ) : (
+          <ul className="space-y-2">
+            {posts.map((post) => (
+              <li key={post.id} className="border-b pb-2">
+                <a
+                  href={`/post/${post.id}`}
+                  className="text-orange-700 hover:underline font-semibold"
+                >
+                  {post.title}
+                </a>
+              </li>
+            ))}
+          </ul>
+        )}
       </div>
     </main>
   );
