@@ -8,8 +8,6 @@ import { listenToAuth } from "@/lib/auth";
 import { ensurePlayerExists } from "@/lib/player";
 import { db, auth } from "@/lib/firebase";
 import { onAuthStateChanged } from "firebase/auth";
-import { doc, getDoc } from "firebase/firestore";
-import { useEffect, useState } from "react";
 import {
   doc,
   getDoc,
