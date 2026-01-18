@@ -214,28 +214,29 @@ export default function ProfilePage() {
 
       <div className="p-4 bg-zinc-100 dark:bg-zinc-800 rounded-lg">
         <h2 className="font-semibold mb-2">Your Posts</h2>
+        <div style={{color: 'red', fontWeight: 'bold'}}>DEBUG: This is the latest profile page code.</div>
         {posts.length === 0 ? (
           <p className="text-zinc-500">No posts yet.</p>
         ) : (
           <ul className="space-y-2">
             {posts.map((post) => (
-              <li key={post.id} className="border-b pb-2">
-                <a
-                  href={`/post/${post.id}`}
-                  className="flex items-center gap-3 text-orange-700 hover:underline font-semibold"
-                  style={{ textDecoration: 'none' }}
-                >
-                  {post.thumbnailUrl && (
-                    <img
-                      src={post.thumbnailUrl}
-                      alt="thumbnail"
-                      className="w-12 h-12 object-cover rounded"
-                    />
-                  )}
-                  {post.title}
-                </a>
-              </li>
-            ))}
+                <li key={post.id} className="border-b pb-2">
+                  <a
+                    href={`/post/${post.id}`}
+                    className="flex items-center gap-3 text-orange-700 hover:underline font-semibold"
+                    style={{ textDecoration: 'underline', cursor: 'pointer' }}
+                  >
+                    {post.thumbnailUrl && (
+                      <img
+                        src={post.thumbnailUrl}
+                        alt="thumbnail"
+                        className="w-12 h-12 object-cover rounded"
+                      />
+                    )}
+                    {post.title}
+                  </a>
+                </li>
+              ))}
           </ul>
         )}
       </div>
