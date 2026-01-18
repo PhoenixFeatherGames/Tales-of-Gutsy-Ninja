@@ -227,10 +227,11 @@ export default function ProfilePage() {
                     className="w-12 h-12 object-cover rounded"
                   />
                 )}
-                <Link href={`/post/${post.id}`} passHref legacyBehavior>
-                  <a className="text-orange-700 hover:underline font-semibold">
-                    {post.title}
-                  </a>
+                <Link
+                  href={`/post/${post.id}`}
+                  className="text-orange-700 hover:underline font-semibold"
+                >
+                  {post.title}
                 </Link>
               </li>
             ))}
