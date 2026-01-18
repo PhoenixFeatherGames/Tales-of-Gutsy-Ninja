@@ -219,20 +219,21 @@ export default function ProfilePage() {
         ) : (
           <ul className="space-y-2">
             {posts.map((post) => (
-              <li key={post.id} className="border-b pb-2 flex items-center gap-3">
-                {post.thumbnailUrl && (
-                  <img
-                    src={post.thumbnailUrl}
-                    alt="thumbnail"
-                    className="w-12 h-12 object-cover rounded"
-                  />
-                )}
-                <Link
+              <li key={post.id} className="border-b pb-2">
+                <a
                   href={`/post/${post.id}`}
-                  className="text-orange-700 hover:underline font-semibold"
+                  className="flex items-center gap-3 text-orange-700 hover:underline font-semibold"
+                  style={{ textDecoration: 'none' }}
                 >
+                  {post.thumbnailUrl && (
+                    <img
+                      src={post.thumbnailUrl}
+                      alt="thumbnail"
+                      className="w-12 h-12 object-cover rounded"
+                    />
+                  )}
                   {post.title}
-                </Link>
+                </a>
               </li>
             ))}
           </ul>
