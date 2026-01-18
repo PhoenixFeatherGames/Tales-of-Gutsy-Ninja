@@ -112,7 +112,7 @@ export default function DashboardPage() {
                   {currentUsername}
                 </a>
               ) : (
-                <span className="font-bold text-orange-600">Shinobi</span>
+                <span className="font-bold text-orange-600">User</span>
               )}
             </span>
 
