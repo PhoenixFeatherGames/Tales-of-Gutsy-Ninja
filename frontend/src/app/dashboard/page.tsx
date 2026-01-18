@@ -104,13 +104,16 @@ export default function DashboardPage() {
 
           <div className="flex items-center gap-4">
             <span className="text-sm">
-              Welcome,{" "}
-              <a
-                href={`/user/${encodeURIComponent(currentUsername)}`}
-                className="font-bold text-orange-600 hover:underline"
-              >
-                {currentUsername || "Shinobi"}
-              </a>
+              Welcome, {currentUsername ? (
+                <a
+                  href={`/user/${encodeURIComponent(currentUsername)}`}
+                  className="font-bold text-orange-600 hover:underline"
+                >
+                  {currentUsername}
+                </a>
+              ) : (
+                <span className="font-bold text-orange-600">Shinobi</span>
+              )}
             </span>
 
             <button
