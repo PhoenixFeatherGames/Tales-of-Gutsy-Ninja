@@ -28,7 +28,7 @@ export default function Navbar() {
     return () => unsub();
   }, []);
 
-  if (loading || !username) return null;
+  if (loading) return null;
 
   return (
     <div className="fixed top-4 left-4 z-50 flex items-center gap-3">
@@ -41,14 +41,6 @@ export default function Navbar() {
           🏠
         </Link>
       )}
-
-      <Link
-        href={`/user/${encodeURIComponent(username)}`}
-        className="text-sm font-semibold text-orange-700 dark:text-orange-400 hover:underline"
-        title="View profile"
-      >
-        Welcome, {username}
-      </Link>
     </div>
   );
 }

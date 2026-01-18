@@ -6,7 +6,10 @@ import { useEffect, useState } from "react";
 import type { User } from "firebase/auth";
 import { listenToAuth } from "@/lib/auth";
 import { ensurePlayerExists } from "@/lib/player";
-import { db } from "@/lib/firebase";
+import { db, auth } from "@/lib/firebase";
+import { onAuthStateChanged } from "firebase/auth";
+import { doc, getDoc } from "firebase/firestore";
+import { useEffect, useState } from "react";
 import {
   doc,
   getDoc,
@@ -24,6 +27,21 @@ export default function DashboardPage() {
   const [postsLoading, setPostsLoading] = useState(true);
   const [user, setUser] = useState<User | null>(null);
   const [currentUsername, setCurrentUsername] = useState("");
+  const [profileUsername, setProfileUsername] = useState<string | null>(null);
+  const [profileLoading, setProfileLoading] = useState(true);
+  useEffect(() => {
+    const unsub = onAuthStateChanged(auth, async (user) => {
+      if (!user) {
+        setProfileUsername(null);
+        setProfileLoading(false);
+        return;
+      }
+      const userDoc = await getDoc(doc(db, "users", user.uid));
+      setProfileUsername(userDoc.exists() ? userDoc.data().username : null);
+      setProfileLoading(false);
+    });
+    return () => unsub();
+  }, []);
 
   useEffect(() => {
     const unsubscribeAuth = listenToAuth(async (u) => {
@@ -103,19 +121,15 @@ export default function DashboardPage() {
           <h1 className="text-2xl font-bold">Shinobi Dashboard</h1>
 
           <div className="flex items-center gap-4">
-            <span className="text-sm">
-              Welcome, {currentUsername ? (
-                <a
-                  href={`/user/${encodeURIComponent(currentUsername)}`}
-                  className="font-bold text-orange-600 hover:underline"
-                >
-                  {currentUsername}
-                </a>
-              ) : (
-                <span className="font-bold text-orange-600">User</span>
-              )}
-            </span>
-
+            {!profileLoading && profileUsername && (
+              <a
+                href={`/user/${encodeURIComponent(profileUsername)}`}
+                className="text-sm font-semibold text-orange-700 dark:text-orange-400 hover:underline"
+                title="View profile"
+              >
+                Welcome, {profileUsername}
+              </a>
+            )}
             <button
               onClick={() => router.push("/create-post")}
               className="bg-orange-600 hover:bg-orange-700 text-white px-4 py-2 rounded shadow"
