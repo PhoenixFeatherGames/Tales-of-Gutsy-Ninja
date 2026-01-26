@@ -1,3 +1,4 @@
+
 "use client";
 import { useEffect, useState } from "react";
 import { useRouter, useParams } from "next/navigation";
@@ -16,25 +17,6 @@ import {
 const MAX_CHARACTERS = 12;
 const MAX_PER_CLAN = 2;
 const MAX_CROSS_CLAN = 3;
-"use client";
-
-import { useEffect, useState } from "react";
-import { useRouter, useParams } from "next/navigation";
-import { onAuthStateChanged } from "firebase/auth";
-// Character slot and clan/cross-clan limits
-const MAX_CHARACTERS = 12;
-const MAX_PER_CLAN = 2;
-const MAX_CROSS_CLAN = 3;
-import {
-  collection,
-  query,
-  where,
-  getDocs,
-  onSnapshot,
-  orderBy,
-  doc,
-  deleteDoc,
-} from "firebase/firestore";
 
 export default function UserProfilePage() {
   const router = useRouter();
