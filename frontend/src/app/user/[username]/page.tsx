@@ -3,19 +3,10 @@
 import { useEffect, useState } from "react";
 import { useRouter, useParams } from "next/navigation";
 import { db, auth } from "@/lib/firebase";
-import { collection, query, where, getDocs, onSnapshot, orderBy, doc, deleteDoc } from "firebase/firestore";
 // Character slot and clan/cross-clan limits
 const MAX_CHARACTERS = 12;
 const MAX_PER_CLAN = 2;
 const MAX_CROSS_CLAN = 3;
-  const [characters, setCharacters] = useState<any[]>([]);
-    // Fetch characters for this user
-    async function fetchCharacters(uid: string) {
-      const charsRef = collection(db, "characters");
-      const charsQ = query(charsRef, where("ownerUid", "==", user.uid));
-      const charsSnap = await getDocs(charsQ);
-      setCharacters(charsSnap.docs.map(doc => ({ id: doc.id, ...doc.data() })));
-    }
 import {
   collection,
   query,
@@ -26,6 +17,15 @@ import {
   doc,
   deleteDoc,
 } from "firebase/firestore";
+  const [characters, setCharacters] = useState<any[]>([]);
+
+  // Fetch characters for this user
+  async function fetchCharacters(uid: string) {
+    const charsRef = collection(db, "characters");
+    const charsQ = query(charsRef, where("ownerUid", "==", uid));
+    const charsSnap = await getDocs(charsQ);
+    setCharacters(charsSnap.docs.map(doc => ({ id: doc.id, ...doc.data() })));
+  }
 import { onAuthStateChanged } from "firebase/auth";
 
 export default function UserProfilePage() {
