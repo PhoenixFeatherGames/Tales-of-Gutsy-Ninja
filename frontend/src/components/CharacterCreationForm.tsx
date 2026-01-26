@@ -1,12 +1,12 @@
 "use client";
 // Utility to get clan modifiers (stub for now, can be expanded)
-function getClanModifiers(clan) {
+function getClanModifiers(clan: string) {
   // Example: Kaguya gets -5 Ninjutsu, +2 Taijutsu, etc.
   // This should be replaced with a lookup from the loaded clan data
   return {};
 }
 
-function calculateDerivedStats(traits, clanMods = {}) {
+function calculateDerivedStats(traits: Record<string, number>, clanMods: Record<string, number> = {}) {
   // Apply clanMods to traits if needed
   const t = { ...traits, ...clanMods };
   // HP = (Str + Sta) * 2
@@ -23,7 +23,6 @@ function calculateDerivedStats(traits, clanMods = {}) {
   const ROP = Math.floor((t.intelligence + t.stamina) / 2);
   return { HP, DP, EP, OP, Initiative, ROP };
 }
-"use client";
 import React, { useState, useMemo } from 'react';
 
 // Example data, replace with dynamic fetch if needed
@@ -194,7 +193,7 @@ export default function CharacterCreationForm() {
               <button type="button" className="px-2" onClick={() => setForm(f => ({ ...f, traits: { ...f.traits, [trait]: Math.max(0, f.traits[trait] - 1) } }))} disabled={form.traits[trait] <= 0}>-</button>
               <span>{form.traits[trait]}</span>
               <button type="button" className="px-2" onClick={() => {
-                const spent = TRAIT_NAMES.reduce((sum, t) => sum + f.traits[t], 0);
+                const spent = TRAIT_NAMES.reduce((sum, t) => sum + form.traits[t], 0);
                 if (spent < TRAIT_POINTS) setForm(f => ({ ...f, traits: { ...f.traits, [trait]: f.traits[trait] + 1 } }));
               }} disabled={TRAIT_NAMES.reduce((sum, t) => sum + form.traits[t], 0) >= TRAIT_POINTS}>+</button>
             </div>
@@ -214,7 +213,7 @@ export default function CharacterCreationForm() {
               <button type="button" className="px-2" onClick={() => setForm(f => ({ ...f, jutsuSkill: { ...f.jutsuSkill, [skill]: Math.max(0, f.jutsuSkill[skill] - 1) } }))} disabled={form.jutsuSkill[skill] <= 0}>-</button>
               <span>{form.jutsuSkill[skill]}</span>
               <button type="button" className="px-2" onClick={() => {
-                const spent = JUTSU_SKILL_NAMES.reduce((sum, t) => sum + f.jutsuSkill[t], 0);
+                const spent = JUTSU_SKILL_NAMES.reduce((sum, t) => sum + form.jutsuSkill[t], 0);
                 if (spent < JUTSU_SKILL_POINTS) setForm(f => ({ ...f, jutsuSkill: { ...f.jutsuSkill, [skill]: f.jutsuSkill[skill] + 1 } }));
               }} disabled={JUTSU_SKILL_NAMES.reduce((sum, t) => sum + form.jutsuSkill[t], 0) >= JUTSU_SKILL_POINTS}>+</button>
             </div>
