@@ -82,6 +82,12 @@ Digging The size of a hole you may dig, in a diggable surface such as the dirt, 
 
 ⟦ Rule Zero ⟧ Rule Zero, also known as GM fiat, is the common RPG rule that the GM has the ultimate say in all rules matters...
 
+
+⟦ Character Slot Limits ⟧
+• Each user may have a maximum of 12 characters.
+• No user may create more than 2 characters from any single clan.
+• No user may create more than 3 cross-clan (multi-clan) characters.
+
 ⟦ Extra / Amendments ⟧ (Max characters, cross-clan limits, EXP invite reward, moderation rules, jutsu scaling caps, rebirth, retirement, village population scaling, cheating, and art usage rules integrated.)
 
 I’ve created a single consolidated archival document in the canvas titled “Shinobi Way – Consolidated Rules (Archival)” and merged the rules you provided into the existing Shinobi Way framework.

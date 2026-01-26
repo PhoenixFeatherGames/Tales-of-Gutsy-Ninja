@@ -3,6 +3,19 @@
 import { useEffect, useState } from "react";
 import { useRouter, useParams } from "next/navigation";
 import { db, auth } from "@/lib/firebase";
+import { collection, query, where, getDocs, onSnapshot, orderBy, doc, deleteDoc } from "firebase/firestore";
+// Character slot and clan/cross-clan limits
+const MAX_CHARACTERS = 12;
+const MAX_PER_CLAN = 2;
+const MAX_CROSS_CLAN = 3;
+  const [characters, setCharacters] = useState<any[]>([]);
+    // Fetch characters for this user
+    async function fetchCharacters(uid: string) {
+      const charsRef = collection(db, "characters");
+      const charsQ = query(charsRef, where("ownerUid", "==", user.uid));
+      const charsSnap = await getDocs(charsQ);
+      setCharacters(charsSnap.docs.map(doc => ({ id: doc.id, ...doc.data() })));
+    }
 import {
   collection,
   query,
@@ -49,6 +62,9 @@ export default function UserProfilePage() {
 
       onAuthStateChanged(auth, (u) => {
         setIsCurrentUser(!!(u && user.uid === u.uid));
+        if (u && user.uid === u.uid) {
+          fetchCharacters(user.uid);
+        }
       });
 
       const postsRef = collection(db, "posts");
@@ -76,8 +92,37 @@ export default function UserProfilePage() {
   if (loading) return <main className="p-8">Loading...</main>;
   if (!userData) return <main className="p-8">User not found.</main>;
 
+  // Count per-clan and cross-clan
+  const clanCounts: Record<string, number> = {};
+  let crossClanCount = 0;
+  characters.forEach((char) => {
+    if (Array.isArray(char.clan)) {
+      crossClanCount++;
+      char.clan.forEach((c: string) => {
+        clanCounts[c] = (clanCounts[c] || 0) + 1;
+      });
+    } else if (char.clan) {
+      clanCounts[char.clan] = (clanCounts[char.clan] || 0) + 1;
+    }
+  });
+  const remainingSlots = MAX_CHARACTERS - characters.length;
+
   return (
     <main className="p-8 max-w-2xl mx-auto">
+      {/* Character List and Slot Info */}
+      <div className="mb-6 p-4 bg-orange-50 dark:bg-orange-900 rounded-lg">
+        <h2 className="font-bold text-lg mb-2 text-orange-700">Characters</h2>
+        <div className="mb-2">You have <b>{characters.length}</b> / {MAX_CHARACTERS} characters. Remaining slots: <b>{remainingSlots}</b></div>
+        <div className="mb-2">No more than <b>{MAX_PER_CLAN}</b> per clan, and <b>{MAX_CROSS_CLAN}</b> cross-clan characters allowed.</div>
+        <ul className="space-y-2">
+          {characters.map((char) => (
+            <li key={char.id} className="border-b pb-2">
+              <span className="font-semibold">{char.name}</span> — Clan: {Array.isArray(char.clan) ? char.clan.join(" / ") : char.clan || "Unknown"}
+              {Array.isArray(char.clan) && <span className="ml-2 text-xs text-pink-600">(Cross-clan)</span>}
+            </li>
+          ))}
+        </ul>
+      </div>
       <div className="flex items-center gap-4 mb-4">
         <h1 className="text-2xl font-bold text-orange-700 dark:text-orange-400">
           {userData.username}

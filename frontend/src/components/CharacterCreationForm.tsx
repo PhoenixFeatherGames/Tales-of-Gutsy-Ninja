@@ -24,6 +24,11 @@ function calculateDerivedStats(traits: Record<string, number>, clanMods: Record<
   return { HP, DP, EP, OP, Initiative, ROP };
 }
 import React, { useState, useMemo } from 'react';
+import { useEffect } from 'react';
+import { db, auth } from '@/lib/firebase';
+import { collection, query, where, getDocs, addDoc } from 'firebase/firestore';
+import { ref, uploadBytes, getDownloadURL } from 'firebase/storage';
+import { storage } from '@/lib/firebase';
 
 // Example data, replace with dynamic fetch if needed
 const CLANS = [
@@ -68,10 +73,35 @@ const initialState = {
   items: '',
   weapons: '',
   gear: '',
+  thumbnailUrl: '',
+  backgroundUrl: '',
 };
+
+const MAX_CHARACTERS = 12;
+const MAX_PER_CLAN = 2;
+const MAX_CROSS_CLAN = 3;
 
 export default function CharacterCreationForm() {
   const [form, setForm] = useState(initialState);
+  const [user, setUser] = useState<any>(null);
+  const [characters, setCharacters] = useState<any[]>([]);
+  const [error, setError] = useState<string | null>(null);
+  const [thumbnailFile, setThumbnailFile] = useState<File | null>(null);
+  const [backgroundFile, setBackgroundFile] = useState<File | null>(null);
+
+  // Fetch user and their characters
+  useEffect(() => {
+    const unsub = auth.onAuthStateChanged(async (u) => {
+      setUser(u);
+      if (u) {
+        const charsRef = collection(db, 'characters');
+        const charsQ = query(charsRef, where('ownerUid', '==', u.uid));
+        const charsSnap = await getDocs(charsQ);
+        setCharacters(charsSnap.docs.map(doc => ({ id: doc.id, ...doc.data() })));
+      }
+    });
+    return () => unsub();
+  }, []);
 
   // TODO: Add handlers, validation, and derived stat calculations
 
@@ -79,11 +109,96 @@ export default function CharacterCreationForm() {
   const clanMods = getClanModifiers(form.clan);
   const derived = calculateDerivedStats(form.traits, clanMods);
 
+  // Count per-clan and cross-clan
+  const clanCounts: Record<string, number> = {};
+  let crossClanCount = 0;
+  characters.forEach((char) => {
+    if (Array.isArray(char.clan)) {
+      crossClanCount++;
+      char.clan.forEach((c: string) => {
+        clanCounts[c] = (clanCounts[c] || 0) + 1;
+      });
+    } else if (char.clan) {
+      clanCounts[char.clan] = (clanCounts[char.clan] || 0) + 1;
+    }
+  });
+  const remainingSlots = MAX_CHARACTERS - characters.length;
+
+  // Submission handler
+  async function handleSubmit(e: React.FormEvent) {
+    e.preventDefault();
+    setError(null);
+    if (!user) {
+      setError('You must be logged in to create a character.');
+      return;
+    }
+    if (characters.length >= MAX_CHARACTERS) {
+      setError(`You have reached the maximum of ${MAX_CHARACTERS} characters.`);
+      return;
+    }
+    // Determine if this is a cross-clan character
+    const isCrossClan = Array.isArray(form.clan) || (typeof form.clan === 'string' && form.clan.includes('/'));
+    // For select, split by /
+    const clans = isCrossClan ? (Array.isArray(form.clan) ? form.clan : form.clan.split('/').map(s => s.trim())) : [form.clan];
+    // Check per-clan limit
+    for (const c of clans) {
+      if (clanCounts[c] && clanCounts[c] >= MAX_PER_CLAN) {
+        setError(`You already have ${MAX_PER_CLAN} characters from the ${c} clan.`);
+        return;
+      }
+    }
+    // Check cross-clan limit
+    if (isCrossClan && crossClanCount >= MAX_CROSS_CLAN) {
+      setError(`You already have ${MAX_CROSS_CLAN} cross-clan characters.`);
+      return;
+    }
+    // Handle image uploads
+    let thumbnailUrl = '';
+    let backgroundUrl = '';
+    try {
+      if (thumbnailFile) {
+        const thumbRef = ref(storage, `character-thumbnails/${user.uid}_${Date.now()}_${thumbnailFile.name}`);
+        await uploadBytes(thumbRef, thumbnailFile);
+        thumbnailUrl = await getDownloadURL(thumbRef);
+      }
+      if (backgroundFile) {
+        const bgRef = ref(storage, `character-backgrounds/${user.uid}_${Date.now()}_${backgroundFile.name}`);
+        await uploadBytes(bgRef, backgroundFile);
+        backgroundUrl = await getDownloadURL(bgRef);
+      }
+      await addDoc(collection(db, 'characters'), {
+        ...form,
+        thumbnailUrl,
+        backgroundUrl,
+        ownerUid: user.uid,
+        createdAt: new Date().toISOString(),
+      });
+      setError(null);
+      alert('Character created!');
+      // Optionally, redirect or reset form
+    } catch (err) {
+      setError('Failed to create character.');
+    }
+  }
+
   return (
-    <form className="max-w-2xl mx-auto p-4 bg-white rounded shadow space-y-4">
+    <form className="max-w-2xl mx-auto p-4 bg-white rounded shadow space-y-4" onSubmit={handleSubmit}>
+      {error && <div className="bg-red-100 text-red-700 p-2 rounded mb-2">{error}</div>}
       <h1 className="text-2xl font-bold mb-4">Ninja Info Card - Character Creation</h1>
       {/* Basic Info */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {/* Thumbnail Image Upload */}
+        <div>
+          <label>Thumbnail Image</label>
+          <input type="file" accept="image/*" onChange={e => setThumbnailFile(e.target.files?.[0] || null)} />
+          {form.thumbnailUrl && <img src={form.thumbnailUrl} alt="Thumbnail" className="w-24 h-24 object-cover mt-2 rounded" />}
+        </div>
+        {/* Background Image Upload */}
+        <div>
+          <label>Background Image</label>
+          <input type="file" accept="image/*" onChange={e => setBackgroundFile(e.target.files?.[0] || null)} />
+          {form.backgroundUrl && <img src={form.backgroundUrl} alt="Background" className="w-32 h-16 object-cover mt-2 rounded" />}
+        </div>
         <div>
           <label>About</label>
           <input type="text" className="input" value={form.about} onChange={e => setForm(f => ({ ...f, about: e.target.value }))} />
