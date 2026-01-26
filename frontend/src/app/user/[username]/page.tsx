@@ -52,7 +52,6 @@ export default function UserProfilePage() {
     const charsSnap = await getDocs(charsQ);
     setCharacters(charsSnap.docs.map(doc => ({ id: doc.id, ...doc.data() })));
   }
-import { onAuthStateChanged } from "firebase/auth";
 
 export default function UserProfilePage() {
   const router = useRouter(); // ✅ THIS WAS MISSING
