@@ -51,10 +51,7 @@ export default function UserProfilePage() {
     setCharacters(charsSnap.docs.map(doc => ({ id: doc.id, ...doc.data() })));
   }
 
-export default function UserProfilePage() {
-  const router = useRouter(); // ✅ THIS WAS MISSING
-  const params = useParams();
-  const username = params.username as string;
+// Remove duplicate function definition
 
   const [posts, setPosts] = useState<any[]>([]);
   const [postsLoading, setPostsLoading] = useState(true);
