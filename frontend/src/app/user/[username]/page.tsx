@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useRouter, useParams } from "next/navigation";
-import { db, auth } from "@/lib/firebase";
+import { onAuthStateChanged } from "firebase/auth";
 // Character slot and clan/cross-clan limits
 const MAX_CHARACTERS = 12;
 const MAX_PER_CLAN = 2;
