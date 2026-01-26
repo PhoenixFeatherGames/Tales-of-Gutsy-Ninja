@@ -17,6 +17,12 @@ import {
   doc,
   deleteDoc,
 } from "firebase/firestore";
+
+export default function UserProfilePage() {
+  const router = useRouter();
+  const params = useParams();
+  const username = params.username as string;
+
   const [characters, setCharacters] = useState<any[]>([]);
 
   // Fetch characters for this user
