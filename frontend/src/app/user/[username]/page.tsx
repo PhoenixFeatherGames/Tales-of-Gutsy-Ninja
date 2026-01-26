@@ -116,6 +116,14 @@ export default function UserProfilePage() {
         <h2 className="font-bold text-lg mb-2 text-orange-700">Characters</h2>
         <div className="mb-2">You have <b>{characters.length}</b> / {MAX_CHARACTERS} characters. Remaining slots: <b>{remainingSlots}</b></div>
         <div className="mb-2">No more than <b>{MAX_PER_CLAN}</b> per clan, and <b>{MAX_CROSS_CLAN}</b> cross-clan characters allowed.</div>
+        {isCurrentUser && remainingSlots > 0 && (
+          <a
+            href="/character-creation"
+            className="inline-block mb-4 bg-orange-600 hover:bg-orange-700 text-white px-4 py-2 rounded shadow font-semibold"
+          >
+            Create Character
+          </a>
+        )}
         <ul className="space-y-2">
           {characters.map((char) => (
             <li key={char.id} className="border-b pb-2">
