@@ -36,8 +36,12 @@ export default function CharacterCreationForm() {
   const [clansData, setClansData] = useState<any[]>([]);
   const [villagesData, setVillagesData] = useState<any[]>([]);
   useEffect(() => {
-    fetch('/data/seeds/clans.json').then(res => res.json()).then(setClansData);
-    fetch('/data/seeds/villages.json').then(res => res.json()).then(setVillagesData);
+    fetch('/data/seeds/clans.json')
+      .then(res => res.ok ? res.json() : [])
+      .then(data => setClansData(Array.isArray(data) ? data : []));
+    fetch('/data/seeds/villages.json')
+      .then(res => res.ok ? res.json() : [])
+      .then(data => setVillagesData(Array.isArray(data) ? data : []));
   }, []);
 
   function getVillagesForClan(clanName: string) {
@@ -273,7 +277,7 @@ export default function CharacterCreationForm() {
             }}
           >
             <option value="">Select Clan</option>
-            {filteredClans.map((clan: string) => (
+            {clansData.length > 0 && filteredClans.map((clan: string) => (
               <option key={clan} value={clan}>{clan}</option>
             ))}
           </select>
@@ -328,7 +332,7 @@ export default function CharacterCreationForm() {
             }}
           >
             <option value="">Select Village</option>
-            {filteredVillages.map((village: string) => (
+            {villagesData.length > 0 && filteredVillages.map((village: string) => (
               <option key={village} value={village}>{village}</option>
             ))}
           </select>
@@ -340,7 +344,7 @@ export default function CharacterCreationForm() {
             value={form.chakraNatures}
             onChange={e => {
               const options = Array.from(e.target.selectedOptions).map(o => o.value);
-              setForm(f => ({ ...f, chakraNatures: options.slice(0, 2) }));
+              setForm(f => ({ ...f, chakraNatures: options.filter(Boolean).slice(0, 2) }));
             }}
             multiple
             size={ELEMENTAL_AFFINITIES.length}
