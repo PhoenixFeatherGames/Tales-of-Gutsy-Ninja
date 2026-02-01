@@ -31,19 +31,8 @@ function calculateDerivedStats(traits: Record<string, number>, clanMods: Record<
   const ROP = Math.floor((t.intelligence + t.stamina) / 2);
   return { HP, DP, EP, OP, Initiative, ROP };
 }
-// ...rest of the file unchanged (full implementation from backup follows)...
 
-  export default function CharacterCreationForm() {
-    const [clansData, setClansData] = useState<any[]>([]);
-    const [villagesData, setVillagesData] = useState<any[]>([]);
-    useEffect(() => {
-      fetch('/data/seeds/clans.json').then(res => res.json()).then(setClansData);
-      fetch('/data/seeds/villages.json').then(res => res.json()).then(setVillagesData);
-    }, []);
-    // ...rest of the file unchanged from backup...
-  } else {
-    filteredClans = [...PURE_CLANS, ...CROSS_CLANS];
-  }
+// ...existing code...
 
   let filteredVillages: string[] = villagesData.map((v: any) => v.name);
   if (form.clan) {
