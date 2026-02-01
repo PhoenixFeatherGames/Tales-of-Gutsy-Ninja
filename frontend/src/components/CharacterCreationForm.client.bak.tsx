@@ -4,6 +4,7 @@ function getClanModifiers(clan: string) {
   // Example: Kaguya gets -5 Ninjutsu, +2 Taijutsu, etc.
   // This should be replaced with a lookup from the loaded clan data
   return {};
+
 }
 
 function calculateDerivedStats(traits: Record<string, number>, clanMods: Record<string, number> = {}) {
