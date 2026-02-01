@@ -264,9 +264,13 @@ export default function CharacterCreationForm() {
             onChange={e => {
               setForm(f => ({ ...f, clan: e.target.value }));
               // Reset village if new clan doesn't support current village
-              const validVillages = e.target.value.includes('/')
-                ? getVillagesForCrossClan(...e.target.value.split('/').map((s: string) => s.trim()))
-                : getVillagesForClan(e.target.value);
+              let validVillages: string[] = [];
+              if (e.target.value.includes('/')) {
+                const parts = e.target.value.split('/').map((s: string) => s.trim());
+                validVillages = getVillagesForCrossClan(parts[0], parts[1]);
+              } else {
+                validVillages = getVillagesForClan(e.target.value);
+              }
               if (!validVillages.includes(form.village)) {
                 setForm(f => ({ ...f, village: '' }));
               }
