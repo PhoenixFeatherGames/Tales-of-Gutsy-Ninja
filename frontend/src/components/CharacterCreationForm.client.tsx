@@ -36,10 +36,10 @@ export default function CharacterCreationForm() {
   const [clansData, setClansData] = useState<any[]>([]);
   const [villagesData, setVillagesData] = useState<any[]>([]);
   useEffect(() => {
-    fetch('/data/seeds/clans.json')
+    fetch('/clans.json')
       .then(res => res.ok ? res.json() : [])
       .then(data => setClansData(Array.isArray(data) ? data : []));
-    fetch('/data/seeds/villages.json')
+    fetch('/villages.json')
       .then(res => res.ok ? res.json() : [])
       .then(data => setVillagesData(Array.isArray(data) ? data : []));
   }, []);
@@ -72,7 +72,36 @@ export default function CharacterCreationForm() {
   const TRAIT_POINTS = 30;
   const JUTSU_SKILL_POINTS = 5;
 
-  const initialState = {
+  const initialState: {
+    about: string;
+    clan: string;
+    village: string;
+    gender: string;
+    birthday: string;
+    age: string;
+    height: string;
+    chakraNatures: string[];
+    personality: string;
+    likes: string;
+    dislikes: string;
+    history: string;
+    nindo: string;
+    traits: Record<string, number>;
+    jutsuSkill: Record<string, number>;
+    shinobiTitle: string;
+    shinobiRank: string;
+    experience: number;
+    chakraControl: number;
+    missions: { D: number; C: number; B: number; A: number; S: number };
+    confirmedKills: number;
+    equipment: string;
+    ryo: number;
+    items: string;
+    weapons: string;
+    gear: string;
+    thumbnailUrl: string;
+    backgroundUrl: string;
+  } = {
     about: '',
     clan: '',
     village: '',
@@ -80,7 +109,7 @@ export default function CharacterCreationForm() {
     birthday: '',
     age: '',
     height: '',
-    chakraNatures: [''],
+    chakraNatures: [],
     personality: '',
     likes: '',
     dislikes: '',
@@ -107,7 +136,7 @@ export default function CharacterCreationForm() {
   const MAX_PER_CLAN = 2;
   const MAX_CROSS_CLAN = 3;
 
-  const [form, setForm] = useState(initialState);
+  const [form, setForm] = useState<typeof initialState>(initialState);
   const [user, setUser] = useState<any>(null);
   const [characters, setCharacters] = useState<any[]>([]);
   const [error, setError] = useState<string | null>(null);
