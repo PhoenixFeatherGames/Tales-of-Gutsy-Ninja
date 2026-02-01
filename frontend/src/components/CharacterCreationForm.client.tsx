@@ -449,6 +449,8 @@ export default function CharacterCreationForm() {
         <div className="text-xs text-gray-500 mt-1">Points remaining: {JUTSU_SKILL_POINTS - JUTSU_SKILL_NAMES.reduce((sum, t) => sum + form.jutsuSkill[t], 0)}</div>
       </div>
       <button type="submit" className="btn btn-primary">Create Character</button>
+
     </form>
   );
+}
 
