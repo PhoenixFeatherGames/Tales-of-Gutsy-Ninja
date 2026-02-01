@@ -6,7 +6,6 @@ function getClanModifiers(clan: string) {
   return {};
 
 }
-
 function calculateDerivedStats(traits: Record<string, number>, clanMods: Record<string, number> = {}) {
   // Apply clanMods to traits if needed
   const t = { ...traits, ...clanMods };
