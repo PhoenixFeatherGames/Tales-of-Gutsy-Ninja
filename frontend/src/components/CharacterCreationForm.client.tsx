@@ -101,6 +101,7 @@ export default function CharacterCreationForm() {
     gear: string;
     thumbnailUrl: string;
     backgroundUrl: string;
+    crossClan: boolean;
   } = {
     about: '',
     clan: '',
@@ -130,6 +131,7 @@ export default function CharacterCreationForm() {
     gear: '',
     thumbnailUrl: '',
     backgroundUrl: '',
+    crossClan: false,
   };
 
   const MAX_CHARACTERS = 12;
@@ -294,20 +296,21 @@ export default function CharacterCreationForm() {
               setForm(f => ({ ...f, clan: e.target.value }));
               // Reset village if new clan doesn't support current village
               let validVillages: string[] = [];
-              if (e.target.value.includes('/')) {
-                const parts = e.target.value.split('/').map((s: string) => s.trim());
-                validVillages = getVillagesForCrossClan(parts[0], parts[1]);
-              } else {
-                validVillages = getVillagesForClan(e.target.value);
+              if (e.target.value === '__cross__') {
+                setForm(f => ({ ...f, clan: '', crossClan: true }));
+                return;
               }
+              validVillages = getVillagesForClan(e.target.value);
               if (!validVillages.includes(form.village)) {
                 setForm(f => ({ ...f, village: '' }));
               }
+              setForm(f => ({ ...f, crossClan: false }));
             }}
           >
             <option value="">Select Clan</option>
+            <option value="__cross__">Cross Clan</option>
             {clansData.length === 0 && <option disabled>Loading clans...</option>}
-            {clansData.length > 0 && clansData.map((c: any) => {
+            {clansData.length > 0 && clansData.filter((c: any) => !c.name.includes('/')).map((c: any) => {
               // If a village is selected, only enable clans valid for that village
               let disabled = false;
               if (form.village) {
@@ -318,7 +321,7 @@ export default function CharacterCreationForm() {
             })}
           </select>
         </div>
-        {isCrossClan && (
+        {form.crossClan && (
           <div>
             <label>Choose Cross Clan Components</label>
             <div className="flex gap-2">
@@ -331,8 +334,8 @@ export default function CharacterCreationForm() {
                 }}
               >
                 <option value="">Select Clan A</option>
-                {PURE_CLANS.map((clan: string) => (
-                  <option key={clan} value={clan}>{clan}</option>
+                {clansData.filter((c: any) => !c.name.includes('/')).map((c: any) => (
+                  <option key={c.name} value={c.name}>{c.name}</option>
                 ))}
               </select>
               <span>/</span>
@@ -345,8 +348,8 @@ export default function CharacterCreationForm() {
                 }}
               >
                 <option value="">Select Clan B</option>
-                {PURE_CLANS.filter((clan: string) => clan !== crossClanA).map((clan: string) => (
-                  <option key={clan} value={clan}>{clan}</option>
+                {clansData.filter((c: any) => !c.name.includes('/') && c.name !== crossClanA).map((c: any) => (
+                  <option key={c.name} value={c.name}>{c.name}</option>
                 ))}
               </select>
             </div>
@@ -369,30 +372,14 @@ export default function CharacterCreationForm() {
           >
             <option value="">Select Village</option>
             {villagesData.length === 0 && <option disabled>Loading villages...</option>}
-            {villagesData.length > 0 && villagesData.map((v: any) => {
-              // If a clan is selected, only enable villages valid for that clan
-              let disabled = false;
-              if (form.clan) {
-                const validVillages = getVillagesForClan(form.clan);
-                disabled = !validVillages.includes(v.name) && !validVillages.includes(v.slug);
-              }
-              return <option key={v.name} value={v.name} disabled={disabled}>{v.name}</option>;
-            })}
+            {villagesData.length > 0 && villagesData.map((v: any) => (
+              <option key={v.name} value={v.name}>{v.name}</option>
+            ))}
           </select>
         </div>
         <div>
           <label>Elemental Affinities (max 2)</label>
-          <select
-            className="input"
-            value={form.chakraNatures}
-            onChange={e => {
-              const options = Array.from(e.target.selectedOptions).map(o => o.value);
-              // Only allow up to 2 selections, but allow 1 or 2
-              setForm(f => ({ ...f, chakraNatures: options.filter(Boolean).slice(0, 2) }));
-            }}
-            multiple
-            size={ELEMENTAL_AFFINITIES.length}
-          >
+          <div className="flex flex-wrap gap-2">
             {ELEMENTAL_AFFINITIES.map(aff => {
               let disabled = false;
               if (form.clan && form.village) {
@@ -404,10 +391,27 @@ export default function CharacterCreationForm() {
                   disabled = !clanAffs.includes(aff) && !villageAffs.includes(aff);
                 }
               }
-              return <option key={aff} value={aff} disabled={disabled}>{aff}</option>;
+              return (
+                <label key={aff} className={"flex items-center gap-1" + (disabled ? " opacity-50" : "") }>
+                  <input
+                    type="checkbox"
+                    value={aff}
+                    checked={form.chakraNatures.includes(aff)}
+                    disabled={disabled || (form.chakraNatures.length === 2 && !form.chakraNatures.includes(aff))}
+                    onChange={e => {
+                      if (e.target.checked) {
+                        if (form.chakraNatures.length < 2) setForm(f => ({ ...f, chakraNatures: [...f.chakraNatures, aff] }));
+                      } else {
+                        setForm(f => ({ ...f, chakraNatures: f.chakraNatures.filter(a => a !== aff) }));
+                      }
+                    }}
+                  />
+                  {aff}
+                </label>
+              );
             })}
-          </select>
-          <div className="text-xs text-gray-500">Hold Ctrl (Windows) or Cmd (Mac) to select up to 2.</div>
+          </div>
+          <div className="text-xs text-gray-500">Select up to 2 elements.</div>
           {/* Affinity bonus info */}
           <div className="text-xs mt-1">
             {form.chakraNatures.filter(Boolean).map((aff: string) => {
