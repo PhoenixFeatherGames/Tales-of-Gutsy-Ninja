@@ -283,7 +283,7 @@ export default function CharacterCreationForm() {
               let disabled = false;
               if (form.village) {
                 const validClans = getClansForVillage(form.village);
-                disabled = !validClans.includes(c.name);
+                disabled = !validClans.includes(c.name) && !validClans.includes(c.slug);
               }
               return <option key={c.name} value={c.name} disabled={disabled}>{c.name}</option>;
             })}
@@ -345,7 +345,7 @@ export default function CharacterCreationForm() {
               let disabled = false;
               if (form.clan) {
                 const validVillages = getVillagesForClan(form.clan);
-                disabled = !validVillages.includes(v.name);
+                disabled = !validVillages.includes(v.name) && !validVillages.includes(v.slug);
               }
               return <option key={v.name} value={v.name} disabled={disabled}>{v.name}</option>;
             })}
@@ -358,6 +358,7 @@ export default function CharacterCreationForm() {
             value={form.chakraNatures}
             onChange={e => {
               const options = Array.from(e.target.selectedOptions).map(o => o.value);
+              // Only allow up to 2 selections, but allow 1 or 2
               setForm(f => ({ ...f, chakraNatures: options.filter(Boolean).slice(0, 2) }));
             }}
             multiple
@@ -380,16 +381,16 @@ export default function CharacterCreationForm() {
           <div className="text-xs text-gray-500">Hold Ctrl (Windows) or Cmd (Mac) to select up to 2.</div>
           {/* Affinity bonus info */}
           <div className="text-xs mt-1">
-            {form.chakraNatures.map((aff: string) => {
-              if (!aff) return null;
+            {form.chakraNatures.filter(Boolean).map((aff: string) => {
               let bonus = [];
               const clanObj = clansData.find((c: any) => c.name === form.clan);
               const villageObj = villagesData.find((v: any) => v.name === form.village);
-              if (clanObj && clanObj.chakraNatures && clanObj.chakraNatures.includes(aff)) bonus.push('Clan bonus');
-              if (villageObj && villageObj.natureAffinity && villageObj.natureAffinity.includes(aff)) bonus.push('Village bonus');
+              if (clanObj && clanObj.chakraNatures && (clanObj.chakraNatures.includes(aff) || clanObj.chakraNatures.includes(aff[0]))) bonus.push('Clan +5%');
+              if (villageObj && villageObj.natureAffinity && villageObj.natureAffinity.includes(aff)) bonus.push('Village +5%');
               if (form.clan === 'Sarutobi' && aff === 'Fire') bonus.push('Sarutobi Fire bonus');
               return <div key={aff}>{aff}: {bonus.length ? bonus.join(', ') : 'No bonus'}</div>;
             })}
+            {form.chakraNatures.filter(Boolean).length === 1 && <div>Single Nature: +5% effectiveness</div>}
           </div>
         </div>
         <div>
@@ -403,13 +404,13 @@ export default function CharacterCreationForm() {
         </div>
         <div>
           <label>Birthday</label>
-          <input type="text" className="input" value={form.birthday} onChange={e => setForm(f => ({ ...f, birthday: e.target.value }))} placeholder="2nd of November, Year 979" />
+          <input type="text" className="input" value={form.birthday} onChange={e => setForm(f => ({ ...f, birthday: e.target.value }))} placeholder="ex: 2nd of November, Year 979" />
           {/* Birthday preview */}
           <div className="text-xs mt-1 text-gray-500">Preview: {form.birthday}</div>
         </div>
         <div>
           <label>Age</label>
-          <input type="number" className="input" value={form.age} onChange={e => setForm(f => ({ ...f, age: e.target.value }))} />
+          <input type="number" className="input" value={form.age} onChange={e => setForm(f => ({ ...f, age: e.target.value }))} placeholder="ex: 17" />
         </div>
         <div>
           <label>Height</label>
