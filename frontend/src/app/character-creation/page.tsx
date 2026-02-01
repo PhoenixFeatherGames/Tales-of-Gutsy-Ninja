@@ -1,3 +1,5 @@
+
+"use client";
 import CharacterCreationForm from '../../components/CharacterCreationForm';
 
 export default function CharacterCreationPage() {
