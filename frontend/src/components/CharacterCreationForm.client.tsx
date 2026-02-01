@@ -45,14 +45,14 @@ export default function CharacterCreationForm() {
   }, []);
 
   function getVillagesForClan(clanName: string) {
-    const clan = clansData.find((c: any) => c.name === clanName);
+    const clan = clansData.find((c: any) => c.slug === clanName);
     if (!clan) return [];
-    if (Array.isArray(clan.village)) return clan.village;
-    if (typeof clan.village === 'string') return [clan.village];
+    if (Array.isArray(clan.villages)) return clan.villages;
+    if (typeof clan.villages === 'string') return [clan.villages];
     return [];
   }
   function getClansForVillage(villageName: string) {
-    const village = villagesData.find((v: any) => v.name === villageName);
+    const village = villagesData.find((v: any) => v.slug === villageName);
     if (!village) return [];
     return village.clans || [];
   }
@@ -315,9 +315,9 @@ export default function CharacterCreationForm() {
               let disabled = false;
               if (form.village) {
                 const validClans = getClansForVillage(form.village);
-                disabled = !validClans.includes(c.name) && !validClans.includes(c.slug);
+                disabled = !validClans.includes(c.slug);
               }
-              return <option key={c.name} value={c.name} disabled={disabled}>{c.name}</option>;
+              return <option key={c.slug} value={c.slug} disabled={disabled}>{c.name}</option>;
             })}
           </select>
         </div>
@@ -335,7 +335,7 @@ export default function CharacterCreationForm() {
               >
                 <option value="">Select Clan A</option>
                 {clansData.filter((c: any) => !c.name.includes('/')).map((c: any) => (
-                  <option key={c.name} value={c.name}>{c.name}</option>
+                  <option key={c.slug} value={c.slug}>{c.name}</option>
                 ))}
               </select>
               <span>/</span>
@@ -348,8 +348,8 @@ export default function CharacterCreationForm() {
                 }}
               >
                 <option value="">Select Clan B</option>
-                {clansData.filter((c: any) => !c.name.includes('/') && c.name !== crossClanA).map((c: any) => (
-                  <option key={c.name} value={c.name}>{c.name}</option>
+                {clansData.filter((c: any) => !c.name.includes('/') && c.slug !== crossClanA).map((c: any) => (
+                  <option key={c.slug} value={c.slug}>{c.name}</option>
                 ))}
               </select>
             </div>
@@ -373,7 +373,7 @@ export default function CharacterCreationForm() {
             <option value="">Select Village</option>
             {villagesData.length === 0 && <option disabled>Loading villages...</option>}
             {villagesData.length > 0 && villagesData.map((v: any) => (
-              <option key={v.name} value={v.name}>{v.name}</option>
+              <option key={v.slug} value={v.slug}>{v.displayName || v.name}</option>
             ))}
           </select>
         </div>
