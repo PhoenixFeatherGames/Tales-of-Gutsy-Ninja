@@ -31,14 +31,19 @@ import { ref, uploadBytes, getDownloadURL } from 'firebase/storage';
 import { storage } from '@/lib/firebase';
 
 // Load clans and villages from JSON
-// Dynamic data loading
+
+// Dynamic data loading must be inside the component
 import { useRef } from 'react';
-const [clansData, setClansData] = useState<any[]>([]);
-const [villagesData, setVillagesData] = useState<any[]>([]);
-useEffect(() => {
-  fetch('/data/seeds/clans.json').then(res => res.json()).then(setClansData);
-  fetch('/data/seeds/villages.json').then(res => res.json()).then(setVillagesData);
-}, []);
+
+export default function CharacterCreationForm() {
+  // ...existing state declarations...
+  const [clansData, setClansData] = useState<any[]>([]);
+  const [villagesData, setVillagesData] = useState<any[]>([]);
+  useEffect(() => {
+    fetch('/data/seeds/clans.json').then(res => res.json()).then(setClansData);
+    fetch('/data/seeds/villages.json').then(res => res.json()).then(setVillagesData);
+  }, []);
+  // ...rest of the component...
 
 function getVillagesForClan(clanName: string) {
   const clan = clansData.find((c: any) => c.name === clanName);
