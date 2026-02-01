@@ -5,3 +5,12 @@
 	{"slug": "the-hidden-stone-village", "name": "The Hidden Stone Village", "description": "", "leader": "", "retainer": "", "population": "1000", "treasury": "両10,000,000", "clans": ["Yamanaka", "Nara", "Akimichi"], "natureAffinity": ["Earth", "Fire", "Lightning"], "jutsuAffinity": {"Ninjutsu": 3, "Genjutsu": 2, "Taijutsu": 3, "Bukijutsu": 1, "Kenjutsu": 2, "Fuinjutsu": 2, "Iryojutsu": 2}, "rawFile": "hidden-stone-village.txt"},
 	{"slug": "the-iron-summit", "name": "The Iron Summit", "description": "", "leader": "", "retainer": "", "population": "1500", "treasury": "両10,000,000", "clans": ["Samurai", "Monk", "Blacksmith"], "natureAffinity": ["Yin", "Yang"], "jutsuAffinity": {"Ninjutsu": 2, "Genjutsu": 1, "Taijutsu": 4, "Bukijutsu": 2, "Kenjutsu": 3, "Fuinjutsu": 1, "Iryojutsu": 2}, "rawFile": "iron-summit.txt"}
 ]
+	{"slug": "sunagakure", "name": "Sunagakure", "displayName": "Hidden Sand Village", "clans": ["Aburame", "Chikamatsu", "Suna"]},
+	{"slug": "kumogakure", "name": "Kumogakure", "displayName": "Hidden Lightning Village", "clans": ["Wasabi", "Hyūga", "Inuzuka"]},
+	{"slug": "iwagakure", "name": "Iwagakure", "displayName": "Hidden Stone Village", "clans": ["Yamanaka", "Nara", "Akimichi"]},
+	{"slug": "kirigakure", "name": "Kirigakure", "displayName": "Hidden Mist Village", "clans": ["Hoshigaki", "Hōzuki", "Kaguya"]},
+	{"slug": "konohagakure", "name": "Konohagakure", "displayName": "Hidden Leaf Village", "clans": ["Senju", "Uchiha", "Sarutobi"]},
+	{"slug": "iron-summit", "name": "Iron Summit", "displayName": "Land of Iron", "clans": ["Samurai", "Monk", "Blacksmith"]},
+	{"slug": "uzushiogakure", "name": "Uzushiogakure", "displayName": "Hidden Whirlpool Village", "clans": ["Uzumaki", "Gomu Gomu Clan"]},
+	{"slug": "yukigakure", "name": "Yukigakure", "displayName": "Hidden Snow Village", "clans": ["Ōkami", "Yuki"]},
+	{"slug": "yugakure", "name": "Yugakure", "displayName": "Hot Water Village", "clans": ["Chinoike"]}
