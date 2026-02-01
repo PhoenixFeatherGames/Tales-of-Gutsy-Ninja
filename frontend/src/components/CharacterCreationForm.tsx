@@ -1,4 +1,5 @@
 "use client";
+"use client";
 // Utility to get clan modifiers (stub for now, can be expanded)
 function getClanModifiers(clan: string) {
   // Example: Kaguya gets -5 Ninjutsu, +2 Taijutsu, etc.
