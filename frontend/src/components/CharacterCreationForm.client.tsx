@@ -278,9 +278,15 @@ export default function CharacterCreationForm() {
           >
             <option value="">Select Clan</option>
             {clansData.length === 0 && <option disabled>Loading clans...</option>}
-            {clansData.length > 0 && clansData.map((c: any) => (
-              <option key={c.name} value={c.name}>{c.name}</option>
-            ))}
+            {clansData.length > 0 && clansData.map((c: any) => {
+              // If a village is selected, only enable clans valid for that village
+              let disabled = false;
+              if (form.village) {
+                const validClans = getClansForVillage(form.village);
+                disabled = !validClans.includes(c.name);
+              }
+              return <option key={c.name} value={c.name} disabled={disabled}>{c.name}</option>;
+            })}
           </select>
         </div>
         {isCrossClan && (
@@ -334,9 +340,15 @@ export default function CharacterCreationForm() {
           >
             <option value="">Select Village</option>
             {villagesData.length === 0 && <option disabled>Loading villages...</option>}
-            {villagesData.length > 0 && villagesData.map((v: any) => (
-              <option key={v.name} value={v.name}>{v.name}</option>
-            ))}
+            {villagesData.length > 0 && villagesData.map((v: any) => {
+              // If a clan is selected, only enable villages valid for that clan
+              let disabled = false;
+              if (form.clan) {
+                const validVillages = getVillagesForClan(form.clan);
+                disabled = !validVillages.includes(v.name);
+              }
+              return <option key={v.name} value={v.name} disabled={disabled}>{v.name}</option>;
+            })}
           </select>
         </div>
         <div>
@@ -351,11 +363,34 @@ export default function CharacterCreationForm() {
             multiple
             size={ELEMENTAL_AFFINITIES.length}
           >
-            {ELEMENTAL_AFFINITIES.map(aff => (
-              <option key={aff} value={aff}>{aff}</option>
-            ))}
+            {ELEMENTAL_AFFINITIES.map(aff => {
+              let disabled = false;
+              if (form.clan && form.village) {
+                const clanObj = clansData.find((c: any) => c.name === form.clan);
+                const villageObj = villagesData.find((v: any) => v.name === form.village);
+                const clanAffs = (clanObj && clanObj.chakraNatures) ? clanObj.chakraNatures : [];
+                const villageAffs = (villageObj && villageObj.natureAffinity) ? villageObj.natureAffinity : [];
+                if (!form.chakraNatures.includes(aff)) {
+                  disabled = !clanAffs.includes(aff) && !villageAffs.includes(aff);
+                }
+              }
+              return <option key={aff} value={aff} disabled={disabled}>{aff}</option>;
+            })}
           </select>
           <div className="text-xs text-gray-500">Hold Ctrl (Windows) or Cmd (Mac) to select up to 2.</div>
+          {/* Affinity bonus info */}
+          <div className="text-xs mt-1">
+            {form.chakraNatures.map((aff: string) => {
+              if (!aff) return null;
+              let bonus = [];
+              const clanObj = clansData.find((c: any) => c.name === form.clan);
+              const villageObj = villagesData.find((v: any) => v.name === form.village);
+              if (clanObj && clanObj.chakraNatures && clanObj.chakraNatures.includes(aff)) bonus.push('Clan bonus');
+              if (villageObj && villageObj.natureAffinity && villageObj.natureAffinity.includes(aff)) bonus.push('Village bonus');
+              if (form.clan === 'Sarutobi' && aff === 'Fire') bonus.push('Sarutobi Fire bonus');
+              return <div key={aff}>{aff}: {bonus.length ? bonus.join(', ') : 'No bonus'}</div>;
+            })}
+          </div>
         </div>
         <div>
           <label>Gender</label>
@@ -368,7 +403,9 @@ export default function CharacterCreationForm() {
         </div>
         <div>
           <label>Birthday</label>
-          <input type="text" className="input" value={form.birthday} onChange={e => setForm(f => ({ ...f, birthday: e.target.value }))} placeholder="MM/DD/YYYY" />
+          <input type="text" className="input" value={form.birthday} onChange={e => setForm(f => ({ ...f, birthday: e.target.value }))} placeholder="2nd of November, Year 979" />
+          {/* Birthday preview */}
+          <div className="text-xs mt-1 text-gray-500">Preview: {form.birthday}</div>
         </div>
         <div>
           <label>Age</label>
