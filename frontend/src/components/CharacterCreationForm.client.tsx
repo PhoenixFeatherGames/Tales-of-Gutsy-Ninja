@@ -277,8 +277,9 @@ export default function CharacterCreationForm() {
             }}
           >
             <option value="">Select Clan</option>
-            {clansData.length > 0 && filteredClans.map((clan: string) => (
-              <option key={clan} value={clan}>{clan}</option>
+            {clansData.length === 0 && <option disabled>Loading clans...</option>}
+            {clansData.length > 0 && clansData.map((c: any) => (
+              <option key={c.name} value={c.name}>{c.name}</option>
             ))}
           </select>
         </div>
@@ -332,8 +333,9 @@ export default function CharacterCreationForm() {
             }}
           >
             <option value="">Select Village</option>
-            {villagesData.length > 0 && filteredVillages.map((village: string) => (
-              <option key={village} value={village}>{village}</option>
+            {villagesData.length === 0 && <option disabled>Loading villages...</option>}
+            {villagesData.length > 0 && villagesData.map((v: any) => (
+              <option key={v.name} value={v.name}>{v.name}</option>
             ))}
           </select>
         </div>
