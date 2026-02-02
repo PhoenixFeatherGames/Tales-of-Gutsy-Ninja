@@ -260,33 +260,62 @@ export default function CharacterCreationForm() {
           <label>About</label>
           <input type="text" className="input" value={form.about} onChange={e => setForm(f => ({ ...f, about: e.target.value }))} />
         </div>
+        {/* Village selection first */}
         <div>
-          <label>Clan</label>
+          <label>Village</label>
           <select
             className="input"
-            value={form.clan}
+            value={form.village}
             onChange={e => {
-              setForm(f => ({ ...f, clan: e.target.value }));
-              // Reset village if new clan doesn't support current village
-              let validVillages: string[] = [];
-              if (e.target.value.includes('/')) {
-                const parts = e.target.value.split('/').map((s: string) => s.trim());
-                validVillages = getVillagesForCrossClan(parts[0], parts[1]);
-              } else {
-                validVillages = getVillagesForClan(e.target.value);
-              }
-              if (!validVillages.includes(form.village)) {
-                setForm(f => ({ ...f, village: '' }));
+              setForm(f => ({ ...f, village: e.target.value }));
+              // Reset clan if new village doesn't support current clan
+              const validClans = getClansForVillage(e.target.value);
+              if (!validClans.includes(form.clan)) {
+                setForm(f => ({ ...f, clan: '' }));
               }
             }}
           >
-            <option value="">Select Clan</option>
-            {filteredClans.map((clan: string) => (
-              <option key={clan} value={clan}>{clan}</option>
+            <option value="">Select Village</option>
+            {filteredVillages.map((village: string) => (
+              <option key={village} value={village}>{village}</option>
             ))}
           </select>
         </div>
-        {isCrossClan && (
+        {/* Clan selection only after village is chosen */}
+        {form.village && (
+          <div>
+            <label>Clan</label>
+            <select
+              className="input"
+              value={form.clan}
+              onChange={e => {
+                setForm(f => ({ ...f, clan: e.target.value }));
+                // Reset cross clan UI if not a cross clan
+                if (!e.target.value.includes('/')) {
+                  setCrossClanA('');
+                  setCrossClanB('');
+                }
+              }}
+            >
+              <option value="">Select Clan</option>
+              {/* Only show clans for selected village, plus No-Clan and valid cross-clans */}
+              {getClansForVillage(form.village).map((clan: string) => (
+                <option key={clan} value={clan}>{clan}</option>
+              ))}
+              <option key="no-clan" value="No-Clan">No-Clan</option>
+              {/* Show cross-clans that are valid for this village */}
+              {CROSS_CLANS.filter((crossName: string) => {
+                const [a, b] = crossName.split('/').map((s: string) => s.trim());
+                const villageClans = getClansForVillage(form.village);
+                return villageClans.includes(a) && villageClans.includes(b);
+              }).map((crossName: string) => (
+                <option key={crossName} value={crossName}>{crossName}</option>
+              ))}
+            </select>
+          </div>
+        )}
+        {/* Cross clan UI only if cross clan is selected */}
+        {form.clan && form.clan.includes('/') && (
           <div>
             <label>Choose Cross Clan Components</label>
             <div className="flex gap-2">
@@ -321,26 +350,6 @@ export default function CharacterCreationForm() {
             <div className="text-xs text-gray-500">Choose two clans to form a cross clan.</div>
           </div>
         )}
-        <div>
-          <label>Village</label>
-          <select
-            className="input"
-            value={form.village}
-            onChange={e => {
-              setForm(f => ({ ...f, village: e.target.value }));
-              // Reset clan if new village doesn't support current clan
-              const validClans = getClansForVillage(e.target.value);
-              if (!validClans.includes(form.clan)) {
-                setForm(f => ({ ...f, clan: '' }));
-              }
-            }}
-          >
-            <option value="">Select Village</option>
-            {filteredVillages.map((village: string) => (
-              <option key={village} value={village}>{village}</option>
-            ))}
-          </select>
-        </div>
         <div>
           <label>Elemental Affinities (max 2)</label>
           <select
