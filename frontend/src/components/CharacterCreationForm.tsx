@@ -254,6 +254,7 @@ export default function CharacterCreationForm() {
 
   return (
     <form className="max-w-2xl mx-auto p-4 bg-white rounded shadow space-y-4" onSubmit={handleSubmit}>
+      <div style={{background: '#ff0', color: '#000', padding: '8px', fontWeight: 'bold', marginBottom: '8px'}}>DEBUG: This is the latest CharacterCreationForm.tsx code (Feb 2026)</div>
       {error && <div className="bg-red-100 text-red-700 p-2 rounded mb-2">{error}</div>}
       <h1 className="text-2xl font-bold mb-4">Ninja Info Card - Character Creation</h1>
       {/* Basic Info */}
