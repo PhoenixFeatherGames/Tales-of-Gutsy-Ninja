@@ -39,8 +39,8 @@ import { useRef } from 'react';
   const [clansData, setClansData] = useState<any[]>([]);
   const [villagesData, setVillagesData] = useState<any[]>([]);
   useEffect(() => {
-    fetch('/data/seeds/clans.json').then(res => res.json()).then(setClansData);
-    fetch('/data/seeds/villages.json').then(res => res.json()).then(setVillagesData);
+    fetch('/clans.json').then(res => res.json()).then(setClansData);
+    fetch('/villages.json').then(res => res.json()).then(setVillagesData);
   }, []);
   // ...rest of the component...
 
