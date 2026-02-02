@@ -39,8 +39,21 @@ import { useRef } from 'react';
   const [clansData, setClansData] = useState<any[]>([]);
   const [villagesData, setVillagesData] = useState<any[]>([]);
   useEffect(() => {
-    fetch('/clans.json').then(res => res.json()).then(setClansData);
-    fetch('/villages.json').then(res => res.json()).then(setVillagesData);
+    // Helper to parse only the first valid array from a possibly broken JSON file
+    function parseFirstArray(text: string) {
+      const firstArrStart = text.indexOf('[');
+      const firstArrEnd = text.indexOf(']', firstArrStart);
+      if (firstArrStart !== -1 && firstArrEnd !== -1) {
+        try {
+          return JSON.parse(text.slice(firstArrStart, firstArrEnd + 1));
+        } catch {
+          return [];
+        }
+      }
+      return [];
+    }
+    fetch('/clans.json').then(res => res.text()).then(text => setClansData(parseFirstArray(text)));
+    fetch('/villages.json').then(res => res.text()).then(text => setVillagesData(parseFirstArray(text)));
   }, []);
   // ...rest of the component...
 
@@ -51,11 +64,12 @@ function getVillagesForClan(clanName: string) {
   if (typeof clan.village === 'string') return [clan.village];
   return [];
 }
-function getClansForVillage(villageName: string) {
-  const village = villagesData.find((v: any) => v.name === villageName);
-  if (!village) return [];
-  return village.clans || [];
-}
+  function getClansForVillage(villageName: string) {
+    // Find by name or displayName
+    const village = villagesData.find((v: any) => v.name === villageName || v.displayName === villageName);
+    if (!village) return [];
+    return village.clans || [];
+  }
 function getVillagesForCrossClan(clanA: string, clanB: string) {
   const villagesA = getVillagesForClan(clanA);
   const villagesB = getVillagesForClan(clanB);
@@ -122,18 +136,18 @@ export default function CharacterCreationForm() {
   const isCrossClan = form.clan && form.clan.includes('/');
 
   // Filter clans based on selected village
-  let filteredClans: string[] = PURE_CLANS;
+  // Only show clans after village is picked
+  let filteredClans: string[] = [];
   if (form.village) {
     const clansInVillage = getClansForVillage(form.village);
     filteredClans = [
       ...clansInVillage,
+      'No-Clan',
       ...CROSS_CLANS.filter((crossName: string) => {
         const [a, b] = crossName.split('/').map((s: string) => s.trim());
         return clansInVillage.includes(a) && clansInVillage.includes(b);
       })
     ];
-  } else {
-    filteredClans = [...PURE_CLANS, ...CROSS_CLANS];
   }
 
   let filteredVillages: string[] = villagesData.map((v: any) => v.name);
@@ -298,18 +312,8 @@ export default function CharacterCreationForm() {
               }}
             >
               <option value="">Select Clan</option>
-              {/* Only show clans for selected village, plus No-Clan and valid cross-clans */}
-              {getClansForVillage(form.village).map((clan: string) => (
+              {filteredClans.map((clan: string) => (
                 <option key={clan} value={clan}>{clan}</option>
-              ))}
-              <option key="no-clan" value="No-Clan">No-Clan</option>
-              {/* Show cross-clans that are valid for this village */}
-              {CROSS_CLANS.filter((crossName: string) => {
-                const [a, b] = crossName.split('/').map((s: string) => s.trim());
-                const villageClans = getClansForVillage(form.village);
-                return villageClans.includes(a) && villageClans.includes(b);
-              }).map((crossName: string) => (
-                <option key={crossName} value={crossName}>{crossName}</option>
               ))}
             </select>
           </div>
