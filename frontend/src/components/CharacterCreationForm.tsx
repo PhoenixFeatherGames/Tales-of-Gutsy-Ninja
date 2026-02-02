@@ -274,7 +274,7 @@ export default function CharacterCreationForm() {
           <label>About</label>
           <input type="text" className="input" value={form.about} onChange={e => setForm(f => ({ ...f, about: e.target.value }))} />
         </div>
-        {/* Village selection first */}
+        {/* Village selection first, clan dropdown only appears after village is picked */}
         <div>
           <label>Village</label>
           <select
@@ -295,7 +295,8 @@ export default function CharacterCreationForm() {
             ))}
           </select>
         </div>
-        {/* Clan selection only after village is chosen */}
+
+        {/* Only show clan dropdown after a village is picked */}
         {form.village && (
           <div>
             <label>Clan</label>
