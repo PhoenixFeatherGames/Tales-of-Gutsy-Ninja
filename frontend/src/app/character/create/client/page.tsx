@@ -1,3 +1,4 @@
+"use client";
 import CharacterCreationForm from '@/components/CharacterCreationForm';
 import { useEffect } from 'react';
 
@@ -9,3 +10,6 @@ export default function CharacterCreatePage() {
     </main>
   );
 }
+
+export const dynamic = "force-dynamic";
+export const prerender = false;
