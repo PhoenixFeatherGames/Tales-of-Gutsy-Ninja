@@ -1,0 +1,35 @@
+[|] Search and Rescue: Lost Pet [|]
+[Bcu][|] Search and Rescue: Lost Pet [|]
+
+[Bc]Rank:
+[c]D
+[Bc]Village:
+[c]Konoha 
+[Bc]Client:
+[C]Konaha Resident 
+[Bc]Mission:
+[C]A resident of Konoha has lost their dear pet and have waited and searched on their own to no avail, deciding to scrape up what they could to submit this mission. Find their pet and write a detailed report describing the creature and location of retrieval and await confirmation.
+
+[|] Trash Day [|]
+[Bcu][|] Trash Day [|]
+
+[Bc]Rank:
+[c]D-Rank
+[Bc]Village:
+[c]Konoha
+[Bc]Client:
+[C]Village Council 
+[Bc]Mission:
+[C]The LWM, Leaf Waste Management,  is in charge of collecting and disposing of the garbage bins around the village on a weekly basis, however,  one of the down sides to having such a large and thriving community is the inevitably, improperly,  disposed of waste, that is to say, litter. Excessive litter around our village not only makes us look bad to any visitors of our home, but lowers the property values of the homes here and encourages more inconsiderate treatment of our home. Your mission is to help our LWM department by going around the village and properly disposing of any litter in their correctly sorted waste receptacles, making sure our streets are spotless before LWM empty the bins.
+
+[|] USPS I [|]
+[Bcu][|] United Shinobi Postal Service [|]
+
+[Bc]Rank:
+[c]D-Rank
+[Bc]Village 
+[c]Konoha
+[Bc]Client:
+[C]Village Council 
+[Bc]Mission:
+[C]The Daimyo's recenty appointed post master general  nominee, Ruisu No-Joy, has made some sudden and drastic changes to the non partisan 'United Shinobi Postal Service'. Such changes include butvare not limited to the removal of hundreds of public mail boxes and mail sorting seals, as well as complete removal of any possible overtime work. This all has lead to even important mail and medications being delivered days or even weeks late. We have shinobi from our own village assisting in collecting and transporting USPS mail throughout the Land of Fire, and we need your help to deliver this collected mail accross Konoha post haste, sans any interruption.

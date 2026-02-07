@@ -1,0 +1,379 @@
+[|] Sharingan [|]
+[Bcu][|] Mirror Wheel Eye [|] 
+
+[Bc]Rank:
+[c]C-Rank, KKG, Passive
+[Bc]Technique: 
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must be an [Uchiha|http://aminoapps.com/p/h2zp94y] , or Transplant a Sharingan.
+[Bc]Cost:
+[C]Dependent on Stage, Doubled for non-Uchiha
+[Bc]Description:
+[C]The Sharingan, Literally meaning: Mirror Wheel Eye, is the dōjutsu kekkei genkai of the Uchiha clan that appears selectively among its members. When a wielder of this kekkei genkai experiences a powerful emotional condition with regards to a person precious to them, their brain releases a special form of chakra that affects the optic nerves, transforming the eyes into Sharingan; for that reason the Sharingan is described as an "eye that reflects the heart". Often, as per the Uchiha's so-called "Curse of Hatred", this emotion is a negative one, brought on by stress or loss The emotion may also be positive, driven by a desire to protect or reunite with a loved one, but the emotion must be traumatically strong. One of the Sharingan is known as the "Eye of Insight", where as the other is refered to as the "Eye of Hypnotism", however, this may be a misnomer as the abilities of either may be used interchangeably, excluding their final stage which would be the only way to truly tell the difference. 
+
+[C]That said, having only a single sharingan halves it's ocular abilities. Unlike other dōjutsu, the Sharingan evolves into stages of increasing power and effect, each phase requiring a special trigger, and potential. Even though this Dojūtsu is considered a C-Rank KKG, each stage is progressively stronger, and more straining, requiring the mind and body of the weilder to be strong enough to evolve, needing the prerequisites of higher ranks potential to unlock. These eyes also birth unique techniques, not requiring the purchase there of, however, to understand how to use said techniques, there must be the necessary room in the Jutsu Bank and the proper potential.
+
+[UB]Single Tomoe:
+[U]D-Rank
+[C]The 1st Tomoe of the sharingan awakens when the user has suffered the feeling of true betrayal, heartbreak, desperation, or denial. This stage drains -2ChP/Minute activated per eye activated. 
+[C]The "Eye of Insight" allows the user to analyze even the slightest of movements, including reading lips. This even allows the user to closely observe Taijutsu, Bukijutsu, and Kenjutsu, (that aren't clan locked), and replicate them, if physically able, after witnessing it performed 5 times, adding the new technique to their Jutsu Pool. This also passively increases the user's EP, OP, and ROP by +10%. 
+[C]Through the "Eye of Hypnotism", when casting Genjutsu via Sharingan with a Single Tomoe, or having genjutsu cast visually to the host through their sharingan, one uses their Sharingan score as the "Grappling Strength" +10% of there Genjutsu score. They also use their "Sharingan" and "Genjutsu" score to determine the increase in Genjutsu effects cast in this way. Upon gaining the first Tomoe, one is able to perform a special technique, known only as " [Genjutsu: Sharingan|http://aminoapps.com/p/ilz71v] ", via direct eye contact, requiring a C-Rank Jutsu Bank slot to possess, understand and use. At this stage, if the target has a 50% lower Genjutsu grappling score, you can implant suggestions in your targets mind to think or move in minor ways, effecting half their actions or reactions, making 5 word statemens or believing 5 word thoughts, increasing by +5 words per sharingan stage, while leaving them to think the thoughts and actions were there own. Casting Genjutsu: Sharingan also lowers the target's EP, OP, and ROP by 10%, increasing by 10% per Sharingan stage!  
+
+[UB]Double Tomoe:
+[U]C-Rank
+[C]The 2nd Tomoe of the sharingan awakens when the user or someone very close or dear to them is, or is truly believed to be, the target of an attack that will kill them, a deep feeling of helplessness or despair,  and the 1st tomoe has already been unlocked. This stage drains -4ChP/Minute activated per eye activated. 
+[C]The "Eye of Insight" can now visably see external chakra, giving it color in order to distinguish it by its composition and source aswell, even track chakra trails left behind as old as an hour. Overall, the user may now replicate all kinds of techniques, (that are not clan locked), if capable, after witnessing them performed 4 times, adding the new techniques to their Jutsu Pool,  and passively increases the user's EP, OP, and ROP by +20%. 
+[C]Through the "Eye of Hypnotism", when casting Genjutsu via Sharingan with a Double Tomoe, or having genjutsu cast visually to the host through their sharingan, one uses their Sharingan score as the "Grappling Strength" +20% of there Genjutsu score. if the target has a 50% lower Genjutsu grappling score, your genjutsu can read concious thoughts and extract truthful statements of 10 words or less, increasing by 5 words per tier. 
+
+[UB]Triple Tomoe:
+[U]B-Rank
+[C]The 3rd Tomoe of the sharingan awakens only after the 1st and second have. The user must witness the death of someone dear to them, or to somehow be resuscitated from death, the feeling of truly deep loss, or of being so relatively close to death itself. This stage drains -6ChP/Minute activated per eye activated. 
+[C]Their "Eye of Insight" may now visably see internal chakra even through thin obstacles, although not aswell as the Byakugan, it may track chakra trails left behind as old as a day. They now can replicate techniques, if able, after witnessing them performed 3 times and passively increases the user's EP, OP, and ROP by +30%. 
+[C]Through the "Eye of Hypnotism", when casting Genjutsu via Sharingan with a Triple Tomoe, or having genjutsu cast visually to the host through their sharingan, one uses their Sharingan score as the "Grappling Strength" +30% of there Genjutsu score. Their genjutsu can see day old memories as far back as 1 month, increasing by +1 month per stage, and enter the mind scape of their target's subconcious of targets if the target has a 50% lower Genjutsu grappling score.
+
+[UB]Mangekyō:
+[U]A-Rank
+[C]A Mangekyō Sharingan is distinguished from a normal Sharingan by its appearance, which changes the form of the tomoe seal. While the exact design differs for each user, though all resemble pinwheels. This may only be awakened once the three tomoe have been granted, and the user must be, or truly feel, the trauma of being responsible for a truly loved one or closest friend or family. Just being activated drains -8ChP/Minute per eye activated, but each eye also gains S-Rank abilities unique to the user with their own costs, and when used together, form the great, "[Susanoo|http://aminoapps.com/p/pkb5i5g]". Over time and repeated use, the dōjutsu cast by the Mangekyō's eyes may lead to their eye's permanent loss of vision. The castor may use their Mangekyō dōjutsu an amount of times equivalent to 10+(10% (1/10th) of their "Sharingan" score), (rounded down). Using the Susanoo adds 1 use for each eye. In practice, this means the eye of one with a "Sharingan" score of 100 will become "Blind" on it's 10th use of it's power.
+[C]Their "Eye of Insight" may now visably see chakra through thick obstructions and track week old trails of chakra. They now can replicate techniques, if possible, after witnessing them performed 2 times and passively increases their EP, OP, and ROP by +40%. 
+[C][C]Through the "Eye of Hypnotism", when casting Genjutsu via Sharingan with the Mangekyō, or having genjutsu cast visually to the host through their sharingan, one uses their Sharingan score as the "Grappling Strength" +40% of there Genjutsu score. With direct eye contact stun the target if the target has a 50% lower Genjutsu grappling score, increasing to 75% with the EMS.
+
+[UsB]Eternal Mangekyō:
+[Su]S-Rank, Kinjutsu
+[Cs]The Mangekyō Sharingan may only be obtained by removing your own Mangekyō Sharingan, and replace them, transplanting the Mangekyō of a close blood relative, making it absolutely secret and forbidden in order to avoide intentional familicide. Unlike with other transplants, this second evolution will allow the user to retain their original techniques in addition to access the new eyes' respective techniques, but will never lose their sight for this. These eyes reflect both, merging the designs of the two Uchiha's Mangekyō Sharingan together when activated and drain -10ChP/Minute per eye activated, as well as gain the ability to aquire the Perfect Susanoo. This stage also increases the effects of the lower tiers. 
+[Cs]Their "Eye of Insight" may now visably see chakra through most obstructions and track month old chakra tracks. The user may now replicate techniques within their ability after witnessing them performed a single time and passively increase their EP, OP, and ROP by +50%. 
+[Cs]Their "Eye of Hypnotism" now, when casting Genjutsu through their Eternal Mangekyō Sharingan, or having genjutsu cast visually to the host through their sharingan, one uses their Sharingan score as the "Grappling Strength" +50% of there Genjutsu score and with direct eye contact, lower the targets EP, OP, and ROP by 50%, even now able to fully render their target Unconcious if their genjutsu score is 50% or less than their own. Perhaps most dangerous of all, these eyes can freely take full control of Bijū and unconcious Jinchūriki if they are put under the Genjutsu:Sharingan, the Bijū unable to resist, and the Jinchūriki having a 50% harder time to resist.
+
+[|] Genjutsu: Sharingan [|]
+[Bcu][|] Illusion Technique: Mirror Wheel Eye [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG, Active 
+[Bc]Technique:
+[c]Genjusu (Subtle)
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must have the [Sharingan|http://aminoapps.com/p/wwbmml]
+[Bc]Cost:
+[C]5ChP per Sharingan Stage
+[Bc]Description:
+[C]By establishing eye contact with a target with ROP, or even using OP to make eye contacted at Melee range, the Sharingan user traps them within a genjutsu which can be exploited for one of various purposes, such as: causing instantaneous — but temporary — loss of consciousness or paralysis in the target, forceful extraction of information, relaying memories, removing genjutsu placed on the target by others, and even controlling a target's actions to an extent. The extent of these capabilities are relient on the stage of the sharingan used.
+
+[|] Susanoo [|]
+[Bcu][|] Susanoo [|]
+
+[Bc]Rank:
+[c]C-Rank, KKG, Active, Reactive 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]N/A
+[BC]Prerequisite 
+[C]Must be an Uchiha who has unlocked the Mangekyō Sharingan in both eyes.
+[Bc]Cost:
+[C]Dependent on Stage
+[Bc]Description:
+[C]Susanoo is a gigantic, humanoid avatar made of the user's chakra which surrounds them and fights on their behalf. When activated, Susanoo forms around the user and becomes an extension of their will, acting and attacking on their behalf. By default, Susanoo is anchored to its user and they to it: in its less developed forms it will move around with the user; in its more completed forms the user will be suspended within Susanoo, being brought with it as it moves around. Susanoo has several developmental stages. Each stage has it's own rank representing it's complexity to ise, filling Jutsu Bank Slots. Practiced users go through all the stages every time they manifest it, layering more advanced stages over earlier ones or stripping them away as is needed; they can choose to stop at any developmental stage. Once unlocked, add "Susanoo" to your list of Jutsu Skills. 
+
+[UB]First Stage:
+[U]C-Rank
+[C]At its simplest level, users only manifest aspects of Susanoo's skeletal structure, such as a ribcage for basic defence or an arm for interacting with the surroundings. This basic structure has a DP of 100 and it's own strength score of 25, using it's castor's OP as it's own. Forming this takes 10ChP and every minute after to sustain.
+
+[Bu]Second Stage
+[U]B-Rank
+[C]Above having a simple rib cage, the 3 meter (9') tall skeletal structure of an upper torso is formed, adding a neck, skull, and second arm. To evolve to this stage, the castor must have a "Susanoo" score of 25. The Susanoo now has a Strength score of 50, and it's DP in this stage has increased to 200. Forming this takes 15ChP and every following minute to sustain.
+
+[Bu]Third Stage
+[U]B-Rank
+[C]Susanoo now has "sinew" and "flesh", this torso, sitting 5m (15') high... To evolve to this point, the castor must have a "Susanoo" score of 50. These extra layers have raised it's DP to 300, and these muscles have raised it's strength 75. Forming this takes 20ChP and every minute to sustain.
+
+[Bu]Fourth Stage
+[U]A-Rank
+[C]The now 10m (30') Susanoo is coated in a unique set of armor, it's DP now 400 with a stength score of 100. By this stage, it has also gained a  spiritual weapon or unique to it's castor equivalent to a first tier S-Rank Technique. This ability  To evolve to this point, the castor's "Susanoo" score must reach 60. Forming this takes 25ChP every continuous minute to sustain.
+
+[Bu]Full Susanoo 
+[U]S-Rank
+[C]Now in it's fifth,  and quite legendary stage, this Susanoo literally stands 20m (60') tall, walking on two legs as its castor is suspended above the ground within it's core! Their unique spiritual weapon is now the equivalent of a fifth tier S-Rank Technique. To evolve to this form, one's "Susanoo" score must be 100. This form has 500 DP, 150 Strength, and can move at twice the land speed of it's castor. Forming this takes 30ChP and every minute to sustain.
+
+[Bus]Perfect Susanoo 
+[Us]S-Rank, Kinjutsu
+[Cs]The absolute, true, full form of the Susanoo that's on par with even the likes of the Tailed Beasts... This heavenly state can only be evolved with the power of the Eternal Mangekyō Sharingan and the Full Susanoo! This diety like state stands at 50m (150') tall, it's castor suspended by a protective crystal in its forehead. It's DP is worth 1000, and it's strength is equivalent to 300. Their unique spiritual weapon is now the equivalent of a tenth tier S-Rank Technique. It can move on land and air at three times the speed of it's castor with it's giant legs and wings that protrude from it's back. Forming and sustaining this costs 30ChP every minute active.
+
+[|] Magen: Kyō Techi-ten [|]
+[|] Demonic Illusion: Rotation of Heaven and Earth[|]
+ 
+
+ 
+Rank:
+ 
+C-Rank, KKG, Active, Reactive
+ 
+Technique:
+ 
+Genjutsu
+ 
+Element:
+ 
+Yin
+Prerequisite 
+ 
+Must Possess Sharingan
+ 
+Cost:
+ 
+Cost of reversed Genjutsu +1 Tier
+ 
+Description:
+ 
+ When a genjutsu is used on them, the user quickly decrypts the genjutsu with their Sharingan to understand how it works, allowing them to reverse the active Genjutsu onto their attacker, causing a "Genjutsu Reversal",  if the user is able to break a Genjutsu cast onto them, similar to reversing the dominant and submissive roles of a grapple.
+
+The cost of this jutsu is almost entirely dependent on the Genjutsu cast, costing +1Tier higher than the Genjutsu being reversed. Unlike other many other jutsu, the effect of this technique cannot be increased UNLESS the user also personally knows how to perform the jutsu cast on them they are reversing.
+
+[|] Magen: Kasegui no Jutsu [|]
+[|] Demonic Illusion: Shackling Stakes Technique[|]
+ 
+
+ 
+Rank:
+ 
+C-Rank, KKG, Active
+ 
+Technique:
+ 
+Genjutsu(Unsubtle)
+ 
+Element:
+ 
+Yin
+Prerequisite 
+ 
+Must know [|]Illusion technique: Mirror wheel eye[|]
+ 
+Cost:
+ 
+12 Chakra Points
+ 
+Description:
+ 
+ The opponent is caught in the illusionary world created by the user, and the victim is tormented with the sensation of having spikes driven through them, taking away their body's freedom. At the same time, the physical pain accompanying the illusion reveals that the greatest use this technique has is torture.
+
+Using ROP to make eye contacted if needed, the Sharingan user traps them within a genjutsu which causes +1 temporary disabled status and -6DP. For each additional 6 points of chakra fed into the jutsu, the damage to DP will increase by 6 aswell as stack +1 temporary disability.
+
+[|] Mangekyo: Kamui [|]
+[Bcu][|] Authority of the Gods [|]
+
+[Bc]Rank:
+[c]S-Rank, KKG, Active/Reactive/Passive
+[Bc]Technique:
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must naturally unlock the "[Mangekyo Sharingan|http://aminoapps.com/p/wwbmml]" and have a fitting predisposition, or implant eye from previous owner of this Mangekyo
+[Bc]Cost:
+[C]Dependent on Eye
+[Bc]Description:
+[C]Kamui allows the user to transfer objects to and from another dimension. These transfers are often characterised by a spiralling void that targets swirl into or out of, distorting their form as they move between dimensions. Targets that enter Kamui's dimension are completely untraceable, as not even their chakra can be detected while they're there from the outside. Targets that exit Kamui's dimension do so with varying force, either simply appearing at the ejection point, or flying from it, reliant on castor; if weapons, such as shuriken, are stored in Kamui's dimension, ejecting them forcefully gives Kamui's users an offensive application. Only using Kamui or similar space-time ninjutsu able to tap into the castor's personal pocket Kamui dimension  may enter or exit it. This means that targets transferred there are, for all intents and purposes, trapped, forced to stay until Kamui's user lets them leave, or they potentially subdue their captor or manage to slip out with them some way. This also makes Kamui's dimension effective as a refuge for anyone taking shelter there. Kamui ordinarily only connects its dimension with the Earth. If a user synchronises Kamui with another space–time ninjutsu, Kamui can potentially travel to the other ninjutsu's target locations through the rifts, even other dimensions. But if the user doesn't have the original ninjutsu to piggyback off of, travelling between these rifts, especially to alternative dimensions, becomes extremely difficult since Kamui doesn't naturally connect to them. Users can manually generate portals to these other dimensions with Kamui, but this requires a great deal of chakra, more than any single individual would normally have. When one posesses both eyes, their abilities may be used interchangeably or in conjunction to double their effects with double the cost.
+
+[Bu]Eye of Insight
+[C]The Kamui's "Eye of Insight" allows them to perform a close range version of the Kamui's power, transferring the castor and and anyone or thing within contact or melee vicinity to their dimension, however, unless their movement is restricted, conscious targets may potentially evade the spacial distortion of the castors R.O.P. This usage of Kamui costs 25ChP per person being transported may be performed Actively or Reactively, however, if Reactively used, they gain +50 Temporary EP, but must still evade or defend any incoming threat or else fail, and risk taking the threat with them...
+
+[C]Another potential application of this eye allows the castor to become practically "intangible", automatically transferring parts of their body that otherwise would have been in contact with the overlapping matter into Kamui dimension, allowing attacks to phase theough them harmlessly or even seamlessly fade through solid barriers, obstacles, walls, or even the ground. The downside to this use is the castor may not physically interact with anything they were not in contact with prior, needing to exsist this "intangible" state to do so. Another drawback of this usage is it's cost of 50ChP per round of intangibility. This state may be triggered or ended Passivley, however, if activated upon being attacked, it adds +100 Temporary EP to the castor's evasion, becoming intangible if successful.
+
+[Bu]Eye of Hypnotism
+[C]The Kamui's "Eye of Hypnotism" allows them to perform a long range version of the Kamui's power, pinpointing targeted areas, objects, or individuals within their focal point, (within their R.O P. Range), to and or from their dimension of Kamui. This costs ChP equal to 15+Distance per square meter, large enough to even take away an entire limb. A second Tier of 30+Distance (Meters) ChP would create a roughly 2 Meter (6') spacial rift that would be big enough to send an entire person. This rift may even be oppened directly infront of the castor, potentially being made to warp away any oncoming threat away to the Kamui dimension, needing ROP+(rift size) EP to not intercept this temporal distortion if attacking castor, whom gains temp EP equal to the size of this rift. Alternatively,  they may also pull themselves through via this application, adding +50 Temp EP if used Reactively in this way. This cannot be blocked, but may be evaded based on the Castor's R.O.P., plus the size of the rift, minus the distance from castor (Meters). 
+
+[C]A secondary usage of this eye is it's ability to synchronize with other rifts in space-time to other areas or even dimensions created via other means than Kamui in order to hold them open, or re-open linking gates manually. If, for example, such a ninjutsu is used, an individual with this eye can use an action or reaction to lock onto the rift and keep it open, costing the regular amount of Kamui, ontop of however much Chakra was needed in order to open this tear in space-time. Alternatively, an Action or Reaction may be spent to cast Kamui on the space a rift is or was recently present in order to synchronize Kamui with that dimensional tear, thus allowing their Kamui access to that bridge, allowing it to be opened manually and accessed by Kamui even after it closes, however, the cost would be Kamui on top of the cost the origional castor required to form the origional rift.
+
+[|] Mangekyo: Tokinshō [|]
+[Bcu][|] Time Impression [|]
+
+[Bc]Rank:
+[c]S-Rank, KKG, Active/Reactive/Passive
+[Bc]Technique:
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must naturally unlock the "[Mangekyo Sharingan|http://aminoapps.com/p/wwbmml]" and have a fitting predisposition, or implant eye from previous owner of this Mangekyo
+[Bc]Cost:
+[C]Dependent on Eye
+[Bc]Description:
+[C]Tokinshō allows the user to imprint a moment and enter their own pocket of time outside of our own as a temporary reprieve before returning to the exact time and place they had removed themself from. This time pocket is merely a negatively tinted echo of a moment in our own chronology. To others, there would be little sign hey had done anything or gone anywhere  besides a flicker of distorted color as an inversion of the reflected light simultaneously compresses and expands over the effected, however, the castor now has recieved much needed respite to recollect themself and square away their situational awareness. Alternatively, one caught on the wrong end of this power may find themself blinking at high noon, only to open their eyes to the midnight sky! For those whom posess both eyes, they may synchronize both, pulling an area around them, (ROP Diameter) into their chronosphere, where they will fundamentally be frozen in time by the minute (instead of hour) until encountered by intercepting space.
+
+[Bu]Eye of Insight
+[C]The Tokinshōs "Eye of Insight" allows them to perform a close range transf of the castor and potentially anyone or thing within contact or melee vicinity to their pocket of time, however, unless their movement is restricted, conscious targets may potentially evade the spacial distortion of the castors R.O.P. This usage costs 15ChP per person per hour being transported and may be performed Actively or Reactively, however, if Reactively used, they gain +50 Temporary EP, but must still evade or defend any incoming threat or else fail, and risk taking the threat with them. Once in this echoed world, the castor, and any taken with them, have essentially halted their experience through our times linear course, momentarily. They are able to travel, analyze, and explore in this three dimensional reflection freely, rest, and relax for hours at a time, however, they may not physically alter these echoes which shatter like glass and fade like air if destroyed, and any attempted alteration would ultimately have no consequence on our own chronology. Additionally, the body will not automatically recover as though ended any encounter, but will recover over time, and once their time there is up, they will return to the same exact place and time they had stepped away from. To outsiders,  whether the castor was gone for one hour or ten hours, it will never look as though they ever left.
+
+[C]Another potential application of this eye allows the castor to become practically "invincible", automatically merging parts of their body that otherwise would have been in contact with the overlapping matter with its echo of imprinted time immovable, unalterable by our physical space as its' is halted in a moment of unyeilding time, leaving that part of the castors body however also unusable in that moment. Another drawback of this usage is it's cost of 30ChP per round of invincibility. This state may be triggered or ended Passivley, however, if activated upon being attacked, it adds +100 Temporary DP to the castor's defense, becoming invincible if they successfully react in time.
+
+[Bu]Eye of Hypnotism
+[C]The Tokinshō's "Eye of Hypnotism" allows them to perform a long range version of it's power, pinpointing targeted areas, objects, or individuals within their focal point, (within their R.O P. Range), merging them with their temporal echo, essentially freezing the target in that moment of time. This costs ChP equal to 10+Distance per square meter, large enough to stun an entire limb. A second Tier of 20+Distance (Meters) ChP would create a roughly 2 Meter (6') temporal rift that would be big enough to petrify an entire person. This rift may even be oppened directly infront of the castor, potentially being made large enough to freeze any oncoming threat in place, needing ROP+(rift size) EP to not intercept this temporal distortion if attacking castor, whom gains temp EP equal to the size of this rift, if used Reactively in this way. This cannot be blocked, but may be evaded based on the Castor's R.O.P., plus size of the rift, minus the distance (Meters) of target from castor. Targets petrified in this way also are fundamentally invincible,  unnefected by forign space, freeable only by the castor using their eye's power, the cast time running out, or someone shattering their echo imprinted in the castors pocket of time.
+
+[C]A secondary usage of this eye is it's ability to synchronize with other temporal rifts in space-time to other areas or even dimensions created via other means than Tokinshō in order to hold them open, or re-open linking gates to manually. If, for example, such a ninjutsu is used, an individual with this eye can use an action or reaction to lock onto the rift and keep it open, costing the regular amount of Takinahō, ontop of however much Chakra was needed in order to open this tear in space-time. Alternatively,  an Action or Reaction may be spent to cast Kamui on the space a rift is or was recently present in order to synchronize with that dimensional tear, thus allowing their Takinshō access to that bridge, allowing it to be opened manually and accessed by Takinshō even after it closes, however, the cost would be Takinshō on top of the cost the origional castor required to form the origional rift.
+
+[|] Mangekyo: Gōma [|]
+[Bcu][|] Fallen Demon [|]
+
+[Bc]Rank:
+[c]S-Rank, KKG, Active/Passive
+[Bc]Technique:
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must naturally unlock the "[Mangekyo Sharingan|http://aminoapps.com/p/wwbmml]" and have a fitting predisposition, or implant eye from previous owner of this Mangekyo
+[Bc]Cost:
+[C]Dependent on Eye
+[Bc]Description:
+[C]Coupled with the sharingan's naturally predictive visual perception,these eyes introduce a hightened  sense of chronoception via a willed sense of Tachypsychia. Tachypsychia is a neurological condition that alters the perception of time, usually induced by physical exertion, drug use, or a traumatic event. For someone affected by tachypsychia, time perceived by the individual either lengthens, making events appear to slow down to the user through their "Eye if Insight", or contracts, with objects appearing as moving in a speeding blur, cast onto others by the weilders "Eye of Hypnotism". To thise outside of this sharingan's power, everything is perceived to move at a normal rate.
+
+[Bu]Eye of Insight
+[C]A rare quality if this Mangekyo in contrast to most others, is that as long as it is active, the castor's natural visual perceptive prowess is passivley increased, improving their EP, OP,and ROP by +50% instead of the average Mangekyo's 40%. This is improved to 60% if these eyes we to awaken to the Eternal Mangekyo state, rivaling that of even the legendary Rinnegan... The Active/Reactive power of this eye takes this a step further, allowing their body to move more freely in this percieved sense of time, not just visualizing things to move slower. This sense of everything around the user moving at half speed makes 6 seconds feel like 9 seconds, allowing them to perform an additional half action/reaction at the cost of  losing an additional 6 seconds of time to their sharingan's activation per round.
+
+[Bu]Eye if Hypnotism 
+[C]The Castor's Eye of Hypnotism too makes use of the psychological phenomenon known as Tachypsychia in conjuction with its standard power to complement it's techniques. Passivley,  it increases the debuff caused by casting the [Sharingan's Genjutsu|http://aminoapps.com/p/ilz71v] , causing the target to percieve the world around them moving faster, but not their ability to react and move through it, reducing their EP, OP, and ROP by -50%, or -60% if these eyes were to reach Eternal Mangekyo state. An additional effect that the Sharingan's Genjutsu may now elicit halves the targets ability to move through this worlds percieved increase of speed in it's flow of time, making 6 seconds feel like 3 seconds, causing them to lose a half of their own actions/reactions for every round effected, however, keeping this up causes the castor to lose an additional 6 seconds of time from their Sharingan's activation.
+
+[|] Mangekyo: Ōmoiyari [|]
+[Bcu][|] Great Empath [|]
+
+[Bc]Rank:
+[c]S-Rank, KKG, Active/Reactive
+[Bc]Technique:
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must naturally unlock the "[Mangekyo Sharingan|http://aminoapps.com/p/wwbmml]" and have a fitting predisposition, or implant eye from previous owner of this Mangekyo
+[Bc]Cost:
+[C]Dependent on Eye
+[Bc]Description:
+[C]Empathy is the action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another. An empath is a person with the paranormal ability to apprehend the mental or emotional state of another individual. These Mangekyo are said to be bestowed by a goddess of empathy and compassion, allowing those blessed with these occular gifts to see into and and manipulate ones internal realm of emotion...
+
+[Bu]Eye of Insight
+[C]This eye passivley grants insight into the emotional state of others, allowing the weilder to read the feelings of those around them like an open book, like a window into their heart, knowing how they feel even of the subject doesn't truly know themself... There is a catch however, one may never be able to use this power to see within themself, however, an active ability of this eye is that of the ultimate empath, able to feel the emotions of another being, and in doing so, leaving the user incapable of being decieved by the target and have further insight to their intent, increasing their EP, OP, and ROP from that Mangekyo's +40% boost to +45% against that target, increasing to +65% if the Eternal Mangekyo is ever achieved, rivaling even the Rinnegan's own legendary perceptive prowess... Although the target may not evade this ability, the cost of maintaining this conection is Chakra Points equal to 10% of the subjects Will per round. The user may potentially use this power on multiple targets, however, if their accumilated Will ever surpasses that of the castor, it will break the bond and leave the user stunned  for seconds equal to the difference in their Will power, (rounded up to the nearest 6 seconds).
+
+[Bus]Eye of Hypnotism
+[Cs]By casting the [|] [Genjutsu: Sharingan|http://aminoapps.com/p/ilz71v] [|] with this eye upon another, you are able to manipulate their true emotions towards yourself, or to others you have also bonded with Although their thoughts will not change, their feelings of friendship, rivalry, love, or hate towards another or yourself will be altered how you see fit. This manipulation will decrease their EP, OP, and ROP from that Mangekyo's -40% debuff to +45% against that target, increasing to -65% if the Eternal Mangekyo is ever achieved. User beware however, for wether they feel pride, envy, lust, sloth, gluttony, greed, or wrath, your feelings will be altered to reflect this emotion aswell, going beyond feeling the emotions of others, you force them to feel how you do, in a sense. Although the target may evade this ability, this technique will also automatically fail if the target already feels the way you attempt to make them prior to it. The cost of maintaining this conection is Chakra Points equal to 10% of the subjects Will per round. The user may potentially use this power on multiple targets, however, if their accumilated Will ever surpasses that of the castor, they will not be able to handle the emotional turmoil, breaking the bond and leaving the user stunned, leaving them an emotionless husk for seconds equal to the difference in their Will power, (rounded up to the nearest 6 seconds).
+
+[|] Mangekyo: Amaturasu [|]
+[Bcu][|] Heavenly Illumination [|]
+
+[Bc]Rank:
+[c]S-Rank, KKG, Active/Reactive
+[Bc]Technique:
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must naturally unlock the "[Mangekyo Sharingan|http://aminoapps.com/p/wwbmml]" and have a fitting predisposition, or implant eye from previous owner of this Mangekyo
+[Bc]Cost:
+[C]Dependent on Eye
+[Bc]Description:
+[C]Amaterasu is a Mangekyō Sharingan dōjutsu, and stands amongst the highest level of Fire Release. Said to represent the "Material World and Light" (物質界と光, Busshitsukai to Hikari), and is said to be "the fires from hell" or even "heaven's light", and to burn as brilliantly as the sun itself. Amaterasu may produce black or white "flames" almost instantaneously at the focal point of the user's vision, making this makes Amaterasu almost impossible to avoid under most circumstances, for better or worse...
+
+[Bu]Eye of Insight
+[C]The pure black flames of Amaterasu instantaneously ignites it's target, growing hotter and hotter as it spreads, and unable to be simply put out by conventional methods, and will only extinguish naturally once it has reduced all it touches to ash... Any target within the Castor's range of ROP is set ablaze, this is treated as a stealth attack by default, or half stealth by those using extra sensory or perceptive techniques. If struck, the immediate flame deals 50 Damage and +10° Burn(Lit). This costs 50ChP to cast, and may also be cast to put out the flames. These flames may be allowed to spread wildly, or programmed at will by the target to only burn the designated target, and may also be canceled out by the power of Amaterasu's Eye of Hypnotism. 
+
+[Bu]Eye of Hypnotism
+[C]The white heavenly light of Amaterasu is not actually fire at all, but a warm, comforting life energy. When enveloped in this flame, casted for 50ChP, 50HP is immediately recovered, along with 10% HP per round, only extinguishing once it has fully recovered the life of it's targeted subject. If one wished to evade or intercept this pseudoflame, it would be practically impossible, as it spontaneously cumbusts upon its intended subject within the castors ROP range, and is treated as a stealth action by default, or half stealth by those using extra sensory or perceptive techniques.
+
+[|] Mangekyo: Tsukuyomi [|]
+[Bcu][|] Moon Reader [|]
+
+[Bc]Rank:
+[c]S-Rank, KKG, Active/Passive
+[Bc]Technique:
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must naturally unlock the "[Mangekyo Sharingan|http://aminoapps.com/p/wwbmml]" and have a fitting predisposition, or implant eye from previous owner of this Mangekyo
+[Bc]Cost:
+[C]Dependent on Eye
+[Bc]Description:
+[C]The Mangekyō Sharingan dōjutsu, Tsukuyomi, is one of the most powerful genjutsu in existence. Said to represent the "Spiritual World and Darkness" (精神界と闇, Seishinkai to Yami). Because of the power of the Mangekyō Sharingan and the speed with which Tsukuyomi works, with it's unprecedented ability to alter targets' perception of time, normal methods of countering genjutsu are ineffective against it...
+
+[Bu]Eye of Insight
+[C]This eye is the passive conterpart of it's pair, wheras Tsukuyomi is deemed the greatest genjutsu in recorded history, it is also the greatest defense against genjutsu. This eye is able to passivley see through all physical Genjutsu, including Shadow and Lumanance clones! The master of these eyes is also said to be the master of the "World of Darkness, so if one attempts to cast a genjutsu upon the mind of those who weild this eye, this eye's weilder is in full control of the illusion cast upon them. For this eye's master, they have a full day to dissect the illusion, spending as much chakra as the genjutsu being dispelled however, only 10 picosends pass in the material plane of our physical world, breaking through seemingly instantaneously to any outside witness. For those that weild Tsukuyomi's pair, they may cast it's Eye of Hypnotism upon the offender once the bridge between their chakra networks is formed...
+
+[Bu]Eye of Hypnotism
+[C]The reason their is no conceivable counter to this genjutsu, is that the fracton of a fraction of the moment it is cast, it is almost simultaneously over with, leaving no time to counter or break out of. It is said that one second of time within Tsukuyomi's illusion is equivalent to 1 x 10-11 seconds, or 10 picoseconds of real time, however, in this world of inverted light, the victim experiences an entire day's worth of time, helpless, unaware of the illusion, and may be subjected to hours or days worth of torture or damage to the mind and spirit... This illusion may be Subtle or Unsubtle according to the castors design or intent, and may be so real and or traumatic, that it may deal an equivalent of 10 Stealth Attacks worth of damage that is first reflected onto the victims EP, if it carries over that, it takes away from their DP, then finally, if it's to much to bare, ones own body will begin deteriorating, causing the brain to force the body to react to the wounds as their they were truly dealt... This deals 1 Tier of stun by default, 4 if EP hits 0, 7 Tiers id DP reaches 0, and 10 tiers if HP reaches 0, leaving the victim unconcious, or in some cases, even dead if their mind or heart cannot take the strain... This dōjutsu however is also very costly to cast, making it impractical under most circumstances to cast more than once per day, costing five times the amount of chakra than any other [Genjutsu: Sharingan|http://aminoapps.com/p/ilz71v], burning 50ChP. Every additional  25ChP poured into this eye's technique adds an additional 10 picoseconds of time, another full day of trauma to the victim...
+
+[|] Mangekyō: Kyōka Suigetsu [|]
+[Bcu][|] Mirror Flower, Water Moon [|]
+
+[Bc]Rank:
+[c]S-Rank, KKG, Active/Reactive
+[Bc]Technique:
+[c]Dōjutsu
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must naturally unlock the "[Mangekyo Sharingan|http://aminoapps.com/p/wwbmml]" and have a fitting predisposition, or implant eye from previous owner of this Mangekyo
+[Bc]Cost:
+[C]Dependent on Eye
+[Bc]Description:
+[C]"Mirror Flower, Water Moon", is an ancient proverb/phrase referencing something that can be seen but not touched, like a flower reflected in a mirror or the moon reflected on the water's surface; something that is beautiful, yet not but an unattainable dream, a mirage. It can also mean something that seems so tangible and simple but reflects a much deeper meaning.
+
+[C]The special ability of these Mangekyō is described as nothing less than Kanzen Saimin, Complete Hypnosis. It controls the five senses that allow us to interact with the physical space of the world around us, to the point where it can make the target misinterpret another person's form, shape, mass, feel, and smell to be an enemy's. The complete hypnosis of Kyōka Suigetsu is absolutely flawless; even if the target is aware of being under the hypnosis, they cannot resist its influence. When the castor turns ends the genjutsu by force of will, the image shown melts away or shatters...
+
+[Bu]Eye of Insight
+[C]This eye may conjure a reflection of one's self that, for all intents and purposes, looks, sounds, feels, smells, and taste completely real to any that interact with it, even observably so from the smallest "cell". 
+
+[C]However,  as tangible as these illusions may be, they are not but reflections of their castors mind. To make one of these illusions, the castor pays a percentage of their Max Chakra, the traits and skills of the illusion are equal to that percentage of the castor's trait stats. 
+
+[C]The Illusion still remains even after being "destroyed" or "killed", as a fully disectable corpse, dispersing only once done so by the castors own will, or death. Once dispersed, the portion of Max Chakra that had been sealed away into the illusion is opened once more, sending an echo of that clones memories and experiences to the castor and returning whatever chakra remained of the the clone's pool, allowing the castors chakra channels to flow again.
+
+[Bu]Eye of Hypnotism
+[C]Needing only a brief moment of eye contact, the complete hypnosis of Kyōka Suigetsu is absolutely flawless; even if the target is aware of being under the hypnosis, they cannot resist its influence. Once a target has been implanted by its genjutsu, the castor may passivley choose to activate or shatter the actual illusion on a whim at any time, even if years should pass. This hypnosis completely controls how all 5 senses of the target percieve the world around them, what and how they do, or don't, see, hear, feel, taste, and smell. 
+
+[C]These Illusions only effect the afflicted target, for no other will be able to see, hear, or otherwise, that which is being experienced by the target. Terrifyingly, the castor may cause sounds to be other sounds, one thing or person to look like another, the gentle caress of a feather to feel like grating sandpaper, a sweet pastry to taste like the hottest pepper, or make a fresh rose smell like a rotting corpse. They may even cause another to be percieved as themself, or themself to be that of another by manipulating how the targets 5 main senses are processed, however the castor may not leave the subject to percieve nothing, such has hear no sound or see no light. 
+
+[C]These illusory senses and mirages must be formed from the memories experienced by the castor or the target, they are unable to, for example, make anyone see a person they or the target have never seen with their own eyes, or form sounds they have never heard.
+
+[C]To implant this genjutsu into a target, the castor implants a percentage of their Max Chakra Pool into the subject. Once triggered, this percentage reduces by -1% every 6 seconds, unlocking the castors locked chakra pool in the process, and may be halted or fully shattered at will by the castor. The only alternate way to end the grip of these illusions is to make direct contact with the castors real physical body, or for them to die...
+
+[|] Sharingan: Izanagi [|]
+[Bcu][|] He Who Invites [|]
+
+[Bcs]Rank:
+[cs]S-Rank, KKG, Kinjutsu, Passive
+[Bsc]Technique:
+[cs]Dōjutsu
+[Bsc]Element:
+[Cs]Yin, Yang
+[BsC]Prerequisite 
+[Cs]Must naturally posess the "[Sharingan|http://aminoapps.com/p/wwbmml]", 100 Sharingan score
+[Bsc]Cost:
+[Cs]1 Sharingan, 25MChP
+[Bcs]Description:
+[Cs]Izanagi is based on the Creation of All Things Technique, used by the Sage of Six Paths to turn imagination into reality, and said to be the Eye of Insight's greatest Dōjutsu. The process is explained to use spiritual energy – which forms the basis of Yin Release – to create shape from nothingness. Then, through the application of physical energy – which forms the basis of Yang Release – the shape has life breathed into it. Members of the Uchiha clan, as descendants of the Sage, perform Izanagi with their Sharingan. In exchange for the brief control over reality that Izanagi grants them, the Sharingan that they perform it with becomes blind; only awakening the Rinnegan restores the eye's vision...
+
+There was a point in time where members of the clan abused the abilities granted by Izanagi, instead simply casting the technique as a means of escaping the undesirable results of their actions. Whilst this resulted in little issue if only one person were using Izanagi, if there were two or more casters, they would begin to fight amongst each other over personally favourable outcomes. Thus, as dōjutsu users were unlikely to succumb to ocular genjutsu, [Izanami|http://aminoapps.com/p/kp975xb], was created as a method to reprimand such clansmen, as well as save them from their own arrogance. 
+
+[Cs]With a normal genjutsu, a user will apply an illusion to a target's senses, causing the target to experience things that are not real. With Izanagi, the user applies an illusion to reality itself, giving the user control over what is and is not real for as long as Izanagi is active. Users typically do this in order to protect themselves, negating any injuries they receive or even their deaths. When this happens, their injured self fades away as an illusion and their non-injured self immediately materialises in the previous self's place.
+
+[Cs]For those who only posess Uchiha or Senju DNA, they are only able to rewrite their reality for up to 6 seconds pre or post activation. If one's blood was closer to the Sage of Six Paths instead of only descendant from half his kin, the window of Izanagi's effect stretches to an entire minute! A set effect may also be programmed to trigger at a later time or at a set trigger. The castors sight in the sacrificed Sharingan is permanently lost unless they manage to naturally awaken the [Rinnegan|http://aminoapps.com/p/gu4pf3].
+
+[|] Sharingan: Izanami [|]
+[Bcu][|] She Who Invites [|]
+
+[Bcs]Rank:
+[cs]S-Rank, KKG, Kinjutsu, Passive
+[Bsc]Technique:
+[cs]Dōjutsu
+[Bsc]Element:
+[Cs]Yin, Yang
+[BsC]Prerequisite 
+[Cs]Must naturally posess the "[Sharingan|http://aminoapps.com/p/wwbmml]", 100 Sharingan score
+[Bsc]Cost:
+[Cs]1 Sharingan, 25MChP
+[Bcs]Description:
+[Cs]There was a point in time where members of the clan abused the abilities granted by [Izanagi|http://aminoapps.com/p/trra1a], instead simply casting the technique as a means of escaping the undesirable results of their actions. Whilst this resulted in little issue if only one person were using Izanagi, if there were two or more casters, they would begin to fight amongst each other over personally favourable outcomes. Thus, as dōjutsu users were unlikely to succumb to ocular genjutsu, Izanami, said to be the Eye of Hypnotism's greatest Dōjutsu, was created as a method to reprimand such clansmen, as well as save them from their own arrogance. By imprisoning them within an unalterable loop of events, the victim was forced to accept the reality they had created if they ever wished to escape the illusion.
+
+[Cs]To begin the technique, after selecting any arbitrary moment, the caster uses their Sharingan to remember the physical sensations both of their body and that of their opponent's during that instant like a photograph (represented as: A). The user must then intentionally replicate the same sensation and in the same way, memorise that instant with their Sharingan (represented as: A'). Izanami overlaps and connects these two identical bodily sensations (A and A'), as well as the flow of time between them, creating an infinite loop of events that entraps the opponent's consciousness. The user can also use their Sharingan to remember multiple sensations, (represented as B, C, and so forth) and those sensations will also be used when Izanami is activated. The user also doesn't need necessarily to replicate A with A' to initiate Izanami. They can also replicate B with B' or C with C' as well. The more sensations they memorise, the better their chances would be to initiate Izanami on a person and the more sensations the victim will experience each time they repeat a loop.
+
+[Cs]While under this technique's effect, the body of the one caught in it, for all intents and purposes, is rendered fully Unconscious in the physical world,their mind and senses numbed and sealed from the outside world. Unlike other techniques, the greater the target's Will, the greater the effect of this technique. The subject is trapped in this loop for minutes equal the sum of their Will and that of the castors, and by the end of it all, their Will shall be broken, truly accepting the philosophy of the castor's as their own. This is not hypnotism or mind control, the victim must truly have a change of mind and heart as they are completely convinced by the castors echo left within this loop with them. As with Izanagi, the castors sight in the sacrificed Sharingan is permanently lost unless they manage to naturally awaken the [Rinnegan|http://aminoapps.com/p/gu4pf3].

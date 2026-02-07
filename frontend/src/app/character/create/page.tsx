@@ -1,4 +1,3 @@
-"use client";
 import CharacterCreationForm from '@/components/CharacterCreationForm';
 import { useEffect } from 'react';
 

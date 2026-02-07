@@ -1,0 +1,163 @@
+[|] The Hidden Sand Village [|]
+ [|]Sunagakure (砂隠れの里, Sunagakure no Sato, Literally meaning: Village Hidden by Sand)[|]
+Sunagakure is the hidden village of the Land of Wind. As the village of one of the Five Great Shinobi Countries. Being surrounded by desert offers the village a natural deterrent against invasion, as few foreign powers would be willing to endure the sandstorms and water scarcity common to Suna. Sunagakure itself lies in a fortified valley behind cliffs of rock, with passage in and out of the village restricted to a single cleft between two cliff faces, making the area very hard to attack from the ground. The buildings inside seem to be made of clay or stucco, which would help to keep the buildings cool.
+
+ [|] Kazekage [|]
+ Sabaku Chikamatsu
+
+ [|] Retainer [|]
+ Chōko Aburame
+
+ [|] Suna mission board [I]
+ Mission Board
+
+ [|] Registered Shinobi [|]
+
+ [|] Treasury [|]
+両10,000,000
+
+ [|] Clans [|]
+ Aburame
+ Chikamatsu
+ Suna
+
+ [|] Jutsu Affinity [|]
+ Wind, Earth, Fire
+
+ [|] Jutsu Affinity [|]
+ Ninjutsu | +5
+ Bukijutsu | +3
+ Fuinjutsu | +3
+ Iryojutsu | +2
+ Taijutsu | +2
+
+[|] The Hidden Lightning Village [|]
+Kumogakure is the hidden village of the Land of Lighthing. As the village of one of the Five Great Shinobi Countries, Kumogakure has a Kage as its leader known as the Raikage. Kumo resides deep within a mountain range, quite literally hidden in the clouds. Kumo typically focuses on speed for its Shinobi, and most shinobi are accustomed to using Elemental Lightning Ninjutsu. The standard attire for Kumo shinobi consists of a long, grey top which gathers just at the waist to give a sash-like appearance, with a matching coloured bottom. Over this they wear white, one-strapped flak jackets and arm as well as shin-guards. 
+
+[|] Population [|]
+1,130
+
+[|] Raikage [|]
+ Usagi Yozora
+
+[|] Retainer [|]
+
+[|] Registered Shinobi [|]
+
+[|] Treasury [|]
+両10,000,000
+
+[|] Clans [|]
+ Wasabi
+Hyuga
+Inuzuka
+
+[|] Nature Affinity [|]
+Water, Lightning, Wind
+
+[|] Jutsu Affinity [|]
+Ninjutsu | +4
+Genjutsu | +1
+Taijutsu | +4
+Bukijutsu | +1
+Kenjutsu | +1
+Fuinjutsu | +2
+Iryojutsu  | +2
+
+[|] The Hidden Stone Village [|]
+Iwagakure is the hidden village of the Land of Earth. As the village of one of the Five Great Shinobi Countries, Iwagakure has a Kage as its leader known as the Tsuchikage. Iwa is completely surrounded by rocky mountain ranges, this provides a natural stronghold. Iwagakure is best known for its shinobi’s extreme loyalty, following through given orders without hesitation even if meaning certain death. Its shinobi most commonly use Elemental Earth Ninjutsu. The standard attire for shinobi consists of red outfit, which can either have one or both sleeves, a lapel which is usually found on the side without a sleeve and a brown flak jacket They also tend to wear mesh armour around their ankles.
+
+[|] Population [|]
+1,000
+
+[|] Tsuchikage [|]
+
+[|] Retainer [|]
+
+[|] Registered Shinobi [|]
+
+[|] Treasury [|]
+両10,000,000
+
+[|] Clans [|]
+ Yamanaka
+ Nara
+ Akimichi
+
+[|] Nature Affinity [|]
+Earth, Fire, Lightning
+
+[|] Jutsu Affinity [|]
+Ninjutsu | +3
+Genjutsu | +2
+Taijutsu | +3
+Bukijutsu | +1
+Kenjutsu | +2
+Fuinjutsu | +2
+Iryojutsu  | +2
+
+[|] The Hidden Mist Village [|]
+Kirigakure is the hidden village of the Land of Water. As the village of one of the Five Great Shinobi Countries, Kiri has a Kage as its leader known as the Mizukage. Befitting its name, the village is surrounded by a thick mist, with several mountains in the background, making it difficult to find by foreigners. Kirigakure's architecture is composed of several cylindrical buildings, with the Mizukage's office being the widest and largest. Most of the buildings have vegetation growing on their roofs. Kirigakure's society was split into a form of caste system since the founding of the village. The highest ranking civilians were those whose family lineage originally stemmed from within Kirigakure, the second caste was for members of families who were allied with Kirigakure on the battlefields in the past while the last and lowest caste consisted of members of the families who were defeated on said battlefields and annexed into the village. From the early days on, the members of the third caste were handled with caution and had to complete the most perilous and dangerous missions for the village. 
+
+[|] Population [|]
+2,400
+
+[|] Hokage [|]
+ 3rd Mizukage, Ukonzaemon Kaguya
+
+[|] Retainer [|]
+
+[|] Registered Shinobi [|]
+
+[|] Treasury [|]
+両10,000,000
+
+[|] Clans [|]
+Hoshigaki
+Hōzuki
+Kaguya
+
+[|] Nature Affinity [|]
+Water, Wind, Earth
+
+[|] Jutsu Affinity [|]
+Ninjutsu | +3
+Genjutsu | +1
+Taijutsu | +2
+Bukijutsu | +2
+Kenjutsu | +4
+Fuinjutsu | +2
+Iryojutsu  | +1
+
+ 
+[|] The Iron Summit [|]
+ The Land of Iron (鉄の国, Tetsu no Kuni) is an icy, snow-covered country located among three mountains called the Three Wolves (三狼, Sanrō). the iron summit is home to the samurai and monks rather then practicing ninja arts these worriers would rather train in the way of the sword and martial arts although ninjas are known to also practice these, the samurai and monks have their own ways todo so samurai pride themselves on honor and monks are highly trained in inner peace and justice.
+
+[|] Population [|]
+1,500
+
+[|] Summit Leader [|]
+ 
+[|] Retainer [|]
+
+[|] Registered Soldiers [|]
+
+[|] Treasury [|]
+両10,000,000
+
+[|] Clans [|]
+ Samurai
+ Monk
+ Blacksmith
+
+[|] Nature Affinity [|]
+Yin, Yang
+
+[|] Jutsu Affinity [|]
+Ninjutsu | +2
+Genjutsu | +1
+Taijutsu | +4
+Bukijutsu | +2
+Kenjutsu | +3
+Fuinjutsu | +1
+Iryojutsu  | +2

@@ -1,0 +1,233 @@
+[|] Eye of the Tigers [|]
+[Bcu][|] Eye of the Tigers [|]
+
+[Bc]Rank:
+[c]C-Rank
+[Bc]Village:
+[c]Konoha
+[Bc]Client:
+[C]Barole Caskin
+[Bc]Mission:
+[C]I don't believe in "Cages" or keeping natures most beutiful creature trapped in captivity, so that is why I keep the precious fur babies I breed in the fenced off enclosure of The Forest of Death! I almost only ever sell them to Konoha because I know how happy and safe they can be of course! However,  someone must have left a gate open somewhere, because my THREE White Tigers have gone missing, lost outside of the village walls! I would track them and gingerly bring them home myself, because they love me of course as much as I love them, but my dear husband has also vanished recently, and I fear the worst and am not in the proper emotional state!
+
+[C]I am hiring you to capture them so they may be returned, ALIVE and in one piece! If you cut or tear them apart or kill any of them, YOU will be the one paying and I doubt you could afford it! They are hard to miss, all standing 2 meters (6') on all fours!
+
+*Tiger stats below.
+*Ryō will be reduced by 20% for any disability inflicted, and reduced by 50% for any tiger killed. Any negative ryō will be payed by the mission taker.
+*Burn, Bleed, and Poison 9 or below are acceptable.  Fur can regrow and hide cuts, and they can still be treated with medical care.
+
+[Cbu][|] (3) White Tiger [|]
+
+[Bc][|] Traits [|] 
+[C][|] Intelligence: 15 [|]
+[C][|] Strength: 30 [|]
+[C][|] Speed: 30 [|]
+[C][|] Stamina: 15 [|]
+[C][|] Will: 10 [|]
+
+[C][|] Health Points: 70/70 [|]
+[C][|] Defensive Points: 45/45 [|]
+[C][|] Evasion Points: 45/45 [|]
+[C][|] Offensive Points: 28 [|]
+[C][|] Ranged Offensive Points: 8 [|]
+[C][|]Initiative: 75 [|]
+
+[Bc][|] Natural Weapons [|]
+[C]•Bite <Sharp, +12Dmg>
+[C]•(2)Claw <Sharp, +50% Climb Speed, +2Dmg>
+
+[Cb][|] Natural Abilities  [|]
+[C]•Hightened Senses <Increased Hearing and Smell make it twice as hard to Stealthfully Attack or Hide from this creature. Effects of Blind or Deft are halved for this creature>
+[C]•Quadruped <This Creature travels on all fours, doubling their Land Speed. A disabled limb counts as a Disabled arm AND leg>
+[C]•Night Vision <This creature see's normally in Dim/Low Light, and is only Half Blind instead of Blind in total Darkness>
+[C]•Pack Tactics <When near enough to others of their pack, these creatures gain a temporary +10EP&OP when helping eachother attack or evade>
+[C]•Fight or Flight <This creature will prioritize escape once HP is reduced to to 10% or below>
+
+[|] Wolf Gang [|]
+[Bcu][|] Wolf Gang [|]
+
+[Bc]Rank:
+[c]C-Rank
+[Bc]Village:
+[c]Konoha
+[Bc]Client:
+[C]Village Council 
+[Bc]Mission:
+[C]Over time, our village has expanded bit by bit in many different ways than just expanding our walls. Some argue this could to be related to the increase if wildlife to our boarder. In particular, multiple reports of a wolf pack attacking anyone passing through the near by woodlands. This pack consists of three wolves about 1 meter standing on all fours, and one that stands at anout 3 meters (9')!.
+
+[C]You are to find this pack and irradicate them. Alternatively, if are able to subdue them relatively unharmed, we may add them to our own Forest of Death and compensate you for their donation. 
+
+*Wolf Stats below.
+*The mission taker will be rewarded an additional +5% ryō for each wolf not killed, (10% if alive and not crippled). +10% not crippled or killed, (20% if alive and not crippled), for the alpha.
+*Burn, Bleed, and Poison 9 or below are acceptable.  Fur can regrow and hide cuts, and they can still be treated with medical care.
+
+[Cbu][|] Alpha Wolf [|]
+
+[Bc][|] Traits [|] 
+[C][|] Intelligence: 15 [|]
+[C][|] Strength: 30 [|]
+[C][|] Speed: 15 [|]
+[C][|] Stamina: 30 [|]
+[C][|] Will: 10 [|]
+
+[C][|] Health Points: 120/120 [|]
+[C][|] Defensive Points: 45/45 [|]
+[C][|] Evasion Points: 30/30 [|]
+[C][|] Offensive Points: 28 [|]
+[C][|] Ranged Offensive Points: 12 [|]
+[C][|]Initiative: 45 [|]
+
+[Bc][|] Natural Weapons [|]
+[C]•Bite <Sharp, +15Dmg>
+[C]•(2)Claw <Sharp, +6Dmg>
+
+[Cb][|] Natural Abilities  [|]
+[C]•Hightened Senses <Increased Hearing and Smell make it twice as hard to Stealthfully Attack or Hide from this creature. Effects of Blind or Deft are halved for this creature>
+[C]•Quadruped <This Creature travels on all fours, doubling their Land Speed. A disabled limb counts as a Disabled arm AND leg>
+[C]•Night Vision <This creature see's normally in Dim/Low Light, and is only Half Blind instead of Blind in total Darkness>
+[C]•Pack Tactics <When near enough to others of their pack, these creatures gain a temporary +10EP&OP when helping eachother attack or evade>
+[C]•Fight or Flight <This creature will prioritize escape once HP is reduced to to 10% or below>
+
+[Cbu][|] (3) Wolf [|]
+
+[Bc][|] Traits [|] 
+[C][|] Intelligence: 5 [|]
+[C][|] Strength: 15 [|]
+[C][|] Speed: 5 [|]
+[C][|] Stamina: 15 [|]
+[C][|] Will: 10 [|]
+
+[C][|] Health Points: 60/60 [|]
+[C][|] Defensive Points: 20/20 [|]
+[C][|] Evasion Points: 10/10 [|]
+[C][|] Offensive Points: 10 [|]
+[C][|] Ranged Offensive Points: 5 [|]
+[C][|]Initiative: 15 [|]
+
+[Bc][|] Natural Weapons [|]
+[C]•Bite <Sharp, +9Dmg>
+[C]•(2)Claw <Sharp, +3Dmg>
+
+[Cb][|] Natural Abilities  [|]
+[C]•Hightened Senses <Increased Hearing and Smell make it twice as hard to Stealthfully Attack or Hide from this creature. Effects of Blind or Deft are halved for this creature>
+[C]•Quadruped <This Creature travels on all fours, doubling their Land Speed. A disabled limb counts as a Disabled arm AND leg>
+[C]•Night Vision <This creature see's normally in Dim/Low Light, and is only Half Blind instead of Blind in total Darkness>
+[C]•Pack Tactics <When near enough to others of their pack, these creatures gain a temporary +10EP&OP when helping eachother attack or evade>
+[C]•Fight or Flight <This creature will prioritize escape once HP is reduced to to 10% or below>
+
+[|] Delivery: Don't Get Couriered Away [|]
+[Bcu][|] Delivery: Don't Get Couriered Away [|]
+
+[Bc]Rank:
+[c]C-Rank
+[Bc]Village:
+[c]Konoha 
+[Bc]Client:
+[C]Courier Express Ninja Delivery International (C.E N.D. Int.)
+[Bc]Mission:
+[C]It is a very busy time of year for our services,  and our staff are working 20 hours a day, 4 more hours than usual, to keep up with the demand to securely deliver packages that simple animals or civilians could not accross the shinobi world to their appropriate destinations and rightful recipients, neither storm nor pain nor thief nor doom stays we couriers from the swift completion of our appointed rounds! 
+
+[C]We temporarily require the service of extra, competent,  passionate hands on deck of trustworthy ninja to deliver a shipment of packages to [Yu no Kuni|http://aminoapps.com/p/i7x8qb] in exactly 50 Hours OR LESS but no later!
+
+*The mission taker will be rewarded an additional +1% ryō for arriving each hour early, but lose -1% ryō for each hour late to delivery.
+*The Packages are being carried an an official C.E.N.D. Duffel Bag (7/7 <Increases carry capacity by +7, +3DP> | A)
+*The reward will be reduced by -3% for each point of DP missing from the Packages or Duffel Bag, each having 3DP upon arrival to the rendezvous point, and or -10% of the reward for every package missing, (-30% if the bag is Destroyed/Lost). An extra +10% will be recieved if all items arrive undamaged.
+*A group of Thugs, a Bandit, a Stray Wolf or a Tiger will attack once per day at the discretion of the leading Anbu. They all want whatever is in those packages...
+
+[Cbu][|] Stray Wolf [|]
+
+[Bc][|] Traits [|] 
+[C][|] Intelligence: 5 [|]
+[C][|] Strength: 15 [|]
+[C][|] Speed: 5 [|]
+[C][|] Stamina: 15 [|]
+[C][|] Will: 10 [|]
+
+[C][|] Health Points: 60/60 [|]
+[C][|] Defensive Points: 20/20 [|]
+[C][|] Evasion Points: 10/10 [|]
+[C][|] Offensive Points: 10 [|]
+[C][|] Ranged Offensive Points: 5 [|]
+[C][|]Initiative: 15 [|]
+
+[Bc][|] Natural Weapons [|]
+[C]•Bite <Sharp, +9Dmg>
+[C]•(2)Claw <Sharp, +3Dmg>
+
+[Cb][|] Natural Abilities  [|]
+[C]•Hightened Senses <Increased Hearing and Smell make it twice as hard to Stealthfully Attack or Hide from this creature. Effects of Blind or Deft are halved for this creature>
+[C]•Quadruped <This Creature travels on all fours, doubling their Land Speed. A disabled limb counts as a Disabled arm AND leg>
+[C]•Fight or Flight <This creature will prioritize escape once HP is reduced to to 10% or below>
+
+[Cbu][|] Tiger [|]
+
+[Bc][|] Traits [|] 
+[C][|] Intelligence: 10 [|]
+[C][|] Strength: 10 [|]
+[C][|] Speed: 15 [|]
+[C][|] Stamina: 5 [|]
+[C][|] Will: 10 [|]
+
+[C][|] Health Points: 30/30 [|]
+[C][|] Defensive Points: 20/20 [|]
+[C][|] Evasion Points: 25/25 [|]
+[C][|] Offensive Points: 10 [|]
+[C][|] Ranged Offensive Points: 4 [|]
+[C][|]Initiative: 40 [|]
+
+[Bc][|] Natural Weapons [|]
+[C]•Bite <Sharp, +9Dmg>
+[C]•(2)Claw <Sharp, +2Dmg, +25% Climb>
+
+[Cb][|] Natural Abilities  [|]
+[C]•Hightened Senses <Increased Hearing and Smell make it twice as hard to Stealthfully Attack or Hide from this creature. Effects of Blind or Deft are halved for this creature>
+[C]•Quadruped <This Creature travels on all fours, doubling their Land Speed. A disabled limb counts as a Disabled arm AND leg>
+[C]•Fight or Flight <This creature will prioritize escape once HP is reduced to to 10% or below>
+
+[Cbu][|] Bandit [|]
+[Bc][|] Traits [|] 
+[C][|] Intelligence: 10 [|]
+[C][|] Strength: 8 [|]
+[C][|] Speed: 12 [|]
+[C][|] Stamina: 12 [|]
+[C][|] Will: 3 [|]
+
+[C][|] Health Points: 40/40  [|]
+[C][|] Defensive Points: 24/24 +5 [|]
+[C][|] Evasion Points: 22/22 [|]
+[Cs][|] Chakra Pool: 25/25[|]
+[C][|] Offensive Points: 12 [|]
+[C][|] Ranged Offensive Points: 6 [|]
+[C][|]Initiative: 34 [|]
+
+[Bc][|] Equipment 2/4  [|]
+[C][|] Items [|]
+>Simple Chain <5ft, +5DMG, +5DP> | C
+[C][|] Weapons [|]
+>Knife <Sharp, +4Dmg, +2ROP> | D+
+[C][|] Gear [|]
+>
+
+[Cbu][|] (2)Thug [|]
+[Bc][|] Traits [|] 
+[C][|] Intelligence: 3 [|]
+[C][|] Strength: 10 [|]
+[C][|] Speed: 6 [|]
+[C][|] Stamina: 10 [|]
+[C][|] Will: 1 [|]
+
+[C][|] Health Points: 40/40  [|]
+[C][|] Defensive Points: 16/16 +9 [|]
+[C][|] Evasion Points: 9/9 [|]
+[Cs][|] Chakra Pool: 10/10 [|]
+[C][|] Offensive Points: 8 [|]
+[C][|] Ranged Offensive Points: 4 [|]
+[C][|]Initiative: 15 [|]
+
+[Bc][|] Equipment 2/5  [|]
+[C][|] Items [|]
+>Simple Chain <5ft, +5DMG, +5DP> | C
+[C][|] Weapons [|]
+>Crowbar <+5Dmg, +4DP> | D+
+[C][|] Gear [|]
+>

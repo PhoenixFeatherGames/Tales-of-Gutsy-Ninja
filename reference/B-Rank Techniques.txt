@@ -1,0 +1,391 @@
+[|] Kage Bunshin no Jutsu [|]
+[Bcu][|] Shadow Clone Technique [|]
+
+[Bc]Rank:
+[c]B-Rank, Active, Reactive
+[Bc]Technique:
+[c]Ninjutsu, Genjutsu (Physical)
+[Bc]Element:
+[C]Yin
+[BC]Prerequisite 
+[C]Must know [|][Clone Jutsu|http://aminoapps.com/p/wcw989][|], 100 Chakra Control
+[Bc]Cost:
+[C]=% of Total ChP
+[Bc]Description:
+[C]This jutsu allows the user to create one or more copies of themselves from their very on shadow. The user's chakra is evenly divided between themselves and their clones: creating one clone will give it half the user's chakra, creating two clones will give each a third of the user's chakra, and so on. The clones stats directly corellate, being the same % of the originals stats as the portion of split Chakra. For example, if 1 shadow clone is created, it will possess 50% of the users current chakra and stats. Depending on how much chakra the user has and how many clones they make, this rapid depletion of their reserves can be dangerous, limiting the castor to no more than 10 clones at any time.
+
+[C]Unlike the basic Clone Technique, shadow clones are physically real. They possess the same clothing, damage, and transformations as the user at the time of their creation. Most tools and weaponry are copied when the shadow clones are created, but complicated technology won't be duplicated. Because they are visually identical and possess the same chakra as the user, shadow clones are indistinguishable from their original, not even by dōjutsu, presumably, other than the Rinnegan or the Tenseigan. 
+
+[C]Because they have their own chakra, shadow clones can perform other jutsu, including making more shadow clones. Shadow clones usually disperse once they or their castor runs out of their ChP or HP. When a clone's task is completed, it can disperse itself or be dispersed by its user. Once dispersed, the clone's intel, experiences, and 50% of their remaining chakra points are transferred back to the user. This also means any Jutsu Scores they increase directly adds to the user's once dispersed!
+
+[|] Kido Bunshin no Jutsu [|]
+[Bcu][|] Luminance Clone Technique [|]
+
+[Bc]Rank:
+[c]B-Rank, Active, Reactive
+[Bc]Technique:
+[c]Ninjutsu, Genjutsu (Physical), Iryojutsu 
+[Bc]Element:
+[C]Yang
+[BC]Prerequisite 
+[C]Must know [|][Clone Jutsu|http://aminoapps.com/p/wcw989][|], 100 Chakra Control
+[Bc]Cost:
+[C]=% of Total HP
+[Bc]Description:
+[C]This jutsu allows the user to create one or more copies of themselves with their very life force from the light surrounding them. The user's HP is evenly divided between themselves and their clones: creating one clone will give it half the user's HP, creating two clones will give each a third of the user's HP, and so on. The clones stats directly corallate, being the same % of the originals stats as the portion of split HP. For example, if 1 Luminance clone is created, it will possess 50% of the users current health and stats. Depending on how much life the user has and how many clones they make, this rapid depletion of their reserves can be dangerous, limiting the castor to no more than 10 clones at any time.
+
+[C]Unlike the basic Clone Technique, Luminance clones are physically real. They possess the same clothing, damage, and transformations as the user at the time of their creation. Most tools and weaponry are copied when the Luminance clones are created, but complicated technology won't be duplicated. Because they are visually identical and possess the same chakra as the user, luminance clones are indistinguishable from their original, not even by dōjutsu, presumably, other than the Rinnegan or the Tenseigan. 
+
+[C]Because they have their own chakra, luminance clones can perform other jutsu, including making more Lumanance clones. Luminance clones usually disperse once they or their castor runs out of their ChP or HP. When a clone's task is completed, it can disperse itself or be dispersed by its user. Once dispersed, the clone's intel, experiences, and 50% of their remaining health points are transferred back to the user. This also means any Jutsu Scores they increase directly adds to the user's once dispersed!
+
+[|] Katon: Karyūdan no Jutsu [|]
+[Bcu][|] Fire Style: Fire Dragon Bullet Technique [|]
+
+[Bc]Rank:
+[c]B-Rank, Active
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Fire
+[BC]Prerequisite 
+[C]100 Chakra Control
+[Bc]Cost:
+[C]20 Chakra Points
+[Bc]Description:
+[C]The user moulds the fire into the shape of a dragon, which they then direct at a target. The inferno crashes through the target, dealing significant physical damage, and burns. The more talented the user, the greater the amount of fire that the dragon can be made from and heat produced.
+
+[C]This fierce pyre has a diameter of 2 meters, and can stretch out up to 16 meters in length! The sheer force of impact from this beast deals 25 damage, +1 Burn(Lit), and easily knock prone any unable to evade the user's ROP +10. For each additional 10ChP, a skilled castor may increase the size by 1 meter in width and 4 meters in length, increasing the Damage by +10, +1 Burn(Lit), and ROP by +5.
+
+[|] Katon: Moeru Ken no Jutsu [|]
+ 
+[|] Fire style: Blazing fist technique[|]
+ 
+
+ 
+Rank:
+ 
+B-Rank, Active
+ 
+Technique:
+ 
+Ninjutsu, taijutsu
+ 
+Element:
+ 
+Fire
+Prerequisite 
+ 
+60 chakra control
+ 
+Cost:
+ 
+25 Chakra Points
+ 
+Description:
+ 
+ The user encases their fist in fire while also enhancing their strength via chakra, this in turn allows their next attack to pack a punch...and a burn. +25 Damage, T1 burn. For every 6 chakra put into this move the power of the attack is enhanced by 5 and the burn enhanced by 1.
+
+[|] Katon: Gōka Mekkyaku [|]
+ 
+[|] Fire Style: Majestic Destroyer Flame [|]
+ 
+
+ 
+Rank:
+ 
+B-Rank, Active
+ 
+Technique:
+ 
+Ninjutsu
+ 
+Element:
+ 
+Fire
+Prerequisite 
+ 
+Must Know [|]Fireball Jutsu[|], 60 chakra control
+ 
+Cost:
+ 
+30 chp
+ 
+Description:
+ 
+ The pinnacle of Uchiha Fire Release techniques. chakra kneaded inside the body is converted into fire, and then expelled from the mouth and shaped into a literal sea of flames,which covers a wide range as well. This makes the technique extremely difficult to either avoid or contain.
+It's basic form creates a large blast of fire with a diameter of 20 meters. It's basic damage can cause "1° Burn", 20 Damage, and takes ROP+20 to dodge! Every 15 additional points of chakra put into this Technique increases its effect by +1° Burn, +10 Damage, +5m, +10ROP.
+
+[|] Katon: Kaenheki [|]
+[Bcu][|] Fire Style: Flame Wall [|]
+
+[Bc]Rank:
+[c]B-Rank, Active, Reactive
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Fire
+[BC]Prerequisite 
+[C]50 Chakra Control, 15 Ninjutsu
+[Bc]Cost:
+[C]16 Chakra Points
+[Bc]Description:
+[C]The user creates a solid wall of Fire as a form of defense, the flames instantly rising up and taking form. The barrier itself is also coated with chakra, making its strength incomparable to that of even a wildfire!
+
+[C]In it's lowest form, it has a DP of 15. This fire wall may be projected directly in front of the castor as a 10 meter high, 4 meter wide, 1 meter thick wall. This wall also deals 15 damage to whatever touches it as well as causing a 1° Burn. For every additional 8ChP fed into this flame increases the size of each dimension increases by +2, Burn by 1°, and both DP and Damage increase by +10. This fire wall can be continuously risen for an additional  8Chp per round, which also restores 8DP per round to the barrier.
+
+[|] Futon: Furyūdan no Jutsu [|]
+[Bcu][|] Wind Style: Wind Dragon Bullet Technique [|]
+
+[Bc]Rank:
+[c]B-Rank, Active
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Wind
+[BC]Prerequisite 
+[C]100 Chakra Control
+[Bc]Cost:
+[C]20 Chakra Points
+[Bc]Description:
+[C]The user moulds wind into the shape of a dragon, which they then direct at a target. The water crashes upon the target, dealing significant physical damage. The more talented the user, the greater the amount of air that the dragon can be made from.
+
+[C]This fierce twister has a diameter of 2 meters, and can stretch out up to 16 meters in length! The sheer force of impact from this beast deals 20 damage, +1 Bleed, and easily knock prone any unable to evade the user's ROP +12. The target will also be carried any remaining distance away if struck short of the wind dragon's max length, even if blocked. For each additional 10ChP, a skilled castor may increase the size by 1 meter in width and 4 meters in length, increasing the damage by +10, +1 bleed, and ROP by +6.
+
+[|] Fūton: Fūjinheki [|]
+[Bcu][|] Wind Style: Hurricane Wall [|]
+
+[Bc]Rank:
+[c]B-Rank, Active, Reactive
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Wind
+[BC]Prerequisite 
+[C]50 Chakra Control, 15 Ninjutsu
+[Bc]Cost:
+[C]16 Chakra Points
+[Bc]Description:
+[C]The user creates a spherical barrier of air as a form of defense, the wind instantly forms out and takes shape. The barrier itself is also coated with chakra, making its strength incomparable to that of even a tornado!
+
+[C]In it's lowest form, it has a DP of 15. This rapidly swirling barrier forms in a 8 diameter around the user. This wall also has an outward pushing air current strength of 15. For every additional 8ChP, the diameter increases by +4m, it's DP and strength increases by +5. This wind wall can be continuously risen for an additional 8Chp per round, which also restores 10DP per round to the barrier.
+
+[|] Raiton: Rairyūdan no Jutsu [|]
+[Bcu][|] Lightning Style: Lightning Dragon Bullet Technique [|]
+
+[Bc]Rank:
+[c]B-Rank, Active
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Lighting
+[BC]Prerequisite 
+[C]100 Chakra Control
+[Bc]Cost:
+[C]20 Chakra Points
+[Bc]Description:
+[C]The user moulds the electricity into the shape of a dragon, which they then direct at a target. The lightning crashes through the target, dealing significant physical damage, and shocks. The more talented the user, the greater the amount of lightning that the dragon can be made from and electricity produced.
+
+[C]This fierce storm has a diameter of 2 meters, and can stretch out up to 16 meters in length! The sheer force of impact from this beast deals 25 damage, +1 Shock, and easily knock prone any unable to evade the user's ROP +15. For each additional 10ChP, a skilled castor may increase the size by 1 meter in width and 4 meters in length, increasing the Damage by +10, +1 Shock, and ROP by +7.
+
+[|] Raiton: Denki Ken no Jutsu [|]
+ 
+[|] Lightning style: Electric fist technique[|]
+ 
+
+ 
+Rank:
+ 
+B-Rank, Active
+ 
+Technique:
+ 
+Ninjutsu, taijutsu
+ 
+Element:
+ 
+Lightning
+Prerequisite 
+ 
+60 chakra control
+ 
+Cost:
+ 
+25 Chakra Points
+ 
+Description:
+ 
+ The user encases their fist in lightning while also enhancing their strength via chakra, this in turn allows their next attack to pack a punch. +25 Damage, t1 Shock. For every 6 chakra put into this move the power of the attack is enhanced by 5 and the effect of the shock is increased by one tier.
+
+[|] Raiton: Raijinheki [|]
+[Bcu][|] Lightning Style: Thunder Wall  [|]
+
+[Bc]Rank:
+[c]B-Rank, Active, Reactive
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Lightning 
+[BC]Prerequisite 
+[C]50 Chakra Control, 15 Ninjutsu
+[Bc]Cost:
+[C]16 Chakra Points
+[Bc]Description:
+[C]The user creates a spherical barrier of lghtning as a form of defense, the electricity instantly forms out and takes shape. The barrier itself is also coated with chakra, making its strength incomparable to that of even lightning!
+
+[C]In it's lowest form, it has a DP of 15. This electical barrier forms in a 7 diameter around the user. This wall also deals 15 damage to whatever touches it as well as causing a 1T Shock. For every additional 8ChP fed into this field increases, the diameter increases by +3 meters, Shock by +1T,  and both DP and Damage increase by +10. This thunder barrier can be continuously risen for an additional 8Chp per round, which also restores 8DP per round to the barrier.
+
+[|] Doton: Doryūdan no Jutsu [|]
+[Bcu][|] Earth Style: Earth Dragon Bullet Technique [|]
+
+[Bc]Rank:
+[c]B-Rank, Active
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Earth
+[BC]Prerequisite 
+[C]100 Chakra Control
+[Bc]Cost:
+[C]10 Chakra Points, 20ib Earth
+[Bc]Description:
+[C]The user moulds the earth into the shape of a dragon, which they then direct at a target. The rock and stone crashes upon the target, dealing significant physical damage, or, may maneuver and petrify, forming a prone statue, obstacle, bridge, or even bondage. Typically, users will use pre-existing bodies of  earth for this technique. The more talented the user, the greater the amount of earth that the dragon can be made from.
+
+[C]This fierce body of dirt and debris has a diameter of 2 meters, and can stretch out up to 16 meters in length! The sheer force of impact from this beast deals 30 damage and easily knock prone any unable to evade the user's ROP +6. The target will also be carried any remaining distance away if struck short of the earth dragon's max length, or pushed halfway if blocked. If petrified, it has a DP and Grapple Strength of 30. For each additional 5ChP and 10ib of earth, a skilled castor may increase the size by 1 meter in width and 4 meters in length, increasing the Damage by +15, or DP/Strength by +20, and ROP by +3.
+
+[|] Doton: Doryūheki [|]
+[Bcu][|] Earth Style: Earth Wall [|]
+
+[Bc]Rank:
+[c]B-Rank, Active, Reactive 
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Earth
+[BC]Prerequisite 
+[C]50 Chakra Control, 15 Ninjutsu
+[Bc]Cost:
+[C]8 Chakra Points, 16ib of Earth
+[Bc]Description:
+[C]The user creates a solid wall of earth as a form of defense. Chakra is either converted to earth within the body and then spat out to form the wall if they have 100 Chakra Control or higher, or the user can manipulate pre-existing earth to form the wall. The earth then instantly rises up and takes form. The barrier itself is also coated with chakra, making its strength incomparable to that of a normal stone. 
+
+[C]In it's lowest form, it has a DP of 30. It's size and shape are maluable to the castors needs, but the sum of it's thickness, height, and width/length can stretch no more than 15 meters. For example: 1m thick, 4m high, 10m long. For every additional 4ChP and 8ib of earth, the total size and DP increases by +10. Unlike many other natures, the Earth wall STAYS after being cast.
+
+[|] Suiton: Suiryūdan no Jutsu [|]
+[Bcu][|] Water Style: Water Dragon Bullet Technique [|]
+
+[Bc]Rank:
+[c]B-Rank, Active
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Water
+[BC]Prerequisite 
+[C]100 Chakra Control
+[Bc]Cost:
+[C]10 Chakra Points, 80oz Water
+[Bc]Description:
+[C]The user moulds water into the shape of a dragon, which they then direct at a target. The water crashes upon the target, dealing significant physical damage. Typically, users will use pre-existing bodies of water for this technique. The more talented the user, the greater the amount of water that the dragon can be made from.
+
+[C]This fierce torrent has a diameter of 2 meters, and can stretch out up to 16 meters in length! The sheer force of impact from this beast deals 24 damage and easily knock prone any unable to evade the user's ROP +8. The target will also be carried any remaining distance away if struck short of the water dragon's max length, or pushed halfway if blocked. For each additional 5ChP and 40oz, a skilled castor may increase the size by 1 meter in width and 4 meters in length, increasing the damage by +12, and ROP by +4.
+
+[|] Suiton: Suijinheki [|]
+[Bcu][|] Water Style: Water Wall [|]
+
+[Bc]Rank:
+[c]B-Rank, Active, Reactive
+[Bc]Technique:
+[c]Ninjutsu
+[Bc]Element:
+[C]Water
+[BC]Prerequisite 
+[C]50 Chakra Control, 15 Ninjutsu
+[Bc]Cost:
+[C]8 Chakra Points, 64oz Water
+[Bc]Description:
+[C]The user creates a solid wall of water as a form of defense. Chakra is either converted to water within the body and then spat out to form the wall if they have 100 Chakra Control or higher, or the user can manipulate pre-existing water to form the wall. The water then instantly rises up and takes form. The barrier itself is also coated with chakra, making its strength incomparable to that of even a waterfall. 
+
+[C]In it's lowest form, it has a DP of 20. This water wall may be projected directly in front of the castor as a 10 meter high, 4 meter wide, 1 meter thick wall, or in a 1 meter thick, 10 meter high, 4 meter diameter around the castor. This wall also has a outward pushing water current strength of 20. For every additional 4ChP and 24oz of water, the size of each dimension increases by +3, it's DP and strength increases by +9 and +18.This water wall can be continuously risen for an additional  3Chp and 24oz per round, which also restores 10DP per round to the barrier.
+
+[|] Suiton: Mizudeppō no Jutsu [|]
+ 
+[|] Water Style: Water Gun jutsu [|]
+ 
+
+ 
+Rank:
+ 
+ B-Rank, Active
+ 
+Technique:
+ 
+ Ninjutsu
+ 
+Element:
+ 
+Water
+ 
+Prerequisite 
+ 100 Chakra Control
+ 
+Cost: 
+ 
+10 Chakra Points, 80oz Water
+ 
+Description:
+ 
+The user extends out their finger, compressing a drop of water at their fingertip before firing it with tremendous, pressurized force!
+
+This water pressure is so great that it can easily cut through solid stone or even samurai armor, the stats of a single one of these highly pressurized pellets of water are , (Water Bullet <§, 10Dmg, +15ROP, -2ROP/shot>).
+The castor may feed this jutsu 10 more ChP and 20oz to rapidly fire a second water bullet, or to double it's size and power. Rapidly firing more than one reduces the ROP of every shot fired. This, as other jutsu, can be amplified to charge a Water Bullet or rapid fire up to the 10th tier in a single action.
+
+[|] Shienjin [|]
+[Bcu][|] Violet Flame Formation [|]
+
+[Bc]Rank:
+[c]B-Rank, Active
+[Bc]Technique:
+[c]Fuinjutsu
+[Bc]Element:
+[C]Fire, Yin
+[BC]Prerequisite 
+[C]50 Chakra Control, 15 Fuinjutsu
+[Bc]Cost:
+[C]ChP = (DP÷#Castors), 1oz Blood of Castor 
+[Bc]Description:
+[C]This technique is typically performed by a team for greatest efficiency, however, an individual may perform this technique. If a team of shinobi perform this jutsu together, they stand in a symmetrical formation and then perform this technique, erecting a solid barrier between them that even souls may not pass through... The barrier is made of purple flames, which will instantly engulf those who come into contact with it, thus preventing anyone from entering or leaving the area. Because the barrier relies on all users to maintain, unable to do anything but hold stationary and concentrate on the barrier. Attacking any one of them can bring down the barrier, To prevent this from happening, castors extend secondary barriers around themselves, making breaking out even more difficult.
+
+[C]The shape of this barrier is dependent on the number of users, from one user forming a sphere around themselves, a pair forming a cylindrical barrier, a trio forming a pyramid, all the way up to a max of ten users forming a Decagonal Prism! The size, strength,  and cost of these barriers is dependent an the amount, and will power, of the castors.
+
+[C]The cost is the total DP of the barrier split equally between the castors. The total "Will" of the castor(s) determines the DP of this barrier. Touching this barrier will inflict 1 Tier of Burn (Lit) equal to the number of users, dealling immediate damage of said tier level. Castors may be no farther apart from eachother than their R.O.P. in meters.
+
+[C]The size of an individual sphearical barrier reaches a diameter of meters equal to their Will. The cylindrical barrier's Diameter + Hieght = Total Will. A barrier formed by two agents creates the ony flat shape, raising a wall between the shinobi, the alength + Hieght = Total Will, neither dimension may larger than either of their ROP. The Pyramid and upward through the rest of the prism shapes, formed by multiple castors is meters equal to their total Will that may be split between the shape's side Lengths and Height. No side or hieght may be smaller than half of any of the castor's Will scores, or larger than their ROP.
+
+[|] Gankyū Ishoku Ijutsu [|]
+ 
+[|] Occular Transplant Healing Art [|]
+
+ 
+Rank:
+ 
+B-Rank,Active
+ 
+Technique:
+ 
+Iryojutsu
+ 
+Element:
+ 
+N/A
+ 
+Prerequisite 
+ 100 Iryojutsu,100 Intellgence
+ 
+Cost:
+ 
+25% Of the users chakra per eye
+ 
+Description:
+ 
+A special iryojutsu that allows a person to transplant a set of eyes either into their own body or someone elses. This iryojutsu has been used to help people who have lost eyes in their life or transplant powerful dojutsu such as the Sharingan or Byakugan.
+
+In order to perform this surgery iryojutsu the user must have a working pair of eyes from another person then very carefuly remove the eyes from the patient they are working on, once that is completed, they can transplant the other set of eyes and reconnect the tendons and chakra strings together using medical chakra. The user could also perform this surgery on themself with the help of a clone. Once the eye transplant has been completed the patient will be completely blind for 26hours and must wear bandages over their eyes, if this is removed somehow they will suffer heavy damage to their eyesight since the eyes are not fully adjusted to their new host.
