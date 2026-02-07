@@ -21,7 +21,7 @@ const MAX_CROSS_CLAN = 3;
 export default function UserProfilePage() {
   const router = useRouter();
   const params = useParams();
-  const username = params.username as string;
+  const username = params && typeof params === 'object' && 'username' in params ? (params.username as string) : undefined;
 
   const [characters, setCharacters] = useState<any[]>([]);
 

@@ -16,7 +16,7 @@ import {
 
 export default function PostDetailPage() {
   const params = useParams();
-  const postId = params.id as string;
+  const postId = params && typeof params === 'object' && 'id' in params ? (params.id as string) : undefined;
 
   const [post, setPost] = useState<any>(null);
   const [comments, setComments] = useState<any[]>([]);
@@ -29,6 +29,7 @@ export default function PostDetailPage() {
     if (!postId) return;
 
     async function fetchPost() {
+      if (!postId) return;
       const snap = await getDoc(doc(db, "posts", postId));
       if (snap.exists()) {
         setPost({ id: snap.id, ...snap.data() });
@@ -36,24 +37,27 @@ export default function PostDetailPage() {
       setLoading(false);
     }
 
-    fetchPost();
+    if (postId) fetchPost();
 
     // 🔥 SUBCOLLECTION — NO INDEX REQUIRED
-    const commentsRef = collection(db, "posts", postId, "comments");
-    const q = query(commentsRef, orderBy("createdAt", "asc"));
+    if (postId) {
+      const commentsRef = collection(db, "posts", postId, "comments");
+      const q = query(commentsRef, orderBy("createdAt", "asc"));
 
-    const unsub = onSnapshot(q, (snapshot) => {
-      setComments(
-        snapshot.docs.map((d) => ({ id: d.id, ...d.data() }))
-      );
-    });
+      const unsub = onSnapshot(q, (snapshot) => {
+        setComments(
+          snapshot.docs.map((d) => ({ id: d.id, ...d.data() }))
+        );
+      });
 
-    return () => unsub();
+      return () => unsub();
+    }
   }, [postId]);
 
   async function handleComment(e: React.FormEvent) {
     e.preventDefault();
-    if (!comment.trim() || !auth.currentUser) return;
+
+    if (!comment.trim() || !auth.currentUser || !postId) return;
 
     setCommentLoading(true);
 
@@ -72,6 +76,7 @@ export default function PostDetailPage() {
       createdAt: serverTimestamp(),
     };
     console.log("Comment data to Firestore:", commentData);
+
     await addDoc(
       collection(db, "posts", postId, "comments"),
       commentData
