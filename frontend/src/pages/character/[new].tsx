@@ -1,6 +1,3 @@
-export async function getServerSideProps() {
-  return { props: {} };
-}
 import CharacterCreationForm from '@/components/CharacterCreationForm';
 import { useEffect } from 'react';
 
